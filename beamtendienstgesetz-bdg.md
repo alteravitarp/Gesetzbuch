@@ -31,8 +31,6 @@
 
 (6). Dokumentationspflicht: Beamte sind dazu verpflichtet Einsätze entsprechend der internen Richtlinien der jeweiligen Organisationen zu dokumentieren.
 
-(7). Dienstpflicht: Alle Beamten sind dazu verpflichtet, während diese im Dienst der Organisation sind, **keine** privaten Aktivitäten nachzugehen.
-
 ## §3 Allgemeine Befugnisse von Beamten
 
 (1). Platzverweise: Ein Beamter kann auf Grundstücken innerhalb seiner Zuständigkeit einzelne Personen oder Personengruppen, zeitlich des Platzes verweisen.

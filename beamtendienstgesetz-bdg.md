@@ -1,3 +1,9 @@
+---
+label: Beamtendienstgesetz (BDG)
+layout: page
+order: 3
+---
+
 # Beamtendienstgesetz (BDG)
 
 ## §1 Gültigkeit

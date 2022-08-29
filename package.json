@@ -1,0 +1,17 @@
+{
+  "name": "Gesetzbuch",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "retype build"
+  },
+  "dependencies": {
+      "retypeapp": "^2.4.0"
+  },
+  "devDependencies": {
+  },
+  "eslintConfig": {
+  },
+  "browserslist": [
+  ]
+}

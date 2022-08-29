@@ -1,6 +1,6 @@
-input: .
-output: dist
-url: # Add your website address here
+input: src/
+output: dist/
+url: gesetz.alteravitarp.de
 branding:
   title: Gesetzbücher
   label: IC

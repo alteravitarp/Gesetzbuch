@@ -35,7 +35,4 @@
 
 ## §3 Allgemeine Befugnisse von Beamten
 
-
-
-
-
+(1). Platzverweise: Ein Beamter kann auf Grundstücken innerhalb seiner Zuständigkeit einzelne Personen oder Personengruppen, zeitlich des Platzes verweisen.

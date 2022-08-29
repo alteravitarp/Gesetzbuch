@@ -18,3 +18,6 @@ edit:
 
 editor:
   enabled: false
+
+markdown:
+  lineBreaks: hard

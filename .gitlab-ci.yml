@@ -4,7 +4,7 @@ include:
   - project: 'general/ci-templates'
     file: 'yarn.gitlab-ci.yml'
   - project: 'general/ci-templates'
-    file: 'docker.gitlab-ci.yml'
+    file: 'docker-img.gitlab-ci.yml'
   - project: 'general/ci-templates'
     file: 'deployment-api.gitlab-ci.yml'
 

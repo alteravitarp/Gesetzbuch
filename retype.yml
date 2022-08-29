@@ -3,9 +3,18 @@ output: dist
 url: # Add your website address here
 branding:
   title: Gesetzbücher
-  label: Docs
+  label: IC
 links:
-  - text: Getting Started
-    link: https://retype.com/guides/getting-started/
+  - text: Discord
+    link: https://discord.gg/alteravita
+    icon: ':phone:'
+
 footer:
   copyright: "&copy; Copyright . All rights reserved."
+
+edit:
+  repo: 'https://git.r3ktm8.de/fivem/gesetzebuch'
+  label: Edit on GitLab
+
+editor:
+  enabled: false

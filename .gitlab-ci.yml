@@ -3,3 +3,5 @@ include:
     file: 'workflow.gitlab-ci.yml'
   - project: 'general/ci-templates'
     file: 'yarn.gitlab-ci.yml'
+  - project: 'general/ci-templates'
+    file: 'docker.gitlab-ci.yml'

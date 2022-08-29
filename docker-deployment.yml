@@ -1,0 +1,14 @@
+version: v1
+services:
+  - name: copnet_api_alteravitarp_de
+    image: registry.r3ktm8.de/fivem/cop-med-adm-net:{CI_COMMIT_TAG}
+    hostname: api.gov.alteravitarp.de
+    network: web
+    environment:
+      TZ: "Europe/Berlin"
+      SPRING_DATASOURCE_URL: '{PROD_SPRING_DATASOURCE_URL}'
+      SPRING_DATASOURCE_USERNAME: '{PROD_SPRING_DATASOURCE_USERNAME}'
+      SPRING_DATASOURCE_PASSWORD: '{PROD_SPRING_DATASOURCE_PASSWORD}'
+      SPRING_FRONTEND_URL: 'https://gov.alteravitarp.de'
+    ingress:
+      type: traefik

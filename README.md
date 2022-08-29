@@ -1,2 +1,0 @@
-# Grundgesetz (GG)
-

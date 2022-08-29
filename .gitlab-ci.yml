@@ -5,3 +5,11 @@ include:
     file: 'yarn.gitlab-ci.yml'
   - project: 'general/ci-templates'
     file: 'docker.gitlab-ci.yml'
+  - project: 'general/ci-templates'
+    file: 'deployment-api.gitlab-ci.yml'
+
+
+variables:
+  DEPLOYMENT_SPEC_FILE: 'docker-deployment.yml'
+  DEPLOYMENT_SPEC_NAME_STAGING: 'gesetzebuch_web'
+  DEPLOYMENT_AUTO_STAGING: 'yes'

@@ -1,7 +1,7 @@
 ---
 label: Beamtendienstgesetz (BDG)
 layout: default
-order: 50
+order: 80
 icon: ':cop:'
 ---
 
@@ -12,9 +12,9 @@ icon: ':cop:'
 [!badge size="s" variant="dark" text="1."] Unter das Beamtendienstgesetz fallen alle Mitarbeiter der folgenden Organisationen
 
 * :cop: Bundespolizei
+* :cop: Bundeszollverwaltung <small>(teil der Bundespolizei)</small>
 * :health_worker: Deutsches Rotes Kreuz
 * :office_worker: Bundesregierung
-* :cop: Bundeszollverwaltung
 * :firefighter: Berufsfeuerwehr
 
 [!badge size="s" variant="dark" text="2."] Im Falle einer Bedrohung muss das Überleben beteiligter Personen nach der folgenden Priorisierung sichergestellt werden:
@@ -32,6 +32,7 @@ icon: ':cop:'
 [!badge size="s" variant="dark" text="4."] **Folgepflicht**: Jeder Beamte muss die Anweisungen ihres Vorgesetzen folge leisten.
 [!badge size="s" variant="dark" text="5."] **Schweigepflicht**: Beamte dürfen keine Informationen über Einsätze der Bundespolizei, Patienten, Opfer und Straftäter an Dritte, ohne Dienstlichen Grund, weitergeben.
 [!badge size="s" variant="dark" text="6."] **Dokumentationspflicht**: Beamte sind dazu verpflichtet Einsätze entsprechend der internen Richtlinien der jeweiligen Organisationen zu dokumentieren.
+[!badge size="s" variant="dark" text="7."] **Professionalität**: Beamte sind dazu verpflichtet, ihre Arbeit immer professionell und behutsam durchzuführen.
 
 ## §3 Befugnisse der Beamten
 
@@ -50,14 +51,19 @@ icon: ':cop:'
 * Bestehender Anfangsverdacht einer Straftat
 * Missachtung von Anweisung oder vorsätzlicher Widerstand gegen Vollstreckungsbeamte
 
-[!badge size="s" variant="dark" text="4."] **Hilfsmittel**: Jeder Beamte ist speziell geschult den Elektroschocker, Smartphone und Funkgerät während seines Dienstes im Einsatz zu benutzen.
-[!badge size="s" variant="dark" text="5."] **Sonder- und Wegerechte**: 
+[!badge size="s" variant="dark" text="4."] **Hilfsmittel**: Beamte dürfen folgende Hilfsmittel während dem Dienst und im Fahrzeug verwenden:
 
-* Eindeutig durch Einsatzbeleuchtung und Sirene kenntlich gemachte Fahrzeuge, welche von Beamten geführt werden, sind von der StVO befreit, müssen aber unter allen Umständen Gefahren für die Öffentlichkeit vermeiden.
-* Eindeutig als staatlich gekennzeichnete Hubschrauber/Flugzeuge, sind von dem §6 der StVOs befreit.
+* Telefon
+* Funkgerät
+* Navigationsgerät
 
+[!badge size="s" variant="dark" text="5."] **Sonder- und Wegerechte**: Eindeutig durch Einsatzbeleuchtung und Sirene kenntlich gemachte Fahrzeuge sowie Hubschrauber und Flugzeuge, welche von Beamten geführt werden, sind von der StVO befreit, müssen aber unter allen Umständen Gefahren für die Öffentlichkeit vermeiden.
 [!badge size="s" variant="dark" text="6."] **Straßensperren**: Beamte sind dazu befugt Straßensperren zu errichten, um Unfälle oder notwendige Arbeiten auf der Straße abzusichern. Diese sind so schnell wie möglich wieder zu entfernen, um den fließenden Verkehr so wenig wie möglich zu behindern.
-[!badge size="s" variant="dark" text="7."] **Strafe verhängen**: Die Beamten der Regierung, Polizei und des Zolls, haben die Befugnis gemäß des Gesetzbuches §0, Bußgelder und Haftstrafen zu erteilen und durchzusetzen. Hierbei ist das Vorlesen der Rechte essentiell, außerdem wird der Gefangenentransport zur JVA ausschließlich mit dem dafür vorgesehen Transporter absolviert.
+[!badge size="s" variant="dark" text="7."] **Strafe verhängen**: Die Beamten der Regierung, Polizei und des Zolls, haben die Befugnis gemäß des Gesetzbuches §0, Bußgelder und Haftstrafen zu erteilen und durchzusetzen.
+[!badge size="s" variant="dark" text="8."] **Inhaftierung und Transport von Straftätern**: Um einen Straftäter zu inhaftieren, ist es essentiell diesem seine Rechte vorzulesen. Der Transport von Straftätern darf nur in den dafür vorgesehenen Fahrzeugen durchgeführt werden:
+
+a. Polizei Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
+b. Regierungsfahrzeuge aller Art (keine Zivil-Fahrzeuge)
 
 ## §4 Allgemeine Befugnisse eines Polizei- und Zollbeamten
 [!badge size="s" variant="dark" text="1."] **Auskunfts- und Identitätsprüfungsrecht**: Ein Polizeibeamter hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Polizei die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Revier, den Status ihrer Strafakte mitzuteilen.

@@ -7,13 +7,16 @@ branding:
 links:
   - text: Discord
     link: https://discord.gg/alteravita
-    icon: ':phone:'
+    icon: https://img.icons8.com/material-outlined/344/discord-logo.png
+  - text: Government Network
+    link: https://stage-gov.alteravitarp.de
+    icon: ':desktop_computer:'
 
 footer:
   copyright: "&copy; Copyright . All rights reserved."
 
 edit:
-  repo: 'https://git.r3ktm8.de/fivem/gesetzebuch'
+  repo: 'https://git.r3ktm8.de/-/ide/project/fivem/gesetzebuch/edit/master/-/src/'
   label: Edit on GitLab
 
 editor:

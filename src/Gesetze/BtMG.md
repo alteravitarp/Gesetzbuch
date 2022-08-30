@@ -16,7 +16,7 @@ c. Crotonöl sowie Tilidin,
 d. Cannabis daraus herstellbare Joints, Cookies und Brownies
 e. Schnaps sowie Rum.
 
-(2). Der Anbau, das Ernten, das Verarbeiten sowie der Handel von Betäubungsmitteln aus (1) ist verboten.
+(2). Der Anbau, das Ernten, das Verarbeiten sowie der Handel von Betäubungsmitteln aus (1) ist verboten. :cop:
 
 
 <style>

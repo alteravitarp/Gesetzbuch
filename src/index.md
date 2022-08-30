@@ -1,10 +1,15 @@
 ---
-label: Grundgesetz (GG)
+label: Gesetze & Kataloge
 layout: default
 order: 100
 icon: ":rocket:"
 ---
 
-# Grundgesetz (GG)
+# Gesetze & Kataloge
 
-Hallo Welt
+Auf dieser Webseite findest du alles rund um :book: [Gesetze](/gesetze/GG.md) und :euro: [Bußgelder](/bußgelder/Allgemein.md).
+
+
+!!!warning **Wichtig**
+Die hier beschriebenen Gesetze und Bußgelder sind nicht in der realen Welt gültig und beziehen sich ausschließlich auf die Spielwelt von _**Altera Vita RP**_ im Videospiel _**Grand Theft Auto 5**_.
+!!!

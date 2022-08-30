@@ -1,5 +1,5 @@
 ---
-label: Beamtendienstgesetz (BDG)
+label: Beamtendienstgesetz
 layout: default
 order: 80
 icon: ':cop:'

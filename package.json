@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "retype build",
+    "build": "node .\\build.js build retype_prod.yml",
     "watch": "retype watch"
   },
   "dependencies": {
+    "fs-extra": "^10.1.0",
     "glob": "^8.0.3",
     "retypeapp": "^2.4.0"
   },

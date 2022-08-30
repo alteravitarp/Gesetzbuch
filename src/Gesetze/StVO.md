@@ -23,7 +23,7 @@ Klasse **SBF**     | Boote
 
 
 (2). Während des fahrens, ist es die Pflicht, seinen Führerschein mitzuführen. Die Regierung & Polizei hat jederzeit das Recht sich diesen während einer Verkehrskontrolle vorzeigen zu lassen.
-(3). Wer sich nicht an die Verkehrsregeln hält, wird max. 9 Punkte sammeln und läuft Gefahr, dass der Führerschein eingezogen oder ein Fahrverbot ausgesprochen wird.
+(1). Wer sich nicht an die Verkehrsregeln hält, wird max. 9 Punkte sammeln und läuft Gefahr, dass der Führerschein eingezogen oder ein Fahrverbot ausgesprochen wird.
 
 
 <style>

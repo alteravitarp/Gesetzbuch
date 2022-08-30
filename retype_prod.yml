@@ -1,0 +1,26 @@
+input: build/
+output: dist/
+url: gesetz.alteravitarp.de
+branding:
+  title: Gesetzbücher
+  label: IC
+links:
+  - text: Discord
+    link: https://discord.gg/alteravita
+    icon: https://img.icons8.com/material-outlined/344/discord-logo.png
+  - text: Government Network
+    link: https://stage-gov.alteravitarp.de
+    icon: ':desktop_computer:'
+
+footer:
+  copyright: "&copy; Copyright . All rights reserved."
+
+edit:
+  repo: 'https://git.r3ktm8.de/-/ide/project/fivem/gesetzebuch/edit/master/-/src/'
+  label: Edit on GitLab
+
+editor:
+  enabled: false
+
+markdown:
+  lineBreaks: hard

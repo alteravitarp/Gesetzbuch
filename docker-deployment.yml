@@ -4,7 +4,5 @@ services:
     image: registry.r3ktm8.de/fivem/gesetzebuch:unstable
     hostname: gesetz.alteravitarp.de
     network: web
-    environment:
-      TZ: "Europe/Berlin"
     ingress:
       type: traefik

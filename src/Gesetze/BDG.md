@@ -74,7 +74,7 @@ b. Regierungsfahrzeuge aller Art (keine Zivil-Fahrzeuge)
 [!badge size="s" variant="dark" text="5."] **Razzien**: Razzien müssen bei der Regierung beantragt und können nur unter den Bedingungen in §7 Abs. 1 b StGB genehmigt und durchgeführt werden. 
 
 ## §5 Immunität für Staatsbeamte
-[!badge size="s" variant="dark" text="1."] Wegen einer mit Strafe bedrohten Handlung darf einer der in §5 Abs. 2 genannten Staatsbeamten nur mit Genehmigung eines Ministers oder des Bundeskanzlers zur Verantwortung gezogen oder verhaftet werden.
+[!badge size="s" variant="dark" text="1."] Wegen einer mit Strafe bedrohten Handlung darf einer der in [!badge size="s" variant="ghost" text="§5 Abs. 2"] genannten Staatsbeamten nur mit Genehmigung eines Ministers oder des Bundeskanzlers zur Verantwortung gezogen oder verhaftet werden.
 [!badge size="s" variant="dark" text="2."] Folgende Mitarbeiter fallen unter das Immunitätsgesetz §5:
 
 a. Bundeskanzler / Vizekanzler (und deren Ehepartner)
@@ -85,8 +85,8 @@ e. Präsident und Vizepräsident der Polizei
 f. Ärztlicher Direktor und Chefarzt des Deutschen Roten Kreuzes
 g. Leitender Branddirektor und Leitender Rettungsdienst
 
-[!badge size="s" variant="dark" text="3."] Jedes Strafverfahren und jedes Verfahren gegen einen Staatsbeamten, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in §5 Abs 2. a/b/c genannten Staatsbeamten auszusetzen.
-[!badge size="s" variant="dark" text="4."] Die Immunität kann jederzeit vom Bundeskanzler annulliert und aufgehoben werden. Werden die Personen in §5 Abs 2 während der Immunitäts Zeit Straftätig, können die Strafen trotzdem im Nachgang vom Bundeskanzler bestraft werden. Dies ist nur wiederum möglich, wenn die Dienstaufsichtsbehörde genügend belastbare Beweise vorweisen kann.
+[!badge size="s" variant="dark" text="3."] Jedes Strafverfahren und jedes Verfahren gegen einen Staatsbeamten, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in [!badge size="s" variant="ghost" text="§5 Abs. 2a/b/c"] genannten Staatsbeamten auszusetzen.
+[!badge size="s" variant="dark" text="4."] Die Immunität kann von einem in [!badge size="s" variant="ghost" text="§5 Abs. 2a"] genannten Staatsbeamten temporär ausgesetzt werden. Die Strafverfolgung ist im äußersten Notfall durch die Dienstaufsichtsbehörde der Bundesregierung möglich. Eine begangene Straftat kann von der Dienstaufsichtbehörde auch dann bestraft werden, wenn diese innerhalb der Zeit begangen wurde, in der der Täter Immunität genossen hat.
 
 ## §6 Allgemeine Befugnisse der Regierungsbeamten
 [!badge size="s" variant="dark" text="1."] **Auskunfts- und Identitätsprüfung Recht**: Ein Regierungsbeamte hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Regierung die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Regierungsgebäude, den Status ihrer Strafakte mitzuteilen.

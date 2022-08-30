@@ -33,6 +33,7 @@ icon: ':cop:'
 [!badge size="s" variant="dark" text="5."] **Schweigepflicht**: Beamte dürfen keine Informationen über Einsätze der Bundespolizei, Patienten, Opfer und Straftäter an Dritte, ohne Dienstlichen Grund, weitergeben.
 [!badge size="s" variant="dark" text="6."] **Dokumentationspflicht**: Beamte sind dazu verpflichtet Einsätze entsprechend der internen Richtlinien der jeweiligen Organisationen zu dokumentieren.
 [!badge size="s" variant="dark" text="7."] **Professionalität**: Beamte sind dazu verpflichtet, ihre Arbeit immer professionell und behutsam durchzuführen.
+[!badge size="s" variant="dark" text="8."] **Korruption**: Beamten dürfen ihren Beruf nicht für kriminelle Zwecke ausnutzen, absichtlich gegen Geld Fehler machen oder andere, für Dritte gewinnbringende, Informationen weitergeben.
 
 ## §3 Befugnisse der Beamten
 
@@ -51,7 +52,7 @@ icon: ':cop:'
 * Bestehender Anfangsverdacht einer Straftat
 * Missachtung von Anweisung oder vorsätzlicher Widerstand gegen Vollstreckungsbeamte
 
-[!badge size="s" variant="dark" text="4."] **Hilfsmittel**: Beamte dürfen folgende Hilfsmittel während dem Dienst und im Fahrzeug verwenden:
+[!badge size="s" variant="dark" text="4."] **Hilfsmittel**: Beamte dürfen folgende Hilfsmittel während dem Dienst und im Fahrzeug während der Fahrt verwenden:
 
 * Telefon
 * Funkgerät

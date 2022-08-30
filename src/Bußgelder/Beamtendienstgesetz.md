@@ -3,3 +3,45 @@ label: Beamtendienstgesetz
 icon: ':bookmark_tabs:'
 order: 98
 ---
+
+## [§2 Pflichten aller Beamten](../Gesetze/BDG.md#2-pflichten-aller-beamten)
+
+
+§2 BDG        | Pflichten aller Beamten              | Strafe               | Hafteinheiten | Bußgeld  { class="compact" }
+--------------|--------------------------------------|----------------------|--------------:|----------------------------:
+§2 Abs. 1 BDG | Verletzung der Meldepflicht          | -                    |             0 |                    100.000 €
+§2 Abs. 2 BDG | Verletzung der Ausweispflicht        | -                    |             0 |                     50.000 €
+§2 Abs. 3 BDG | Verletzung der Behandlungspflicht    | -                    |             0 |                    150.000 €
+§2 Abs. 4 BDG | Verletzung der Folgepflicht          | -                    |             0 |                    100.000 €
+§2 Abs. 5 BDG | Verletzung der Schweigepflicht       | -                    |             0 |                    150.000 €
+§2 Abs. 6 BDG | Verletzung der Dokumentationspflicht | -                    |             0 |                     50.000 €
+§2 Abs. 7 BDG | Nicht diensttaugliches Verhalten     | -                    |             0 |                    100.000 €
+§2 Abs. 8 BDG | Korruption                           | sofortige Entlassung |           200 |                     50.000 €
+
+## [§3 Befugnisse der Beamten](../Gesetze/BDG.md#3-befugnisse-der-beamten)
+
+§3 BDG        | Pflichten aller Beamten                         | Strafe                             | Hafteinheiten | Bußgeld  { class="compact" }
+--------------|-------------------------------------------------|------------------------------------|--------------:|----------------------------:
+§2 Abs. 1 BDG | Unverhältnismäßiger Platverweis                 | -                                  |             0 |                     20.000 €
+§2 Abs. 2 BDG | Unzulässiges durchsuchen von Personen           | -                                  |             0 |                    100.000 €
+§2 Abs. 2 BDG | Unzulässiges durchsuchen von Fahrzeugen         | -                                  |             0 |                     75.000 €
+§2 Abs. 3 BDG | Unberechtigter Einsatz des Elektroschockers     | -                                  |             0 |                    150.000 €
+§2 Abs. 3 BDG | Unberechtigter Einsatz des Handschellen         | -                                  |             0 |                    100.000 €
+§2 Abs. 5 BDG | Unberechtigter gebrauch von Einsatzsignalen     | -                                  |             0 |                     50.000 €
+§2 Abs. 6 BDG | Unnötiges absperren von Straßen                 | -                                  |             0 |                     25.000 €
+§2 Abs. 7 BDG | Unverhältnismäßiges Bußgeld berechnet           | ausgestelltes Bußgeld +50%         |             0 |                    100.000 €
+§2 Abs. 7 BDG | Unverhältnismäßig hohe Hafteinheiten angewendet | 2.000€ / unrechtmäßige Hafteinheit |             0 |                    200.000 €
+§2 Abs. 8 BDG | Korruption                                      | sofortige Entlassung               |           200 |                     50.000 €
+
+
+<style>
+th {
+    background-color: #7B68EE;
+    font-size: bolder;
+    color: white !important;
+}
+
+.sidebar-right {
+    display: none;
+}
+</style>

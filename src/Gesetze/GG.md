@@ -2,7 +2,7 @@
 label: Grundgesetz
 layout: default
 order: 100
-icon: ":judge:"
+icon: ":trophy:"
 ---
 
 # Grundgesetz (GG)

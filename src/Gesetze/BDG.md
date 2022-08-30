@@ -11,18 +11,18 @@ icon: ':cop:'
 
 (1). Unter das Beamtendienstgesetz fallen alle Mitarbeiter der folgenden Organisationen
 
-* :cop: Bundespolizei
-* :cop: Bundeszollverwaltung <small>(teil der Bundespolizei)</small>
-* :health_worker: Deutsches Rotes Kreuz
-* :office_worker: Bundesregierung
-* :firefighter: Berufsfeuerwehr
+a. :cop: Bundespolizei
+b. :cop: Bundeszollverwaltung <small>(teil der Bundespolizei)</small>
+c. :health_worker: Deutsches Rotes Kreuz
+d. :office_worker: Bundesregierung
+e. :firefighter: Berufsfeuerwehr
 
 (2). Im Falle einer Bedrohung muss das Überleben beteiligter Personen nach der folgenden Priorisierung sichergestellt werden:
 
-* Eigensicherung
-* Sicherung andere Beamten
-* Sicherung von Zivilisten
-* Sicherung eventueller Straftäter
+a. Eigensicherung
+b. Sicherung andere Beamten
+c. Sicherung von Zivilisten
+d. Sicherung eventueller Straftäter
 
 ## §2 Pflichten aller Beamten
 

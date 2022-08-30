@@ -1,0 +1,7 @@
+# basic project files for deployment
+retype* @SeaLife
+.gitlab-ci.yml @SeaLife
+build.js @SeaLife
+package.json @SeaLife
+Dockerfile @SeaLife
+docker-deployment.yml @SeaLife

@@ -13,3 +13,10 @@ variables:
   DEPLOYMENT_SPEC_FILE: 'docker-deployment.yml'
   DEPLOYMENT_SPEC_NAME_STAGING: 'gesetzebuch_web'
   DEPLOYMENT_AUTO_STAGING: 'yes'
+
+# overwrite yarn build step to ensure its only running on master branch
+yarn build stage:
+  rules:
+    - if: '$CI_COMMIT_REF_NAME == "master"'
+      exists:
+        - package.json

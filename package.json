@@ -7,12 +7,10 @@
     "watch": "retype watch"
   },
   "dependencies": {
-      "retypeapp": "^2.4.0"
+    "glob": "^8.0.3",
+    "retypeapp": "^2.4.0"
   },
-  "devDependencies": {
-  },
-  "eslintConfig": {
-  },
-  "browserslist": [
-  ]
+  "devDependencies": {},
+  "eslintConfig": {},
+  "browserslist": []
 }

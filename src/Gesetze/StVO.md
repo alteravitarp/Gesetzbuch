@@ -77,8 +77,8 @@ b. ein Kraftfahrzeug oder einen Kraftfahrzeuganhänger mit einer anderen als der
 c. das an einem Kraftfahrzeug oder einem Kraftfahrzeuganhänger angebrachte amtliche Kennzeichen verändert, beseitigt, verdeckt oder sonst in seiner Erkennbarkeit beeinträchtigt, macht sich Strafbar.
 
 ## §5 StVO Geschwindigkeit und Verkehrszeichen
-(1). Auf der kompletten Insel besteht Rechtsfahrgebot.
-(2). Fahrzeuge müssen die Fahrbahnen benutzen, von zwei Fahrbahnen die rechte. Seitenstreifen sind nicht Bestandteil der Fahrbahn.
+(1). Auf allen öffentlich zugänglichen Straßen besteht ein Rechtsfahrgebot.
+(2). Fahrzeuge müssen die Fahrbahnen benutzen, von zwei oder mehr Fahrbahnen die rechte. Seitenstreifen sind nicht Bestandteil der Fahrbahn.
 (3). Es ist möglichst weit rechts zu fahren, nicht nur bei Gegenverkehr, beim Überholtwerden, an Kuppen, in Kurven oder bei Unübersichtlichkeit.
 (4). Wer ein Fahrzeug führt, darf nur so schnell fahren, dass das Fahrzeug ständig beherrscht wird. Die Geschwindigkeit ist insbesondere den Straßen-, Verkehrs-, Sicht- und Wetterverhältnissen sowie den persönlichen Fähigkeiten und den Eigenschaften von Fahrzeug und Ladung anzupassen.
 (5). Die zulässige Höchstgeschwindigkeit beträgt auch unter günstigsten Umständen
@@ -88,18 +88,19 @@ b. DRK und ADAC Gelände 20 km/h
 c. Carcer Way, Eastbourne Way und Abe Milton Parkway 50 km/h
 d. innerhalb geschlossener Ortschaften für alle Kraftfahrzeuge 100 km/h,
 e. außerhalb geschlossener Ortschaften für alle Kraftfahrzeuge 200 km/h,
-f. auf Autobahnen für alle Kraftfahrzeuge 280 km/h.
+f. auf Autobahnen für alle Kraftfahrzeuge 200 km/h.
 
 (6). Die zulässige Höchstgeschwindigkeit kann jederzeit durch Verkehrsschilder begrenzt werden. Hierbei gilt der angezeigte Wert verdoppelt. (z.B. 100 km/h-Schild = 200 km/h erlaubte Höchstgeschwindigkeit)
-(7). Stoppschild
+(7). Die zulässige Höchstgeschwindigkeit kann durch die dynamische Verkehrsregelung verändert werden. Der angezeigte Werd wird nicht wie bei normalen Verkehrszeichen verdoppelt.
+(8). Stoppschild
 
 a. Wer ein Fahrzeug führt, muss anhalten und Vorfahrt gewähren.
 b. Wer ein Fahrzeug führt, darf bis zu 10 m vor diesem Zeichen nicht halten, wenn es dadurch verdeckt wird.
 c. Ist keine Haltlinie (Zeichen 294) vorhanden, ist dort anzuhalten, wo die andere Straße zu übersehen ist.
 
-(8). Lichtzeichen sind im kompletten Straßenverkehr nicht zu beachten. 
-(9). Ohne triftigen Grund dürfen Kraftfahrzeuge nicht so langsam fahren, dass sie den Verkehrsfluss behindern.
-(10). Blitzer müssen außerhalb der Fahrbahn, direkt angrenzend an die Fahrbahn und nicht versteckt positioniert sein. Jeder blitzende Beamte ist dazu verpflichtet, eine entsprechende Warnweste zu tragen.
+(9). Lichtzeichen sind im kompletten Straßenverkehr nicht zu beachten. 
+(10). Ohne triftigen Grund dürfen Kraftfahrzeuge nicht so langsam fahren, dass sie den Verkehrsfluss behindern.
+(11). Blitzer müssen außerhalb der Fahrbahn, direkt angrenzend an die Fahrbahn und nicht versteckt positioniert sein. Jeder blitzende Beamte ist dazu verpflichtet, eine entsprechende Warnweste zu tragen.
 
 ## §6 StVO Luftverkehr
 (1). Das Starten und Landen eines Luftfahrzeuges darf nur auf einer dafür vorgesehenen Fläche geschehen.

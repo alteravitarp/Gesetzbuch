@@ -13,11 +13,13 @@ try {
 
     glob('./build/**/*.md', {}, (err, files) => {
         files.forEach(fileName => {
-            let fh = fs.readFileSync(fileName, { encoding: 'utf8' });
+            let text = fs.readFileSync(fileName, { encoding: 'utf8' });
 
-            let numbers = fh.replace(/\((\d+)\)\./gm, '[!badge size="s" variant="dark" text="$1."] ')
+            text = text.replace(/\((\d+)\)\./gm, '[!badge size="s" variant="dark" text="$1."] ')
+            text = text.replace(/\[\[([\xA7\x20-\x2E\x3A-\x40\w]+)\]\]/gm, '[!badge size="s" variant="ghost" text="$1"]')
+            text = text.replace(/\[\[([\xA7\x20-\x2E\x3A-\x40\w]+)\]\=([a-z]+)\]/gm, '[!badge size="s" variant="$2" text="$1"]')
 
-            fs.writeFileSync(fileName, numbers, { encoding: 'utf-8' });
+            fs.writeFileSync(fileName, text, { encoding: 'utf-8' });
         });
     })
 } catch(err) {

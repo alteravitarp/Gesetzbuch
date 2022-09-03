@@ -23,8 +23,8 @@ b. ein Wohnsitz vorhanden ist
 
 (0). Der Bundestag muss aus mindestens 10 Teilnehmer(innen) bestehen, bevor dieser Gesetzesänderungen eigenmächtig durchsetzen kann.
 (1). Jeder kann Gesetzesänderungen im Bundestag vorschlagen und im Plenum über diese diskutieren.
-(2). Der Bundestag kann mit einer Abstimmung [[>= 50%]=info] der teilnehmenden Stimmen Gesetze durchsetzen, verändern oder verwerfen (außer Grundgesetz).
-(3). Der Bundestag kann mit einer Abstimmung [[>= 80%]=info] der teilnehmenden Stimmen Grundgesetze durchsetzen, verändern oder verwerfen.
+(2). Der Bundestag kann mit einer Abstimmung [[>= 50%]=warning] der teilnehmenden Stimmen Gesetze durchsetzen, verändern oder verwerfen (außer Grundgesetz).
+(3). Der Bundestag kann mit einer Abstimmung [[>= 80%]=danger] der teilnehmenden Stimmen Grundgesetze durchsetzen, verändern oder verwerfen.
 (4). Die Bundesregierung und der Bundestagpräsident kann eine Gesetzesänderung jederzeit zurückweisen, wenn diese das Grundgesetz verletzen.
 (5). Die Bundesregierung und der Bundestagpräsident kann eine Gesetzesänderung zurückweisen und eine Änderung am Entwurf fordern
 (6). Gesetze treten erst 48 Stunden nach Veröffentlichung über Weazel News in Kraft.

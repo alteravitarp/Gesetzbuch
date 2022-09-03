@@ -16,8 +16,10 @@ try {
             let text = fs.readFileSync(fileName, { encoding: 'utf8' });
 
             text = text.replace(/\((\d+)\)\./gm, '[!badge size="s" variant="dark" text="$1."] ')
-            text = text.replace(/\[\[([\xA7\x20-\x2E\x3A-\x40\w]+)\]\]/gm, '[!badge size="s" variant="ghost" text="$1"]')
-            text = text.replace(/\[\[([\xA7\x20-\x2E\x3A-\x40\w]+)\]\=([a-z]+)\]/gm, '[!badge size="s" variant="$2" text="$1"]')
+            text = text.replace(/\[\[([§ -Za-z0-9]+)\]\=?([a-z]+)?\]/gm, function(match, p1, p2, offset, string) {
+                if(p2 === undefined) p2 = 'ghost';
+                return `[!badge size="s" variant="${p2}" text="${p1}"]`
+            })
 
             fs.writeFileSync(fileName, text, { encoding: 'utf-8' });
         });

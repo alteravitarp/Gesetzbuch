@@ -26,11 +26,13 @@ b. ein vorhandenen Wohnsitz
 (2). Die Sitzung wird moderiert durch den Bundestagpräsidenten.
 (3). Für die Teilnahme an einer Sitzung wird jedem teilnehmenden Abgeordneten eine Aufwandsentschädigung von 200.000€ gezahlt.
 (4). Der Bundestag tagt jede Woche an einem [[Samstag um 21:15 Uhr]=info]
-(7). Der Bundestag setzt sich wie folgt zusammen:
+(5). Der Bundestag setzt sich wie folgt zusammen:
 
 a. gewählte Abgeordnete
 b. Minister der Bundesregierung
 c. Bundeskanzler und Vizekanzler der Regierung
+
+(6). Während der Sitzung ist die Geschäftsordnung zu beachten.
 
 ## §3 Rechtsprechung
 (0). Der Bundestag muss aus mindestens 10 Abgeordnete bestehen, bevor dieser Gesetzesänderungen eigenmächtig durchsetzen kann.
@@ -43,7 +45,11 @@ c. Bundeskanzler und Vizekanzler der Regierung
 (7). Die Bundesregierung ist dazu verpflichtet, Gesetze welche nicht durch [[§3 Abs. 5 BtagO]] abgelehnt worden sind, innerhalb von 48 Stunden zu veröffentlichen.
 
 ## §4 Steueranpassungen
-(1). Der Bundestag kann Steueranpassungen bei der Bundesregierung beantragen, solange das Steuergeldkonto nicht **100.000.000€** unterschreitet.
+(1). Der Bundestag kann Steueranpassungen bei der Bundesregierung beantragen solange
+
+a. das Steuergeldkonto nicht **100.000.000€** unterschreitet.
+b. die Abgeordneten davon nicht am meisten profitieren.
+
 (2). Die Bundesregierung kann jederzeit Steueranpassungen durchführen um den Wirtschaftshaushalt zu erhalten.
 
 ## §5 Verfügungsrahmen

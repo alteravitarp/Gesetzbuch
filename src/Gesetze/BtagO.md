@@ -19,19 +19,18 @@ b. ein vorhandenen Wohnsitz
 (5). Abgeordnete können jederzeit durch die Dienstaufsicht, der Bundesregierung oder dem Bundestagpräsidenten aus wichtigem Grund ausgeschlossen werden.
 (6). Werden mehr als 1/3 aller Abgeordnete ausgeschlossen muss der Bundestag neu gewählt werden.
 (7). Die Legislaturperiode beläuft sich auf 2 Monate.
-(8). Der Bundestag setzt sich wie folgt zusammen:
-
-a. gewählte Abgeordnete
-b. Minister der Bundesregierung
-c. Bundeskanzler und Vizekanzler der Regierung
-
-(9). Gewählt werden 15 Abgeordnete des Bundestages mit den meisten abgegebenen Stimmen.
+(8). Gewählt werden 15 Abgeordnete des Bundestages mit den meisten abgegebenen Stimmen.
 
 ## §2 Bundestagsitzung
 (1). Die Teilnehmerzahl an einer Sitzung ist auf 20 begrenzt.
 (2). Die Sitzung wird moderiert durch den Bundestagpräsidenten.
 (3). Für die Teilnahme an einer Sitzung wird jedem teilnehmenden Abgeordneten eine Aufwandsentschädigung von 200.000€ gezahlt.
-(4). Der Bundestag tagt jede Woche an einem Samstag um 21:15 Uhr
+(4). Der Bundestag tagt jede Woche an einem [[Samstag um 21:15 Uhr]=info]
+(7). Der Bundestag setzt sich wie folgt zusammen:
+
+a. gewählte Abgeordnete
+b. Minister der Bundesregierung
+c. Bundeskanzler und Vizekanzler der Regierung
 
 ## §3 Rechtsprechung
 (0). Der Bundestag muss aus mindestens 10 Abgeordnete bestehen, bevor dieser Gesetzesänderungen eigenmächtig durchsetzen kann.

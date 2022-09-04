@@ -20,6 +20,11 @@ order: 98
 [[§1 Abs. 11 GewO]=warning]  | Werbungsverbot                                        | [[1 Strike]=danger]                                  |                    0 |                      50.000€
 [[§1 Abs. 11a GewO]=warning] | Werbungsverbot für Dritte                             | [[1 Strike]=danger]                                  |                    0 |                      50.000€
 
+
+!!!danger
+Das Gewerbeamt kann ein Gewerbe beim überschreiten von 10 Strikes **dauerhaft schließen**!
+!!!
+
 <style>
 th {
     background-color: #800080;

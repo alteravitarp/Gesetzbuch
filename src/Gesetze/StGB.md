@@ -111,10 +111,3 @@ c. das Wissen über eine bevorstehende Straftat einer Dienststelle mitteilt, sod
 (2). War der Täter an der Tat beteiligt, muss sich sein Beitrag zur Aufklärung über den eigenen Tatbeitrag hinaus erstrecken.
 (3). Wer seine Geldstrafe nicht bezahlen kann, werden dies in Hafteinheiten umgerechnet. Beispiel: 1.000€  = 2 Hafteinheiten.
 
-
-<style>
-ol, .docs-markdown > ul {
-    margin-top: -20px;
-    margin-left: 25px;
-}
-</style>

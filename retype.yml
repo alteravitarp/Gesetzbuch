@@ -16,7 +16,7 @@ footer:
   copyright: "&copy; Copyright . All rights reserved."
 
 edit:
-  repo: 'https://git.r3ktm8.de/-/ide/project/fivem/gesetzebuch/edit/master/-/src/'
+  repo: 'https://github.com/alteravitarp/Gesetzbuch'
   label: Edit on GitLab
 
 editor:

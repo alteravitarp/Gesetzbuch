@@ -7,7 +7,7 @@ order: 98
 ## [§2 Pflichten aller Beamten](../Gesetze/BDG.md#2-pflichten-aller-beamten)
 
 
-§2 BDG        | Pflichten aller Beamten              | Strafe               | Hafteinheiten | Bußgeld  { class="compact" }
+§2 BDG        | Pflichten aller Beamten              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 §2 Abs. 1 BDG | Verletzung der Meldepflicht          | -                    |             0 |                    100.000 €
 §2 Abs. 2 BDG | Verletzung der Ausweispflicht        | -                    |             0 |                     50.000 €
@@ -20,7 +20,7 @@ order: 98
 
 ## [§3 Befugnisse der Beamten](../Gesetze/BDG.md#3-befugnisse-der-beamten)
 
-§3 BDG        | Befugnisse der Beamten                             | Strafe                             | Hafteinheiten | Bußgeld  { class="compact" }
+§3 BDG        | Befugnisse der Beamten                             | Strafe                             | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
 --------------|----------------------------------------------------|------------------------------------|--------------:|----------------------------:
 §3 Abs. 1 BDG | Unverhältnismäßiger Platverweis                    | -                                  |             0 |                     20.000 €
 §3 Abs. 2 BDG | Unzulässiges durchsuchen von Personen              | -                                  |             0 |                    100.000 €
@@ -35,7 +35,7 @@ order: 98
 
 ## [§4 Allgemeine Befugnisse eines Polizei- und Zollbeamten](../Gesetze/BDG.md#4-allgemeine-befugnisse-eines-polizei--und-zollbeamten)
 
-§4 BDG        | Allgemeine Befugnisse eines Polizei- und Zollbeamten   | Strafe                  | Hafteinheiten | Bußgeld  { class="compact" }
+§4 BDG        | Allgemeine Befugnisse eines Polizei- und Zollbeamten   | Strafe                  | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
 --------------|--------------------------------------------------------|-------------------------|--------------:|----------------------------:
 §4 Abs. 1 BDG | Falschauskunft                                         | -                       |             0 |                     25.000 €
 §4 Abs. 3 BDG | Nutzung einer privaten Schusswaffe ohne Genehmigung    | -                       |             0 |                    250.000 €
@@ -46,7 +46,7 @@ order: 98
 
 ## [§6 Allgemeine Befugnisse der Regierungsbeamten](../Gesetze/BDG.md#6-allgemeine-befugnisse-der-regierungsbeamten)
 
-§6 BDG        | Allgemeine Befugnisse der Regierungsbeamten            | Strafe | Hafteinheiten | Bußgeld  { class="compact" }
+§6 BDG        | Allgemeine Befugnisse der Regierungsbeamten            | Strafe | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
 --------------|--------------------------------------------------------|--------|--------------:|----------------------------:
 §6 Abs. 1 BDG | Falschauskunft                                         | -      |             0 |                     25.000 €
 §6 Abs. 2 BDG | Nutzung einer privaten Schusswaffe ohne Genehmigung    | -      |             0 |                    250.000 €
@@ -56,12 +56,6 @@ order: 98
 
 
 <style>
-th {
-    background-color: #7B68EE;
-    font-size: bolder;
-    color: white !important;
-}
-
 .sidebar-right {
     display: none;
 }

@@ -30,11 +30,3 @@ c. Einhaltung der persönlichen Hygiene der Mitarbeiter
 (15). Der Versuch der Tat unter §1 Abs. 10 ist ebenfalls strafbar. 
 (16). Gewerbetreibenden ist es in jeglicher Hinsicht verboten Eigenwerbung über Twitter zu schalten. Die Werbung mit einem Firmenaccount oder einer selbst geschalteten Werbung über das Unternehmen auf Twitter stellt eine Steuerhinterziehung dar. Mehrmalige Verstöße können zur Schließung des Unternehmens führen.
 (17). Gewerbetreibenden ist es verboten über Dritte nicht im Unternehmen angestellte im Auftrag Eigenwerbung über Twitter und anderen Plattformen zu schalten. 
-
-
-<style>
-ol, .docs-markdown > ul {
-    margin-top: -20px;
-    margin-left: 25px;
-}
-</style>

@@ -98,10 +98,3 @@ g. Leitender Branddirektor und Leitender Rettungsdienst
 (1). Alle Mitarbeiter aus den Organisationen in [[§1 Abs. 1 a/b/c/d/e]](#1-gültigkeit) sind von allen Einschränkungen des Ausnahmezustandes befreit:
 (2). Das Spezialeinsatzkommando (SEK) der Polizei und die Zentrale Unterstützungsgruppe Zoll (ZUZ) der Bundeszollverwaltung sind dazu befugt, mit allen humanitären notwendigen Mitteln das Land zu verteidigen.
 (3). Polizei- und Zollbeamten verfügen während des Ausnahmezustands über ein erweitertes Kontroll-, Durchsuchungs und Überprüfungsrecht. Die Notwendigkeit eines triftigen Grund entfällt, mit Ausnahmen an sogenannten Schutzzonen.
-
-<style>
-ol, .docs-markdown > ul {
-    margin-top: -20px;
-    margin-left: 25px;
-}
-</style>

@@ -17,11 +17,3 @@ d. Cannabis daraus herstellbare Joints, Cookies und Brownies
 e. Schnaps sowie Rum.
 
 (2). Der Anbau, das Ernten, das Verarbeiten sowie der Handel von Betäubungsmitteln aus (1) ist verboten. :cop:
-
-
-<style>
-ol, .docs-markdown > ul {
-    margin-top: -20px;
-    margin-left: 25px;
-}
-</style>

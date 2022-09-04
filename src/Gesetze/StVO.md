@@ -127,9 +127,4 @@ th {
     font-size: bolder;
     color: white !important;
 }
-
-ol, .docs-markdown > ul {
-    margin-top: -20px;
-    margin-left: 25px;
-}
 </style>

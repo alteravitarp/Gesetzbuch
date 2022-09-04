@@ -58,10 +58,3 @@ b. die Abgeordneten davon nicht am meisten profitieren.
 (2). Die Bundesregierung darf über einen Eilantrag Gesetze kurzfristig ändern. Diese Gesetze können allerdings zur nächsten Bundestagsitzung überprüft werden.
 (3). Die Bundesregierung darf Grundgesetzänderungen ausschließlich über den Bundestag erwirken.
 (4). Die Bundestagsordnung (BtagO) kann ausschließlich von der Bundesregierung geändert werden.
-
-<style>
-ol, .docs-markdown > ul {
-    margin-top: -20px;
-    margin-left: 25px;
-}
-</style>

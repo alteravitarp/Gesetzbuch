@@ -16,7 +16,7 @@ footer:
   copyright: "&copy; Copyright . All rights reserved."
 
 edit:
-  repo: 'https://github.com/alteravitarp/Gesetzbuch/edit/master/'
+  repo: 'https://github.com/alteravitarp/Gesetzbuch'
   label: Edit on GitLab
 
 editor:

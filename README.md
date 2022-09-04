@@ -14,3 +14,14 @@ ist diese Änderung [hier](https://alteravitarp.github.io/Gesetzbuch/) sichtbar.
 ## Technische Verantwortlichkeit
 
 - Prof. Dr. Olaf Santa (**Polizeipräsident**)
+
+
+## Formate
+
+### Badges
+
+Du kannst Badges im Text erzeugen indem du deinen Text einfach mit `[[...]]` umschließt.<br/>
+Beispiel:<br/>
+```md
+(7). Die Bundesregierung ist dazu verpflichtet, Gesetze welche nicht durch [[§2 Abs. 4]] abgelehnt worden sind, innerhalb von 48 Stunden zu veröffentlichen.
+```

@@ -35,17 +35,4 @@ th {
 .sidebar-right {
     display: none;
 }
-
-.dark .bg-red-100 {
-    background-color: #8B0000 !important;
-}
-.dark .text-red-600 {
-    color: rgba(255, 180, 180) !important;
-}
-.dark .bg-yellow-100 {
-    background-color: #807700 !important;
-}
-.dark .text-yellow-900 {
-    color: rgba(255, 239, 0) !important;
-}
 </style>

@@ -4,7 +4,7 @@ icon: ':bookmark_tabs:'
 order: 98
 ---
 
-§1 GewO                      | Gewerbeordnung                                        | Strafe / Strikes                                     |        Hafteinheiten | Bußgeld  { class="compact thead-purple" }
+§1 GewO                      | Gewerbeordnung                                        | Strafe / Strikes                                     |        Hafteinheiten | Bußgeld  { class="compact thead--purple" }
 -----------------------------|-------------------------------------------------------|------------------------------------------------------|---------------------:|-----------------------------------------:
 [[§1 Abs. 1 GewO]=danger]    | Unerlaubte Veranstaltung ohne Genehmigung der Behörde | ggf. Auflösung der Veranstaltung                     |                   20 |                                   75.000€
 [[§1 Abs. 2 GewO]=warning]   | Nichteinhaltung der Kontrolle von Rauschmitteln       | -                                                    |                    0 |                                   50.000€

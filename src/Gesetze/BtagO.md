@@ -3,6 +3,7 @@ label: Bundestagsordnung (WIP)
 layout: default
 order: 40
 icon: ':classical_building:'
+hidden: true
 ---
 
 # Bundestagsordnung (BtagO)

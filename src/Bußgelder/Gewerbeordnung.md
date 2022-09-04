@@ -22,7 +22,7 @@ order: 98
 
 
 !!!danger
-Das Gewerbeamt kann ein Gewerbe beim überschreiten von 10 Strikes **dauerhaft schließen**!
+Das Gewerbeamt kann ein Gewerbe beim Überschreiten von 10 Strikes **dauerhaft schließen**!
 !!!
 
 <style>

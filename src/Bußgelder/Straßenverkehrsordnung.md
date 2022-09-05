@@ -6,14 +6,14 @@ order: 100
 
 ## [§1 StVO Führerschein](../Gesetze/StVO.md#1-stvo-führerschein)
 
-§1 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+§1 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--yellow" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§1 Abs. 1 StVO]=warning] | Fahren ohne gültigen Führerschein          | Stilllegung Fahrzeug                    |             0 |                    30.000€
 [[§1 Abs. 1 StVO]=warning] | Fliegen ohne gültigen Flugschein | Stillegung Flugzeug | 15 | 50.000€
 [[§1 Abs. 2 StVO]=warning] | Führerschein nicht mitgeführt | - | 0 | 15.000€
 
 ## [§2 StVO Gefährlicher Eingriff in den Straßenverkehr](../Gesetze/StVO.md#2-stvo-gefährlicher-eingriff-in-den-straßenverkehr)
-§2 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+§2 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--yellow" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§2 Abs. 1 StVO]=warning] | Gefährlicher Eingriff in den Straßenverkehr          | Stilllegung Fahrzeug,  [[2 Punkt]=danger]   |             0 |       20.000€
 [[§2 Abs. 2 StVO]=danger] | Unfallflucht | Stillegung Flugzeug, [[4 Punkt]=danger] | 10 | 40.000€
@@ -23,14 +23,14 @@ order: 100
 
 ## [§3 StVO Halten und Parken](../Gesetze/StVO.md#3-stvo-halten-und-parken)
 
-§3 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+§3 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--yellow" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§3 Abs. 1 StVO]=warning] | Widerrechtliches Halten      | Abschleppen des Fahrzeugs   |             0 |       10.000€
 [[§3 Abs. 3 StVO]=warning] | Widerrechtliches Parken      | Abschleppen des Fahrzeugs   |             0 |       15.000€
 
 ## [§4 StVO Fahrzeugzustand und Fahrzeugausstattung](../Gesetze/StVO.md#4-stvo-fahrzeugzustand-und-fahrzeugausstattung)
 
-§4 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+§4 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--yellow" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§3 Abs. 1 StVO]=warning] | Fahren mit einem nicht technisch einwandfreiem Zustand des Fahrzeuges |- |             0 |       10.000€
 [[§3 Abs. 2 StVO]=warning] | Fahren ohne Beleuchtung (Nachts) | [[1 Punkt]=danger] |             0 |       10.000€
@@ -40,7 +40,7 @@ order: 100
 
 ## [§5 StVO Geschwindigkeitsüberschreitungen (Innerorts)](../Gesetze/StVO.md#5-stvo-geschwindigkeit-und-verkehrszeichen)
 
-§5 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+§5 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--yellow" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§5 Abs. 5 StVO]=warning] | 11 - 15 km/h zu schnell | - |             0 |       6.000€
 [[§5 Abs. 5 StVO]=warning] | 16 - 20 km/h zu schnell | - |             0 |       8.000€
@@ -55,7 +55,7 @@ order: 100
 
 ## [§5 StVO Geschwindigkeitsüberschreitungen (Außerorts)](../Gesetze/StVO.md#5-stvo-geschwindigkeit-und-verkehrszeichen)
 
-§5 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+§5 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--yellow" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§5 Abs. 5 StVO]=warning] | 11 - 15 km/h zu schnell | - |             0 |       2.000€
 [[§5 Abs. 5 StVO]=warning] | 16 - 20 km/h zu schnell | - |             0 |       3.000€
@@ -70,7 +70,7 @@ order: 100
 
 ## [§6 StVO Luftverkehr](../Gesetze/StVO.md#6-stvo-luftverkehr)
 
-§6 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+§6 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--yellow" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§6 Abs. 1 StVO]=warning] | Landen/Starten auf nicht genehmigten Landestellen/ Bereichen/ Straßen/ etc. | Stillegung Flugzeug |             0 |       50.000€
 [[§6 Abs. 2 StVO]=warning] | Nichteinhaltung der Mindestflughöhe (1000 Fuß) | Stillegung Flugzeug |             0 |       50.000€

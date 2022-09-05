@@ -12,7 +12,7 @@ icon: ':car:'
 (1). Zum führen eines Fahrzeuges/Flugzeuges/Bootes wird ein Führerschein, für die jeweilige Fahrzeugklasse, benötigt. In folgender Tabelle ist festgelegt, welche Fahrzeugklasse für die jeweiligen Fahrzeuge gilt.
 
 Führerscheinklasse | Fahrzeuge  { class="compact thead--blue" }
--------------------|-------------------------------
+-------------------|-------------------------------------------
 Klasse **A**       | Motorräder, Roller
 Klasse **B**       | PKW
 Klasse **D**       | Busse

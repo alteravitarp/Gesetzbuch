@@ -6,9 +6,6 @@ order: 100
 
 ## [§1 StVO Führerschein](../Gesetze/StVO.md#1-stvo-führerschein)
 
-[[1 Punkt]=danger]
-[[§1 Abs. 2 GewO]=warning] - Ordnungswidrigkeit
-[[§1 Abs. 1 GewO]=danger]
 §1 StVO        | Verkehrsdelikte              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§1 Abs. 1 StVO]=warning] | Fahren ohne gültigen Führerschein          | Stilllegung Fahrzeug                    |             0 |                    30.000€

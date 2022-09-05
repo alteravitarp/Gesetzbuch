@@ -11,8 +11,8 @@ icon: ':car:'
 
 (1). Zum führen eines Fahrzeuges/Flugzeuges/Bootes wird ein Führerschein, für die jeweilige Fahrzeugklasse, benötigt. In folgender Tabelle ist festgelegt, welche Fahrzeugklasse für die jeweiligen Fahrzeuge gilt.
 
-Führerscheinklasse | Fahrzeuge  { class="compact" }
--------------------|-------------------------------
+Führerscheinklasse | Fahrzeuge  { class="compact thead--blue" }
+-------------------|-------------------------------------------
 Klasse **A**       | Motorräder, Roller
 Klasse **B**       | PKW
 Klasse **D**       | Busse
@@ -118,13 +118,3 @@ a. Alle Scheinwerfer sind funktionstüchtig.
 b. Die Triebwerke sind funktionstüchtig.
 c. Das Fahrwerk ist funktionstüchtig
 d. Die Bordtechnik ist funktionstüchtig
-
-
-
-<style>
-th {
-    background-color: #7B68EE;
-    font-size: bolder;
-    color: white !important;
-}
-</style>

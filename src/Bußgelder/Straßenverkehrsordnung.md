@@ -77,6 +77,7 @@ order: 100
 [[§6 Abs. 3 StVO]=danger] | Unberechtigtes Überfliegen von Sperrgebieten | Stillegung Flugzeug, Einziehen des Flugscheins |             30 |       100.000€
 [[§6 Abs. 4 StVO]=danger] | Fliegen mit einem nicht technisch einwandfreiem Zustand des Luftfahrzeug | Stillegung Flugzeug |             15 |       50.000€
 
+
 <style>
 .sidebar-right {
     display: none;

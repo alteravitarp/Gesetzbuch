@@ -15,7 +15,7 @@ icon: ':book:'
 (4). Wer im Besitz von Eigentum des Staates ist und diesen nicht ohne Umwege und auf direktem Wege der Polizei aushändigt, macht sich des illegalen Besitzes von staatlichem Eigentum strafbar.
 (5). Wer einer Arbeit nachgeht und für diese keinen gültigen Arbeitserlaubnisschein bei sich trägt, macht sich der Schwarzarbeit strafbar.
 (6). Wer einen Gegenstand, der aus einer rechtswidrigen Tat herrührt, verbirgt, in der Absicht, dessen Auffinden, dessen Einziehung oder die Ermittlung von dessen Herkunft zu vereiteln, umtauscht, überträgt oder verbringt, sich oder einem Dritten verschafft oder verwahrt oder für sich oder einen Dritten verwendet, wenn er dessen Herkunft zu dem Zeitpunkt gekannt hat, zu dem er ihn erlangt hat, macht sich strafbar.
-(7). Wer Hehlerware oder sonstige Gegenstände von einem Schwarzmarkt erwirbt, macht sich strafbar. Darunter zählen auch alle anderen, mit Schwarzgeld erworbenen, Gegenstände.
+(7). Wer Hehlerware oder sonstige Gegenstände von einem Schwarzmarkt erwirbt, macht sich strafbar. Darunter zählen auch alle anderen, mit Schwarzgeld erworbenen, Gegenstände. Sämtliche dort erwerbliche Gegenstände sind illegal.
 (8). Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen, das Vermögen eines anderen dadurch beschädigt, daß er durch Vorspiegelung falscher oder durch Entstellung oder Unterdrückung wahrer Tatsachen einen Irrtum erregt oder unterhält, macht sich strafbar.
 (9). Schwarzarbeit leistet, wer Dienst- oder Werkleistungen erbringt oder ausführen lässt und dabei sich ergebenden steuerlichen Pflichten nicht erfüllt.
 
@@ -103,9 +103,9 @@ c. das Wissen über eine bevorstehende Straftat einer Dienststelle mitteilt, sod
 
 (1). Die Regierung kann folgende Maßnahmen erlassen bzw. durch die Sicherheitsbehörden ([[§1 Abs. 1a/b BDG]]) durchsetzen lassen:
 
-a. Personendurchsuchung: Erlaubt die Durchsuchung aller genannten Personen oder Personengruppen und die Sicherstellung von illegalen Gegenständen nach [[§2 Abs. 5 StGB]] und [[§1 Abs. 1 BtMG]].
-b. Durchsuchungsbefehl: Erlaubt die Durchsung nach (a.) sowie die Durchsuchung der Besitztümer der Personen sowie der genannten Räumlichkeiten.
-c. Razzienbeschluss: Erlaubt die Durchsuchung nach (a. und b.) sowie die Sicherstellung aller illegalen Gegenstände nach [[§2 Abs. 5 StGB]] und [[§1 Abs. 1 BtMG]].
+a. Personendurchsuchung: Erlaubt die Durchsuchung aller genannten Personen oder Personengruppen und die Sicherstellung von illegalen Gegenständen nach [[§1 Abs. 7 StGB]], [[§2 Abs. 5 StGB]] und [[§1 Abs. 1 BtMG]].
+b. Durchsuchungsbefehl: Erlaubt die Durchsuchung nach (a.) sowie die Durchsuchung der Besitztümer der Personen sowie der genannten Räumlichkeiten.
+c. Razzienbeschluss: Erlaubt die Durchsuchung nach (a. und b.) sowie die Sicherstellung aller illegalen Gegenstände nach [[§1 Abs. 7 StGB]], [[§2 Abs. 5 StGB]] und [[§1 Abs. 1 BtMG]].
 d. Ausgangssperre: Die Regierung darf jederzeit eine Ausgangssperre erlassen. Dies ist ein Ausnahmezustand zum Schutz der Bevölkerung. Sämtlichen Bürgern ist es ohne Befugnis nicht erlaubt, ihr Privatgrundstück zu verlassen. Der Aufenthalt ist nur in einer Schutzzone (Würfelpark, Polizeirevier, Krankenhaus) oder auf Privatgrundstück gestattet. Jede Person außerhalb dieser Zonen müssen mit sofortiger Festnahme rechnen.
 
 ## §31 StGB Strafmilderung-Umrechnung oder Absehen von Strafe

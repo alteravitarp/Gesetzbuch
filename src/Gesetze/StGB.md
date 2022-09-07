@@ -101,9 +101,12 @@ c. das Wissen über eine bevorstehende Straftat einer Dienststelle mitteilt, sod
 
 ## §7 StGB Regierungsmaßnahmen
 
-(1). Die Regierung hat zu Jeder Zeit die Möglichkeit folgende Maßnahmen zu erlassen und Durchsetzen zu lassen:
-(2). Durchsuchungsbefehl: Hierunter zählt die komplette Durchsuchung von sämtlichen Besitztümern einer Person.
-(3). Ausgangssperre: Die Regierung darf jederzeit eine Ausgangssperre erlassen. Dies ist ein Ausnahmezustand zum Schutz der Bevölkerung. Sämtlichen Bürgern ist es ohne Befugnis nicht erlaubt, ihr Privatgrundstück zu verlassen. Der Aufenthalt ist nur in einer Schutzzone (Würfelpark, Polizeirevier, Krankenhaus) oder auf Privatgrundstück gestattet. Jede Person außerhalb dieser Zonen müssen mit sofortiger Festnahme rechnen.
+(1). Die Regierung kann folgende Maßnahmen erlassen bzw. durch die Sicherheitsbehörden ([[§1 Abs. 1a/b BDG]]) durchsetzen lassen:
+
+a. Personendurchsuchung: Erlaubt die Durchsuchung aller genannten Personen oder Personengruppen und die Sicherstellung von illegalen Gegenständen nach [[§2 Abs. 5 StGB]] und [[§1 Abs. 1 BtMG]].
+b. Durchsuchungsbefehl: Erlaubt die Durchsung nach (a.) sowie die Durchsuchung der Besitztümer der Personen sowie der genannten Räumlichkeiten.
+c. Razzienbeschluss: Erlaubt die Durchsuchung nach (a. und b.) sowie die Sicherstellung aller illegalen Gegenstände nach [[§2 Abs. 5 StGB]] und [[§1 Abs. 1 BtMG]].
+d. Ausgangssperre: Die Regierung darf jederzeit eine Ausgangssperre erlassen. Dies ist ein Ausnahmezustand zum Schutz der Bevölkerung. Sämtlichen Bürgern ist es ohne Befugnis nicht erlaubt, ihr Privatgrundstück zu verlassen. Der Aufenthalt ist nur in einer Schutzzone (Würfelpark, Polizeirevier, Krankenhaus) oder auf Privatgrundstück gestattet. Jede Person außerhalb dieser Zonen müssen mit sofortiger Festnahme rechnen.
 
 ## §31 StGB Strafmilderung-Umrechnung oder Absehen von Strafe
 

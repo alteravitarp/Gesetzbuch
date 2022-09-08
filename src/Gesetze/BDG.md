@@ -35,6 +35,7 @@ d. Sicherung eventueller Straftäter
 (6). **Dokumentationspflicht**: Beamte sind dazu verpflichtet Einsätze entsprechend der internen Richtlinien der jeweiligen Organisationen zu dokumentieren.
 (7). **Professionalität**: Beamte sind dazu verpflichtet, ihre Arbeit immer professionell und behutsam durchzuführen.
 (8). **Korruption**: Beamten dürfen ihren Beruf nicht für kriminelle Zwecke ausnutzen, absichtlich gegen Geld Fehler machen oder andere, für Dritte gewinnbringende, Informationen weitergeben.
+(9). **Im Dienst des Staates**: Beamte müssen sich bei außerdienstlichen Aktivitäten ausstechen und außer Dienst gehen. Das bewusste Erschleichen von Leistungen durch Abwesenheit stellt einen Verstoß gegen das BDG dar und wird neben einer Suspendierung auch mit einem entsprechenden Bußgeld bestraft.
 
 ## §3 Befugnisse der Beamten
 

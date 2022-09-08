@@ -17,6 +17,7 @@ order: 98
 §2 Abs. 6 BDG | Verletzung der Dokumentationspflicht | -                    |             0 |                     50.000 €
 §2 Abs. 7 BDG | Nicht diensttaugliches Verhalten     | -                    |             0 |                    100.000 €
 §2 Abs. 8 BDG | Korruption                           | sofortige Entlassung |           200 |                     50.000 €
+§2 Abs. 9 BDG | Erschleichen von Leistungen          | sofortige Entlassung |           0 |                   200.000 €
 
 ## [§3 Befugnisse der Beamten](../Gesetze/BDG.md#3-befugnisse-der-beamten)
 

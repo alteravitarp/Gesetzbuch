@@ -32,6 +32,7 @@ order: 98
 §3 Abs. 6 BDG | Unnötiges absperren von Straßen                    | -                                  |             0 |                     25.000 €
 §3 Abs. 7 BDG | Unverhältnismäßiges Bußgeld berechnet              | ausgestelltes Bußgeld +50%         |             0 |                    100.000 €
 §3 Abs. 7 BDG | Unverhältnismäßig hohe Hafteinheiten angewendet    | 2.000€ / unrechtmäßige Hafteinheit |             0 |                    200.000 €
+§3 Abs. 7 BDG | Missachtung der StPO    | - |             0 |                    300.000 €
 §3 Abs. 8 BDG | Gefangenentransport in einem unzulässigem Fahrzeug | -                                  |             0 |                     75.000 €
 
 ## [§4 Allgemeine Befugnisse eines Polizei- und Zollbeamten](../Gesetze/BDG.md#4-allgemeine-befugnisse-eines-polizei--und-zollbeamten)

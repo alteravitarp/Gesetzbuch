@@ -112,5 +112,4 @@ d. Ausgangssperre: Die Regierung darf jederzeit eine Ausgangssperre erlassen. Di
 
 (1). Der Urteilende kann die Strafe des Gesetzbuches mildern oder von Strafe absehen, wenn der Täter durch freiwilliges Offenbaren seines Wissens wesentlich dazu beigetragen hat, dass eine Straftat, die mit seiner Tat im Zusammenhang steht, aufgedeckt werden konnte, oder freiwillig sein Wissen so rechtzeitig einer Dienststelle offenbart, dass eine Straftat die mit seiner Tat im Zusammenhang steht und von deren Planung er weiß, noch verhindert werden kann.
 (2). War der Täter an der Tat beteiligt, muss sich sein Beitrag zur Aufklärung über den eigenen Tatbeitrag hinaus erstrecken.
-(3). Wer seine Geldstrafe nicht bezahlen kann, werden dies in Hafteinheiten umgerechnet. Beispiel: 1.000€  = 2 Hafteinheiten.
 

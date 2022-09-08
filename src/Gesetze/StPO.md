@@ -14,6 +14,7 @@ icon: ':card_file_box:'
 (4). Bei einer zusammenhängenden Tat, dürfen jeweils nur drei Delikte aufaddiert werden und ergeben die Gesamtstrafe.
 (5). Bei Wiederholungstätern ist eine Minderung der Strafe grundsätzlich ausgeschlossen. 
 (6). Für jeden Tatbestand sind Beweise anzuführen.
+(7). Eine nicht bezahlte Bußgeldstrafe wird in Haftzeiten umgewandelt. Hierbei entspricht ein Bußgeld von 1.000€, 2 Hafteinheiten.
 
 ## §2 Beweismittel
 (1). Vor Gericht sind folgende Beweise zulässig:

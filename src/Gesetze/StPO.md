@@ -22,3 +22,9 @@ a. Forensische Beweismittel
 b. Eine Zeugenaussage unter Eid
 c. Staatlich beglaubigte Dokumente
 d. Fotografische Aufnahmen
+
+## §3 Rechte im Prozess
+(1). Jeder Beschuldigte hat das Recht auf einen fairen Prozess.
+(2). Jeder Beschuldigte, der einer Straftat angeklagt ist, gilt bis zum gesetzlichen Beweis seiner Schuld als unschuldig.
+(3). Jeder Beschuldigte hat bei einer vorläufigen Festnahme, spätestens nach Festsetzung in der U-Haftzelle, ein Recht auf Informationen über die Vorwürfe, deren er beschuldigt wird.
+(4). Jeder Beschuldigte hat das Recht auf einen Anwalt, notfalls auch auf Kosten des Staates.

@@ -22,8 +22,6 @@ icon: ':book:'
 ## §2 StGB Waffengesetz
 
 (1). Das Tragen einer gezogenen Waffe (Nahkampf- Fernkampfwaffen) in der Öffentlichkeit ist untersagt.
-(2). Waffen, die zum Angriff oder zur Verteidigung, zur Signalgebung, zur Jagd, zur Distanzinjektion, zur Markierung bestimmt sind und bei denen Geschosse durch einen Lauf getrieben werden
-(3). Gegenstände, die ihrem Wesen nach dazu bestimmt sind, die Angriffs- und Abwehrfähigkeit von Menschen zu beseitigen oder herabzusetzen.
 (4). Die Nutzung einer Waffe ist nur im Falle der Notwehr zugelassen. (Gilt für alle, legal erwerbbaren Waffen)
 (5). Jeglicher Besitz von Waffen sowie Waffenbauteilen, welche nicht bei einer lizenzierten Verkaufsstelle erhältlich sind, sind verboten. Diese werden in folgenden Kategorien eingeteilt: 
 

@@ -24,6 +24,7 @@ b. Sicherung andere Beamten
 c. Sicherung von Zivilisten
 d. Sicherung eventueller Straftäter
 
+(3). Beamte haben folgenden Diensteid zu leisten: "Ich gelobe, das Grundgesetz und alle in der Bundesrepublik Deutschland geltenden Gesetze zu wahren und meine Amtspflichten gewissenhaft zu erfüllen."
 ## §2 Pflichten aller Beamten
 
 (1). **Meldepflicht**: Jeder Beamte ist dazu verpflichtet Straftaten zu melden, sobald diese beobachtet oder über diese in Kenntnis gesetzt werden.

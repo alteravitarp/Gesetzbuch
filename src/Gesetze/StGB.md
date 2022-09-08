@@ -22,17 +22,17 @@ icon: ':book:'
 ## §2 StGB Waffengesetz
 
 (1). Das Tragen einer gezogenen Waffe (Nahkampf- Fernkampfwaffen) in der Öffentlichkeit ist untersagt.
-(4). Die Nutzung einer Waffe ist nur im Falle der Notwehr zugelassen. (Gilt für alle, legal erwerbbaren Waffen)
-(5). Jeglicher Besitz von Waffen sowie Waffenbauteilen, welche nicht bei einer lizenzierten Verkaufsstelle erhältlich sind, sind verboten. Diese werden in folgenden Kategorien eingeteilt: 
+(2). Die Nutzung einer Waffe ist nur im Falle der Notwehr zugelassen. (Gilt für alle, legal erwerbbaren Waffen)
+(3). Jeglicher Besitz von Waffen sowie Waffenbauteilen, welche nicht bei einer lizenzierten Verkaufsstelle erhältlich sind, sind verboten. Diese werden in folgenden Kategorien eingeteilt: 
 
 a. Hieb- und Stichwaffen, deren Sinn und Zweck in der Verletzung oder Tötung liegen. 
 b. Halbautomatische Schusswaffen.
 c. Vollautomatische Schusswaffen. 
 
-(6). Jeglicher Handel mit Waffen und deren Bauteilen, mit einem nicht lizenzierten Handelspartner, ist untersagt. Hierbei gilt zu beachten, dass der Käufer über eine gültige Waffenlizenz verfügt.
-(7). Des Weiteren sind sämtliche Waffenmodifikationen ohne Lizensierung verboten. Ausnahme hierbei ist eine taktische Taschenlampe.
-(8). Waffenhandel betreibt der, der Waffen erwirbt, besitzt, überlässt, führt, verbringt, herstellt oder instand setzt.
-(9). Organisierter Waffenhandel betreibt der, der Waffen überlässt, verkauft, verbringt, herstellt oder instand setzt und andere Beteiligte dazu motiviert, Waffen in Umlauf zu bringen.
+(4). Jeglicher Handel mit Waffen und deren Bauteilen, mit einem nicht lizenzierten Handelspartner, ist untersagt. Hierbei gilt zu beachten, dass der Käufer über eine gültige Waffenlizenz verfügt.
+(5). Des Weiteren sind sämtliche Waffenmodifikationen ohne Lizensierung verboten. Ausnahme hierbei ist eine taktische Taschenlampe.
+(6). Waffenhandel betreibt der, der Waffen erwirbt, besitzt, überlässt, führt, verbringt, herstellt oder instand setzt.
+(7). Organisierter Waffenhandel betreibt der, der Waffen überlässt, verkauft, verbringt, herstellt oder instand setzt und andere Beteiligte dazu motiviert, Waffen in Umlauf zu bringen.
 
 
 ## §3 StGB Körperliche Integrität

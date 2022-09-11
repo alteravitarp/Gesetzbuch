@@ -1,5 +1,5 @@
 ---
-label: Beamtendienstgesetz
+label: Betäubungsmittelgesetz
 icon: ':bookmark_tabs:'
 order: 98
 ---

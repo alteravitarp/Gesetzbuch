@@ -6,7 +6,7 @@ order: 99
 
 ## [§1 StGB Wirtschaftskriminalität](../gesetze/stgb/#1-stgb-wirtschaftskriminalität)
 
-§1 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+§1 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§1 Abs. 1 StGB]=danger] | Versuchter Diebstahl          | -                    |             5 |                    5.000€
 [[§1 Abs. 1 StGB]=danger] | Diebstahl          | Abnahme Diebesgut                    |             10 |                    10.000€
@@ -25,7 +25,7 @@ order: 99
 
 ## [§2 StGB Waffengesetz](../gesetze/stgb/#2-stgb-waffengesetz)
 
-§2 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+§2 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§2 Abs. 1 StGB]=danger] | Führen einer Waffe          | Abnahme Waffe(n)                   |             0 |                    10.000€
 [[§2 Abs. 1 StGB]=danger] | Gezogene Waffe in der Öffentlichkeit          | Abnahme Waffe(n)                    |             5 |                    10.000€

@@ -7,7 +7,7 @@ order: 99
 ## [§1 BtMG Besitz und Handel](../gesetze/btmg/#1-btmg-besitz-und-handel)
 
 
-§1 BtMG        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+§1 BtMG        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§1 Abs. 1 BtMG]=danger] | Unverarbeitete Rauschmittel (bis 1kg)          | Abnahme illegaler Substanzen                    |             10 |                    10.000€
 [[§1 Abs. 1 BtMG]=danger] | Unverarbeitete Rauschmittel (mehr als 1kg)          | Abnahme illegaler Substanzen                    |             1 pro 100 g, max. 25 |                    25.000€

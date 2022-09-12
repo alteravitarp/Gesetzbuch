@@ -1,4 +1,3 @@
-
 ---
 label: Strafgesetzbuch
 icon: ':bookmark_tabs:'

@@ -1,7 +1,7 @@
 ---
 label: Betäubungsmittelgesetz
 icon: ':bookmark_tabs:'
-order: 98
+order: 99
 ---
 
 ## [§1 BtMG Besitz und Handel](../gesetze/btmg/#1-btmg-besitz-und-handel)

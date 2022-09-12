@@ -29,10 +29,9 @@ a. Hieb- und Stichwaffen, deren Sinn und Zweck in der Verletzung oder Tötung li
 b. Halbautomatische Schusswaffen.
 c. Vollautomatische Schusswaffen. 
 
-(4). Jeglicher Handel mit Waffen und deren Bauteilen, mit einem nicht lizenzierten Handelspartner, ist untersagt. Hierbei gilt zu beachten, dass der Käufer über eine gültige Waffenlizenz verfügt.
+(4). Jeglicher Handel mit Waffen und deren Bauteilen, ist ohne Lizenz untersagt.
 (5). Des Weiteren sind sämtliche Waffenmodifikationen ohne Lizensierung verboten. Ausnahme hierbei ist eine taktische Taschenlampe.
-(6). Waffenhandel betreibt der, der Waffen erwirbt, besitzt, überlässt, führt, verbringt, herstellt oder instand setzt.
-(7). Organisierter Waffenhandel betreibt der, der Waffen überlässt, verkauft, verbringt, herstellt oder instand setzt und andere Beteiligte dazu motiviert, Waffen in Umlauf zu bringen.
+(6). Wer [[§2 Abs. 4 StGB]] in größerem Ausmaß ausübt und zum Beispiel Waffen über Dritte verkauft, macht sich dem organisiertem Waffenhandel schuldig.
 
 
 ## §3 StGB Körperliche Integrität

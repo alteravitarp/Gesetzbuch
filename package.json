@@ -2,6 +2,7 @@
   "name": "gesetzbuch",
   "version": "0.1.0",
   "private": true,
+  "main": "retype watch",
   "scripts": {
     "build": "node build.js build retype_prod.yml",
     "watch": "retype watch"

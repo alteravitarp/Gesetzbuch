@@ -60,6 +60,51 @@ order: 99
 [[§3 Abs.11 StGB]=danger] | Öffentliche Aufforderung zu Straftaten          | -          |             15 |                    15.000€
 [[§3 Abs.12 StGB]=danger] | Rufmord / üble Nachrede          | -          |             20 |                    35.000€
 
+## [§4 StGB Umgang mit Beamten](../gesetze/stgb/#4-stgb-umgang-mit-beamten)
+
+§4 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
+--------------|--------------------------------------|----------------------|--------------:|----------------------------:
+[[§4 Abs. 1 StGB]=danger] | Entziehung/Behinderung einer staatlichen Maßnahmen          | -                   |             10 |                    10.000€
+[[§4 Abs. 1 StGB]=danger] | Widerstand gegen Vollstreckungsbeamte          | -                   |             15 |                    20.000€
+[[§4 Abs. 1 StGB]=danger] | Behinderung eines Beamtens          | -                   |             10 |                    15.000€
+[[§4 Abs. 1 StGB]=danger] | Strafe für Gefangenenbefreiung          | -                   |             20 |                    30.000€
+[[§4 Abs. 1 StGB]=danger] | Versuchte Hilfe zur Gefangenenbefreiung          | -                   |             15 |                    20.000€
+[[§4 Abs. 2 StGB]=warning] | Beleidigung eines Beamten         | -                   |             0 |                    10.000€
+[[§4 Abs. 2 StGB]=warning] | Belästigung eines Beamten         | -                   |             0 |                    30.000€
+[[§4 Abs. 3 StGB]=danger] | Unberechtigtes Betreten eines Hochsicherheitsgebietes         | -                   |             30 |                    50.000€
+[[§4 Abs. 4 StGB]=danger] | Nötigung von Verfassungsorganen         | -                   |             20 |                    50.000€
+[[§4 Abs. 5 StGB]=danger] | Mutwilliger Missbrauch des Rettungsdienstes         | -                   |             10 |                    50.000€
+
+## [§5 StGB Sonstiges](../gesetze/stgb/#5-stgb-sonstiges)
+
+§5 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
+--------------|--------------------------------------|----------------------|--------------:|----------------------------:
+[[§5 Abs. 1 StGB]=warning] | Nicht einhalten eines Platzverweises          | -                   |             0 |                    10.000€
+[[§5 Abs. 1 StGB]=danger] | Betreten von Sperrzonen ohne Genehmigung          | -                   |             10 |                    20.000€
+[[§5 Abs. 1 StGB]=danger] | Durchbrechen von Absperrungen          | -                   |             10 |                    10.000€
+[[§5 Abs. 2 StGB]=warning] | Vermummungsverbot (50% des Gesichts verdeckt)         | -                   |             0 |                    25.000€
+[[§5 Abs. 3 StGB]=danger] | Amtsanmaßung         | -                   |             10 |                    20.000€
+[[§5 Abs. 4 StGB]=warning] | Missbrauch des Notrufs         | -                   |             0 |                    20.000€
+[[§5 Abs. 5 StGB]=warning] | Sachbeschädigung         | -                   |             0 |                    10.000€
+[[§5 Abs. 6 StGB]=danger] | Hausfriedensbruch         | -                   |             15 |                    15.000€
+[[§5 Abs. 7 StGB]=danger] | Urkundenfälschung         | -                   |             10 |                   25.000€
+[[§5 Abs. 8 StGB]=warning] | Nicht mitführen / zeigen des Personalausweises         | -                   |             0 |                   30.000€
+[[§5 Abs. 9 StGB]=warning] | Veröffentlichung eines Fotos ohne Einverständnis         | -                   |             0 |                   10.000€
+[[§5 Abs. 10 StGB]=warning] | Erregung öffentlichen Ärgernisses         | -                   |             0 |                   10.000€
+
+## [§6 StGB Organisierte Kriminalität](../gesetze/stgb/#6-stgb-organisierte-kriminalität)
+
+§6 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
+--------------|--------------------------------------|----------------------|--------------:|----------------------------:
+[[§6 Abs. 1 StGB]=danger] | Unterstützung und Werbung für kiminelle Vereinigungen          | -                   |             10 |                    10.000€
+
+## [§7 StGB Regierungsmaßnahmen](../gesetze/stgb/#7-stgb-regierungsmaßnahmen)
+
+§7 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
+--------------|--------------------------------------|----------------------|--------------:|----------------------------:
+[[§7 Abs. 1 StGB]=danger] | Nicht einhalten der Ausgangssperre          | -                   |             60 |                    100.000€
+[[§7 Abs. 2 StGB]=danger] | Propaganda/Volksverhetzung          | -                   |             60 |                    120.000€
+
 <style>
 .sidebar-right {
     display: none;

@@ -80,9 +80,8 @@ e. Krankenhaus gesicherter Bereich (PLZ 7273 - 7275)
 (6). Wer in die Wohnung, in die Geschäftsräume oder in das befriedete Besitztum eines anderen oder in abgeschlossene Räume, welche zum öffentlichen Dienst oder Verkehr bestimmt sind, widerrechtlich eindringt, oder wer, wenn er ohne Befugnis darin verweilt, auf die Aufforderung des Berechtigten sich nicht entfernt, macht sich des Hausfriedensbruchs strafbar.
 (7). Wer zur Täuschung im Rechtsverkehr eine unechte Urkunde herstellt, eine echte Urkunde verfälscht oder eine unechte oder verfälschte Urkunde gebraucht, macht sich strafbar.
 (8). Jede Person ist dazu verpflichtet, jederzeit seinen Personalausweis mitzuführen und Beamten vorzeigen zu müssen.
-(9). Das Fotografieren von (verletzten) Personen ist nicht gestattet und stellt eine Straftat dar.
+(9). Ein Foto von einer Person/mehreren Personen darf nur mit Einverständnis aller abgebildeten Personen veröffentlicht werden. Dies gilt nicht für Fotos im öffentlichen Raum.
 (10). Wer die Öffentlichkeit durch Entblößung des Körpers stört und Ärgernis erregt, macht sich strafbar und wird mit einem Bußgeld bestraft.
-(11). Jede Person ist dazu verpflichtet, sich gesund zu ernähren. Bei eintretender Bewusstlosigkeit, durch Mangelernährung wird die Person durch den Rettungsdienst mit einem Bußgeld bestraft.
 
 
 ## §6 StGB Organisierte Kriminalität

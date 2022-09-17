@@ -4,8 +4,8 @@ icon: ':bookmark_tabs:'
 order: 99
 ---
 
-[[§? Abs. ? StGB]=warning] = Ordnungswidrigkeit
-[[§? Abs. ? StGB]=danger] = Straftat
+[[§? Abs. ?]=warning] = Ordnungswidrigkeit
+[[§? Abs. ?]=danger] = Straftat
 
 ## [§1 StGB Wirtschaftskriminalität](../gesetze/stgb/#1-stgb-wirtschaftskriminalität)
 

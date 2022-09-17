@@ -4,8 +4,8 @@ icon: ':bookmark_tabs:'
 order: 98
 ---
 
-[[§? Abs. ? StGB]=warning] = Ordnungswidrigkeit
-[[§? Abs. ? StGB]=danger] = Straftat
+[[§? Abs. ?]=warning] = Ordnungswidrigkeit
+[[§? Abs. ?]=danger] = Straftat
 
 ## [§1 Gewerbeordnung](../Gesetze/GewO.md#1-gewo-gewerbeordnung)
 

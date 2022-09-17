@@ -37,6 +37,26 @@ order: 99
 [[§2 Abs. 5 StGB]=danger] | Illegale Waffenmodifikation          | Abnahme Waffe(n) + Modifikationen                   |             15 |                    15.000€
 [[§2 Abs. 6 StGB]=danger] | Organisierter illegaler Waffenhandel          | Abnahme Waffe(n)                   |             40 |                    40.000€
 
+## [§3 StGB Körperliche Integrität](../gesetze/stgb/#3-stgb-körperliche-integrität)
+
+§3 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
+--------------|--------------------------------------|----------------------|--------------:|----------------------------:
+[[§3 Abs. 1 StGB]=danger] | Körperverletzung          | ggf. Tatwaffe                   |             0 |                    10.000€
+[[§3 Abs.2 StGB]=danger] | Freiheitsberaubung          | -                   |             10 |                    15.000€
+[[§3 Abs.2 StGB]=danger] | Geiselnahme          | -                   |             20 |                    15.000€
+[[§3 Abs.3 StGB]=warning] | Belästigung          | -                   |             0 |                    10.000€
+[[§3 Abs.4 StGB]=warning] | Drohung          | -                   |             0 |                    10.000€
+[[§3 Abs.5 StGB]=warning] | Morddrohung          | -                   |             10 |                    15.000€
+[[§3 Abs.6 StGB]=warning] | Versuchter Mord          | -                   |             30 |                    30.000€
+[[§3 Abs.6 StGB]=warning] | Mord          | -                   |             40 |                    60.000€
+[[§3 Abs.7 StGB]=warning] | Versuchter Totschlag          | -                   |             15 |                    15.000€
+[[§3 Abs.7 StGB]=warning] | Totschlag          | -                   |             20 |                    30.000€
+[[§3 Abs.8 StGB]=warning] | Beihilfe zum Mord          | -                   |             20 |                    20.000€
+[[§3 Abs.9 StGB]=warning] | Unterlassene Hilfeleistung          | -                   |             10 |                    20.000€
+[[§3 Abs.10 StGB]=danger] | Beleidigung          | -                   |             0 |                    5.000€
+[[§3 Abs.11 StGB]=danger] | Öffentliche Aufforderung zu Straftaten          | -          |             15 |                    15.000€
+[[§3 Abs.12 StGB]=danger] | Rufmord / üble Nachrede          | -          |             20 |                    35.000€
+
 <style>
 .sidebar-right {
     display: none;

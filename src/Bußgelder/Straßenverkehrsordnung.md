@@ -4,8 +4,8 @@ icon: ':bookmark_tabs:'
 order: 100
 ---
 
-[[‎]=warning] = Ordnungswidrigkeit
-[[‎]=danger] = Straftat
+[[§? Abs. ?]=warning] = Ordnungswidrigkeit
+[[§? Abs. ?]=danger] = Straftat
 
 ## [§1 StVO Führerschein](../Gesetze/StVO.md#1-stvo-führerschein)
 

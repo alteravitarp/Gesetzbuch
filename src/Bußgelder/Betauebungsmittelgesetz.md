@@ -4,6 +4,9 @@ icon: ':bookmark_tabs:'
 order: 99
 ---
 
+[[§? Abs. ? StGB]=warning] = Ordnungswidrigkeit
+[[§? Abs. ? StGB]=danger] = Straftat
+
 ## [§1 BtMG Besitz und Handel](../gesetze/btmg/#1-btmg-besitz-und-handel)
 
 

@@ -4,6 +4,9 @@ icon: ':bookmark_tabs:'
 order: 98
 ---
 
+[[§? Abs. ? StGB]=warning] = Ordnungswidrigkeit
+[[§? Abs. ? StGB]=danger] = Straftat
+
 ## [§2 Pflichten aller Beamten](../Gesetze/BDG.md#2-pflichten-aller-beamten)
 
 

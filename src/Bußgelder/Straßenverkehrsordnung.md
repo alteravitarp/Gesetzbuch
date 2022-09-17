@@ -4,6 +4,9 @@ icon: ':bookmark_tabs:'
 order: 100
 ---
 
+[[§? Abs. ? StGB]=warning] = Ordnungswidrigkeit
+[[§? Abs. ? StGB]=danger] = Straftat
+
 ## [§1 StVO Führerschein](../Gesetze/StVO.md#1-stvo-führerschein)
 
 §1 StVO                    | Verkehrsdelikte                   | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }

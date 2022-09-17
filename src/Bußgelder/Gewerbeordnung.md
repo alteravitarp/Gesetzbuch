@@ -4,6 +4,9 @@ icon: ':bookmark_tabs:'
 order: 98
 ---
 
+[[§? Abs. ? StGB]=warning] = Ordnungswidrigkeit
+[[§? Abs. ? StGB]=danger] = Straftat
+
 ## [§1 Gewerbeordnung](../Gesetze/GewO.md#1-gewo-gewerbeordnung)
 
 §1 GewO                      | Gewerbeordnung                                        | Strafe / Strikes                                     |        Hafteinheiten | Bußgeld  { class="compact thead--purple" }

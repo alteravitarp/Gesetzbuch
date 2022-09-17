@@ -46,14 +46,14 @@ order: 99
 [[§3 Abs.2 StGB]=danger] | Geiselnahme          | -                   |             20 |                    15.000€
 [[§3 Abs.3 StGB]=warning] | Belästigung          | -                   |             0 |                    10.000€
 [[§3 Abs.4 StGB]=warning] | Drohung          | -                   |             0 |                    10.000€
-[[§3 Abs.5 StGB]=warning] | Morddrohung          | -                   |             10 |                    15.000€
-[[§3 Abs.6 StGB]=warning] | Versuchter Mord          | -                   |             30 |                    30.000€
-[[§3 Abs.6 StGB]=warning] | Mord          | -                   |             40 |                    60.000€
-[[§3 Abs.7 StGB]=warning] | Versuchter Totschlag          | -                   |             15 |                    15.000€
-[[§3 Abs.7 StGB]=warning] | Totschlag          | -                   |             20 |                    30.000€
-[[§3 Abs.8 StGB]=warning] | Beihilfe zum Mord          | -                   |             20 |                    20.000€
-[[§3 Abs.9 StGB]=warning] | Unterlassene Hilfeleistung          | -                   |             10 |                    20.000€
-[[§3 Abs.10 StGB]=danger] | Beleidigung          | -                   |             0 |                    5.000€
+[[§3 Abs.5 StGB]=danger] | Morddrohung          | -                   |             10 |                    15.000€
+[[§3 Abs.6 StGB]=danger] | Versuchter Mord          | -                   |             30 |                    30.000€
+[[§3 Abs.6 StGB]=danger] | Mord          | -                   |             40 |                    60.000€
+[[§3 Abs.7 StGB]=danger] | Versuchter Totschlag          | -                   |             15 |                    15.000€
+[[§3 Abs.7 StGB]=danger] | Totschlag          | -                   |             20 |                    30.000€
+[[§3 Abs.8 StGB]=danger] | Beihilfe zum Mord          | -                   |             20 |                    20.000€
+[[§3 Abs.9 StGB]=danger] | Unterlassene Hilfeleistung          | -                   |             10 |                    20.000€
+[[§3 Abs.10 StGB]=warning] | Beleidigung          | -                   |             0 |                    5.000€
 [[§3 Abs.11 StGB]=danger] | Öffentliche Aufforderung zu Straftaten          | -          |             15 |                    15.000€
 [[§3 Abs.12 StGB]=danger] | Rufmord / üble Nachrede          | -          |             20 |                    35.000€
 

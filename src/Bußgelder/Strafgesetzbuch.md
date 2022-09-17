@@ -4,6 +4,9 @@ icon: ':bookmark_tabs:'
 order: 99
 ---
 
+[[§? Abs. ? StGB]=warning] = Straftat
+[[§? Abs. ? StGB]=danger] = Straftat
+
 ## [§1 StGB Wirtschaftskriminalität](../gesetze/stgb/#1-stgb-wirtschaftskriminalität)
 
 §1 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }

@@ -46,6 +46,7 @@ d. Sicherung eventueller Straftäter
 * Zur Sicherung von Beweismitteln
 * Betreten von Sperrgebieten
 * Bei einer Festnahme (Aufgrund von Eigenschutz)
+* Person ist auf Bewährung
 
 (3). **Fesselung**: Beamte können Personen jederzeit durch den Einsatz von Handschellen, Elektroschocker o.Ä. handlungsunfähig machen, wenn mindestens einer der folgenden Punkte zutrifft: 
 

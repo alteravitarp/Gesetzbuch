@@ -68,6 +68,7 @@ e. Krankenhaus gesicherter Bereich (PLZ 7273 - 7275)
 
 (4). Die dort zuständigen Beamten haben die Befugnis sämtliche unbefugte Eindringlinge festzunehmen oder unschädlich zu machen.
 (5). Wer Regierungsmitarbeiterinnen und Mitarbeiter rechtswidrig mit Gewalt oder durch Drohung mit Gewalt nötigt, ihre Befugnisse nicht oder in einem bestimmten Sinne auszuüben, macht sich strafbar.
+(6). Wer vor Gericht oder vor einer anderen zur eidlichen Vernehmung falsch aussagt, macht sich strafbar.
 
 
 ## §5 StGB Sonstiges

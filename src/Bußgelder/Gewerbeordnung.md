@@ -1,7 +1,7 @@
 ---
 label: Gewerbeordnung
 icon: ':bookmark_tabs:'
-order: 98
+order: 99
 ---
 
 [[§? Abs. ?]=warning] = Ordnungswidrigkeit

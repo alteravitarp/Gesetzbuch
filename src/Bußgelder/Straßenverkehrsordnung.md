@@ -1,7 +1,7 @@
 ---
 label: Straßenverkehrsordnung
 icon: ':bookmark_tabs:'
-order: 100
+order: 97
 ---
 
 [[§? Abs. ?]=warning] = Ordnungswidrigkeit

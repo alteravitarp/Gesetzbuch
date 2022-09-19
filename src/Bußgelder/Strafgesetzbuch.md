@@ -71,9 +71,9 @@ order: 99
 [[§4 Abs. 2 StGB]=warning] | Beleidigung eines Beamten         | -                   |             0 |                    10.000€
 [[§4 Abs. 2 StGB]=warning] | Belästigung eines Beamten         | -                   |             0 |                    30.000€
 [[§4 Abs. 3 StGB]=danger] | Unberechtigtes Betreten eines Hochsicherheitsgebietes         | -                   |             30 |                    50.000€
-[[§4 Abs. 4 StGB]=danger] | Nötigung von Verfassungsorganen         | -                   |             20 |                    50.000€
-[[§4 Abs. 5 StGB]=danger] | Mutwilliger Missbrauch des Rettungsdienstes         | -                   |             10 |                    50.000€
+[[§4 Abs. 5 StGB]=danger] | Nötigung von Verfassungsorganen         | -                   |             20 |                    50.000€
 [[§4 Abs. 6 StGB]=danger] | Falschaussage         | -                   |             30 |                    50.000€
+[[§4 Abs. 7 StGB]=danger] | Mutwilliger Missbrauch des Rettungsdienstes         | -                   |             10 |                    50.000€
 
 ## [§5 StGB Sonstiges](../gesetze/stgb/#5-stgb-sonstiges)
 

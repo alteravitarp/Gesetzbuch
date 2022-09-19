@@ -30,8 +30,6 @@ order: 99
 Das Gewerbeamt kann ein Gewerbe beim Überschreiten von 10 Strikes **dauerhaft schließen**!
 !!!
 
-[!badge size="s" variant="warning" text="Test"]
-
 <style>
 .sidebar-right {
     display: none;

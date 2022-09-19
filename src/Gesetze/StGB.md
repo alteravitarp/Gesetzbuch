@@ -56,7 +56,7 @@ c. um eine andere Straftat zu ermöglichen oder zu verdecken
 
 ## §4 StGB Umgang mit Beamten
 
-(1). Bei Amtshandlungen vor Ort und Stelle ist der Beamte, der sie leitet, befugt, Personen, die seine amtliche Tätigkeit vorsätzlich stören oder sich den von ihm innerhalb seiner Zuständigkeit getroffenen Anordnungen widersetzen, festnehmen zu lassen.
+(1). Bei Amtshandlungen ist der Beamte, der sie leitet, befugt, Personen, die seine amtliche Tätigkeit vorsätzlich stören oder sich den von ihm innerhalb seiner Zuständigkeit getroffenen Anordnungen widersetzen, festnehmen zu lassen bzw. diese zu sanktionieren.
 (2). Wer nach [[§3 Abs. 3 StGB]] und [[§3 Abs. 10 StGB]] einen Beamten belästigt oder beleidigt, wird verschärft bestraft.
 (3). Das Betreten eines Hochsicherheitsgebietes ist nur mit Erlaubnis der dort zuständigen Behörde erlaubt. Als Hochsicherheitsgebiet zählen folgende Orte:
 

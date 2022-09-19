@@ -15,7 +15,6 @@ order: 99
 [[§1 Abs. 1 StGB]=danger] | Diebstahl          | Abnahme Diebesgut                    |             10 |                    10.000€
 [[§1 Abs. 2 StGB]=danger] | Raub          | Abnahme Diebesgut                    |             15 |                    30.000€
 [[§1 Abs. 2 StGB]=danger] | Bankraub          | Abnahme Diebesgut                    |             20 |                    60.000€
-[[§1 Abs. 2 StGB]=danger] | Raub          | Abnahme Diebesgut                    |             15 |                    30.000€
 [[§1 Abs. 3 StGB]=warning] | (Versuchte) Bestechung          | -                    |             10 |                    20.000€
 [[§1 Abs. 4 StGB]=warning] | Besitz von staatlichen Gegenständen          | Staatliche Gegenstände                    |             0 |                    25.000€
 [[§1 Abs. 5 StGB]=warning] | Arbeiten ohne gültige Arbeitslizenz          | Staatliche Gegenstände                    |             0 |                    30.000€

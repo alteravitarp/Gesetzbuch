@@ -1,7 +1,7 @@
 ---
 label: Strafgesetzbuch
 icon: ':bookmark_tabs:'
-order: 96
+order: 100
 ---
 
 [[§? Abs. ?]=warning] = Ordnungswidrigkeit

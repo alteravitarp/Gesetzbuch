@@ -1,7 +1,7 @@
 ---
 label: Betäubungsmittelgesetz
 icon: ':bookmark_tabs:'
-order: 100
+order: 96
 ---
 
 [[§? Abs. ?]=warning] = Ordnungswidrigkeit

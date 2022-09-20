@@ -35,11 +35,11 @@ order: 99
 
 §4 StVO                    | Verkehrsdelikte                                                       | Strafe             | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
 ---------------------------|-----------------------------------------------------------------------|--------------------|--------------:|------------------------------------------:
-[[§3 Abs. 1 StVO]=warning] | Fahren mit einem nicht technisch einwandfreiem Zustand des Fahrzeuges | -                  |             0 |                                    10.000€
-[[§3 Abs. 2 StVO]=warning] | Fahren ohne Beleuchtung (Nachts)                                      | [[1 Punkt]=danger] |             0 |                                    10.000€
-[[§3 Abs. 3 StVO]=warning] | Verkehrssicherung- und Erste-Hilfe-Equipment nicht mitgeführt         | -                  |             0 |                                    10.000€
-[[§3 Abs. 4 StVO]=warning] | Abmontieren oder verdecken von Kfz-Kennzeichen                        | Fahrzeug           |             0 |                                    30.000€
-[[§3 Abs. 4 StVO]=danger]  | Nutzen eines falschen Kfz-Kennzeichen                                 | Fahrzeug           |            10 |                                    45.000€
+[[§4 Abs. 1 StVO]=warning] | Fahren mit einem nicht technisch einwandfreiem Zustand des Fahrzeuges | -                  |             0 |                                    10.000€
+[[§4 Abs. 2 StVO]=warning] | Fahren ohne Beleuchtung (Nachts)                                      | [[1 Punkt]=danger] |             0 |                                    10.000€
+[[§4 Abs. 3 StVO]=warning] | Verkehrssicherung- und Erste-Hilfe-Equipment nicht mitgeführt         | -                  |             0 |                                    10.000€
+[[§4 Abs. 4 StVO]=warning] | Abmontieren oder verdecken von Kfz-Kennzeichen                        | Fahrzeug           |             0 |                                    30.000€
+[[§4 Abs. 4 StVO]=danger]  | Nutzen eines falschen Kfz-Kennzeichen                                 | Fahrzeug           |            10 |                                    45.000€
 
 ## [§5 StVO Geschwindigkeitsüberschreitungen (Innerorts)](../Gesetze/StVO.md#5-stvo-geschwindigkeit-und-verkehrszeichen)
 

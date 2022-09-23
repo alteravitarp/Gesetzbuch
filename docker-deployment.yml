@@ -1,8 +1,8 @@
 version: v1
 services:
-  - name: gesetzebuch_web
-    image: registry.r3ktm8.de/fivem/gesetzebuch:unstable
-    hostname: gesetz.alteravitarp.de
+  - name: regelwerk_web
+    image: registry.r3ktm8.de/fivem/regelwerk:unstable
+    hostname: regelwerk.alteravitarp.de
     network: web
     ingress:
       type: traefik

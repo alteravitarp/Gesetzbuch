@@ -1,23 +1,16 @@
 input: build/
 output: dist/
-url: gesetz.alteravitarp.de
+url: regelwerk.alteravitarp.de
 branding:
-  title: Gesetzbücher
-  label: IC
+  title: Regelwerk
+  label: OOC
 links:
   - text: Discord
     link: https://discord.gg/alteravita
     icon: https://img.icons8.com/material-outlined/344/discord-logo.png
-  - text: Government Network
-    link: https://stage-gov.alteravitarp.de
-    icon: ':desktop_computer:'
 
 footer:
   copyright: "&copy; Copyright . All rights reserved."
-
-edit:
-  repo: 'https://github.com/alteravitarp/Gesetzbuch'
-  label: Edit on GitLab
 
 editor:
   enabled: false

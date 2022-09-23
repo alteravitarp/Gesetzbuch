@@ -41,7 +41,7 @@ icon: ':supervillain:'
 
 **6.4.5.** Während eine Fraktion im Krieg ist kann diese keine weitere Kriegserklärung aussprechen, jedoch erhalten.
 
-**6.4.6.** Sollte eine Person im Gangkrieg aus der Not-OP kommen, gilt weiterhin 3.13.
+**6.4.6.** Sollte eine Person im Gangkrieg aus der Not-OP kommen, gilt weiterhin [3.13 NLR](Roleplay_allgemein.md#313-new-life-rule-nlr).
 
 **6.4.7.** Greenzones sind für Mitglieder bei Konfrontation zwischen beiden Kriegsparteien komplett aufgehoben. Ausnahme hierbei ist die Greenzone am Krankenhaus!
 

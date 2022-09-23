@@ -12,7 +12,7 @@ Lese die Regel, bevor du auf dem Server, spielst. Unwissenheit √ºber Regeln sch√
 ## Inhaltsverzeichnis
 
 1. [Allgemeines](Regelwerk/Allgemeines.md)
-2. [Hilfestellungen und Richtlinien](Regelwerk/Richlinien.md)
+2. [Hilfestellungen und Richtlinien](Regelwerk/Hilfestellungen.md)
 3. [Roleplay Allgemein](Regelwerk/Roleplay_allgemein.md)
 4. [Roleplay Erweitert](Regelwerk/Roleplay_erweitert.md)
 5. [Roleplay Fahrzeuge](Regelwerk/Roleplay_fahrzeuge.md)

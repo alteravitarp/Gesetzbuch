@@ -47,11 +47,11 @@ icon: ':supervillain:'
 
 **6.4.8.** Das Abcampen am Not-OP Punkt (Krankenhaus) ist nicht erlaubt.
 
-**6.4.9.** Im Krieg ist zwischen den beteiligten Fraktionen KOS (Schießen bei Sichtung) gestattet. Dennoch sollte auch im Krieg der Fokus auf dem RP liegen, Power-RP z.B. durch foltern, hinrichten etc. ist erlaubt.
+**6.4.9.** Im Krieg ist zwischen den beteiligten Fraktionen KOS (Schießen bei Sichtung) gestattet. Dennoch sollte auch im Krieg der Fokus auf dem RP liegen, [Power-RP](Roleplay_erweitert.md#44-power-roleplay) z.B. durch foltern, hinrichten etc. ist erlaubt.
 
 **6.4.10** Im Krieg dürfen keine Mitglieder in einer Fraktion aufgenommen werden.
 
-**6.4.11.** [[WICHTIG]=warning] Fear-RP muss weiterhin gespielt werden, Drive-By (Die Schusseröffnung aus einem Fahrzeug) ist nicht erlaubt.
+**6.4.11.** [[WICHTIG]=warning] [Fear-RP](Roleplay_erweitert.md#45-fear-roleplay) muss weiterhin gespielt werden, Drive-By (Die Schusseröffnung aus einem Fahrzeug) ist nicht erlaubt.
 
 **6.4.12.** [[INFORMATION]=info] Diese Regelung ist ein Pilotprojekt und kann jederzeit revidiert werden. Durch die Verlängerung der Kriegsdauer, wird zuzüglich das Fraktionsmanagement, stärker auf kriegsähnliche Verstöße, außerhalb eines Krieges achten und diese verschärft sanktionieren! Aktionen rund um Felder und Labore sind davon ausgenommen.
 

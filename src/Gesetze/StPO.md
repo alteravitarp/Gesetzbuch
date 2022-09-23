@@ -15,6 +15,7 @@ icon: ':card_file_box:'
 (5). Bei Wiederholungstätern ist eine Minderung der Strafe grundsätzlich ausgeschlossen. Ausgesnommen hiervon ist die StPO, sowie die GewO.
 (6). Für jeden Tatbestand sind Beweise anzuführen. 
 (7). Eine nicht bezahlte Bußgeldstrafe wird in Haftzeiten umgewandelt. Hierbei entspricht ein Bußgeld von 1.000€, 2 Hafteinheiten.
+(8). Das Gericht entscheidet ob, wie viel und wer die Gerichtskosten für eine Verhandlung zu tragen hat.
 
 ## §2 Beweismittel
 (1). Vor Gericht sind folgende Beweise zulässig:

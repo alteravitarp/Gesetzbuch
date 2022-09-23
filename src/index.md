@@ -1,15 +1,12 @@
 ---
-label: Gesetze & Kataloge
+label: Regelwerk
 layout: default
 order: 100
-icon: ":rocket:"
+icon: ":closed_book:"
 ---
 
-# Gesetze & Kataloge
+# Regelwerk
 
-Auf dieser Webseite findest du alles rund um :book: [Gesetze](/gesetze/GG.md) und :euro: [Bußgelder](/bußgelder/Allgemein.md).
-
-
-!!!warning **Wichtig**
-Die hier beschriebenen Gesetze und Bußgelder sind nicht in der realen Welt gültig und beziehen sich ausschließlich auf die Spielwelt von _**Altera Vita RP**_ im Videospiel _**Grand Theft Auto 5**_.
+!!!info **Disclamer**
+Lese die Regel, bevor du auf dem Server, spielst. Unwissenheit über Regeln schützen nicht vor Bestrafungen.
 !!!

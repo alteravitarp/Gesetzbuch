@@ -25,7 +25,7 @@ icon: ':supervillain:'
 
 **6.3.2.** Angriffe auf eine andere Person dürfen nur mit einem gutem RP-Hintergrund gestartet werden. Hierbei muss jede beteiligte Person den Grund nachvollziehen können.
 
-**6.3.3.** Es muss einer Person des Weiteren genügend Reaktionszeit gegeben werden, um z.B. Forderungen nachzukommen (Siehe Power-Roleplay).
+**6.3.3.** Es muss einer Person des Weiteren genügend Reaktionszeit gegeben werden, um z.B. Forderungen nachzukommen (Siehe [Power-Roleplay](Roleplay_erweitert.md#44-power-roleplay)).
 
 
 ## 6.4. Gangkriege

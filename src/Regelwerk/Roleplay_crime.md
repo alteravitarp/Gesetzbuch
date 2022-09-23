@@ -1,7 +1,7 @@
 ---
 label: Roleplay Crime
 layout: default
-order: 80
+order: 95
 icon: ':supervillain:'
 ---
 

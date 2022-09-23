@@ -1,7 +1,7 @@
 ---
 label: Roleplay Staatliche Fraktion
 layout: default
-order: 80
+order: 94
 icon: ':cop:'
 ---
 

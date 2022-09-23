@@ -1,11 +1,11 @@
 ---
 label: Allgemeines
 layout: default
-order: 80
+order: 100
 icon: ':spiral_note_pad:'
 ---
 
-# Allgemeines
+# 1. Allgemeines
 
 ## 1.1. Verhalten
 

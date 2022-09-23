@@ -1,12 +1,14 @@
 ---
 label: Fraktionen
 layout: default
-order: 80
+order: 93
 icon: ':spiral_note_pad:'
 ---
 
 # 8. Fraktionen
-!!! danger Wichtig: Missachtungen der Regeln können die sofortige Auflösung der Fraktion bedeuten.
+!!! danger 
+Wichtig: Missachtungen der Regeln können die sofortige Auflösung der Fraktion bedeuten.
+!!!
 
 ## 8.1. Übergabe der Fraktion
 

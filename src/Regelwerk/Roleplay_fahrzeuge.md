@@ -1,7 +1,7 @@
 ---
 label: Roleplay Fahrzeuge
 layout: default
-order: 80
+order: 96
 icon: ':car:'
 ---
 

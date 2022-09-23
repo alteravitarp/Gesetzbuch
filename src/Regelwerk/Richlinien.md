@@ -1,7 +1,7 @@
 ---
 label: Hilfestellungen und Richtlinien
 layout: default
-order: 80
+order: 99
 icon: ':spiral_note_pad:'
 ---
 
@@ -9,7 +9,9 @@ icon: ':spiral_note_pad:'
 
 ## 2.1. Blacklisted Wörter
 
-!!!warning Die folgende Liste wird stets erweitert. Diese Begriffe sind unter keinen Umständen im Roleplay zu nutzen!
+!!!warning
+Die folgende Liste wird stets erweitert. Diese Begriffe sind unter keinen Umständen im Roleplay zu nutzen!
+!!!
 
 **Im Kopf (mache ich XY)**
 Bitte nutzt diese Phrase niemals. Solltet ihr gleich noch einkaufen müssen, bleibt doch einfach im Charakter und erwähnt nicht explizit, dass ihr (vor dem Bildschirm) gleich einkaufen müsst. Jeder wird das verstehen.

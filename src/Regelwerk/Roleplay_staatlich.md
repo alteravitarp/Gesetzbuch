@@ -34,11 +34,25 @@ icon: ':cop:'
 **7.2.2.** Eine Ausnahme hierbei ist das Schießen auf Luftfahrzeuge, um diese bei Verfolgungsjagden zum Landen zu zwingen.
 
 ## 7.3. Sanktionierungen durch die Regierungen
-**7.3.1.** Die Bundesregierung darf im Rahmen eines Ermittlungsverfahren personelle Sanktionen (Suspendierungen) in anderen staatlichen Fraktionen erwirken, die Dauer der Sanktion ist allerdings auf 24 Stunden begrenzt.
+**7.3.1.** Als staatliche Fraktion gilt:
 
-**7.3.2.** Die Bundesregierung darf im Rahmen eines Ermittlungsverfahren andere gewerbliche Einrichtungen sanktionieren (Schließung der Betriebsstätte) erwirken, die Dauer der Sanktion ist allerdings auf 24 Stunden begrenzt.
+a. Bundesregierung
+b. Bundespolizei
+c. Deutsches Rotes Kreuz
+d. ADAC
 
-**7.3.3.** Die Bundesregierung darf im Rahmen des Gewerbeamts gewerbliche Einrichtungen dauerhaft schließen (oder zeitlich begrenzt), wenn der Inhaber der Einrichtung offene Gebühren nicht zahlt oder den Richtlinien nicht nachkommt (mind. 10 Strikes).
+**7.3.2.** Die Bundesregierung darf im Rahmen eines Ermittlungsverfahren personelle Sanktionen (Suspendierungen) in anderen staatlichen Fraktionen erwirken, die Dauer der Sanktion ist allerdings auf 24 Stunden begrenzt.
 
-**7.3.4.** Die Bundesregierung darf keine Personen in anderen staatlichen Fraktionen kündigen, degradieren oder befördern. Es ist allerdings erlaubt, eine Empfehlung auszusprechen. 
+**7.3.3.** Die Bundesregierung darf im Rahmen eines Gerichtsverfahren (gerichtliches Urteil) gegen eine Staatliche Fraktion folgende Sanktionen erlassen:
+
+a. Gehaltskürzung über die EKSt.
+b. Erhöhung von Materialkosten
+c. Entziehung von Ausbildungen
+d. Anordnung einer MPU
+
+**7.3.4.** Die Bundesregierung darf im Rahmen eines Ermittlungsverfahren andere gewerbliche Einrichtungen sanktionieren (Schließung der Betriebsstätte) erwirken, die Dauer der Sanktion ist allerdings auf 24 Stunden begrenzt.
+
+**7.3.5.** Die Bundesregierung darf im Rahmen des Gewerbeamts gewerbliche Einrichtungen dauerhaft schließen (oder zeitlich begrenzt), wenn der Inhaber der Einrichtung offene Gebühren nicht zahlt oder den Richtlinien nicht nachkommt (mind. 10 Strikes).
+
+**7.3.6.** Die Bundesregierung darf keine Personen in anderen staatlichen Fraktionen kündigen, degradieren oder befördern. Es ist allerdings erlaubt, eine Empfehlung auszusprechen. 
 

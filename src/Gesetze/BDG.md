@@ -81,7 +81,7 @@ b. Regierungsfahrzeuge aller Art (keine Zivil-Fahrzeuge)
 (2). Folgende Mitarbeiter fallen unter das Immunitätsgesetz §5:
 
 a. Bundeskanzler / Vizekanzler (und deren Ehepartner)
-b. Minister
+b. Minister / Ministerpräsident
 c. Staatsrichter / Richter
 d. Sicherheitschef
 e. Präsident und Vizepräsident der Polizei

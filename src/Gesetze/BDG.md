@@ -74,7 +74,7 @@ b. Regierungsfahrzeuge aller Art (keine Zivil-Fahrzeuge)
 ## §4 Allgemeine Befugnisse eines Polizei- und Zollbeamten
 (1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Polizeibeamter hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Polizei die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Revier, den Status ihrer Strafakte mitzuteilen.
 (2). **Kontrollpunkte**: Die Polizei hat das Recht, Kontrollpunkte zu errichten. Bei diesen Kontrollpunkten dürfen Personen sowie Fahrzeuge auf das Vorhandensein von illegalen Waffen, Gegenständen oder Substanzen kontrolliert werden. Hierbei muss die Kontrollstelle klar definiert und für Zivilisten ersichtlich sein.
-(3). **Offenes Tragen von Waffen**: Polizeibeamte dürfen, sofern es so von einem leitenden Beamten vorgegeben ist bzw. es die Situation vorschreibt, jederzeit ihre Dienstwaffe zu Eigen- und Fremdschutz offen tragen. Der Einsatz und das Mitführen von privaten Waffen ist nur mit einer Genehmigung von einem Staatsrichter, Justizminister oder Vize-/Kanzler gestattet.
+(3). **Offenes Tragen von Waffen**: Polizeibeamte dürfen, sofern es so von einem leitenden Beamten vorgegeben ist bzw. es die Situation vorschreibt, jederzeit ihre Dienstwaffe zu Eigen- und Fremdschutz offen tragen. Der Einsatz und das Mitführen von privaten Waffen im Dienst ist nur mit einer Genehmigung von einem Staatsrichter, Justizminister oder Vize-/Kanzler gestattet.
 (4). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben Dritter abzuwenden.
 
 ## §5 Immunität für Staatsbeamte
@@ -94,8 +94,8 @@ g. Leitender Branddirektor und Leitender Rettungsdienst
 
 ## §6 Allgemeine Befugnisse der Regierungsbeamten
 (1). **Auskunfts- und Identitätsprüfung Recht**: Ein Regierungsbeamte hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Regierung die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Regierungsgebäude, den Status ihrer Strafakte mitzuteilen.
-(2). **Offenes Tragen von Waffen**: Regierungsbeamte dürfen, sofern es so von einem leitenden Beamten vorgegeben ist bzw. es die Situation vorschreibt, jederzeit ihre Dienstwaffe zu Eigen- und Fremdschutz offen tragen. Der Einsatz und das Mitführen von privaten Waffen ist nur mit einer Genehmigung von einem Staatsrichter, Justizminister oder Vize-/Kanzler gestattet.
-(3). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben Dritter abzuwenden.
+(2). **Offenes Tragen von Waffen**: Regierungsbeamte dürfen, sofern es so von einem leitenden Beamten vorgegeben ist bzw. es die Situation vorschreibt, jederzeit ihre Dienstwaffe zu Eigen- und Fremdschutz offen tragen. Der Einsatz und das Mitführen von privaten Waffen im Dienst ist nur mit einer Genehmigung von einem Staatsrichter, Justizminister oder Vize-/Kanzler gestattet.
+(3). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben Dritter abzuwenden. 
 (4). Bei nicht diensttauglichen Verhalten, behält sich die Regierung [[§5 Abs. 2 a/b/c]](#5-immunität-für-staatsbeamte) vor, Personalentscheidungen im Namen der jeweiligen Vorgesetzten zu treffen und durchzusetzen.
 
 ## §7 Allgemeine Befugnisse der Beamten während eines Ausnahmezustands.

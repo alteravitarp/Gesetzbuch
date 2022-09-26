@@ -68,6 +68,7 @@ d. Sicherung eventueller Straftäter
 
 a. Polizei Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
 b. Regierungsfahrzeuge aller Art (keine Zivil-Fahrzeuge)
+
 (9). **Durchsetzen von Regierungsmaßnahmen**: Exekutivbeamte dürfen die nach §7 Abs. 1 StGB erlassenen Maßnahmen nur mit einem dafür ausgestellten, gültigen Dokument durchführen.
 
 ## §4 Allgemeine Befugnisse eines Polizei- und Zollbeamten

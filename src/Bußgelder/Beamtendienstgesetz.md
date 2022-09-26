@@ -34,6 +34,7 @@ order: 98
 §3 Abs. 7 BDG | Unverhältnismäßig hohe Hafteinheiten angewendet    | 2.000€ / unrechtmäßige Hafteinheit |             0 |                    200.000 €
 §3 Abs. 7 BDG | Missachtung der StPO    | - |             0 |                    300.000 €
 §3 Abs. 8 BDG | Gefangenentransport in einem unzulässigem Fahrzeug | -                                  |             0 |                     75.000 €
+§3 Abs. 9 BDG | Unbefugte Durchführung einer Regierungsmaßnahme | -                                  |             0 |                     250.000 €
 
 ## [§4 Allgemeine Befugnisse eines Polizei- und Zollbeamten](../Gesetze/BDG.md#4-allgemeine-befugnisse-eines-polizei--und-zollbeamten)
 
@@ -44,7 +45,6 @@ order: 98
 §4 Abs. 4 BDG | Unzulässiger Schusswaffengebrauch                      | -                       |             0 |                     75.000 €
 §4 Abs. 4 BDG | Unzulässiger Schusswaffengebrauch mit Körperverletzung | -                       |             0 |                    150.000 €
 §4 Abs. 4 BDG | Unzulässiger Schusswaffengebrauch mit Todesfolge       | -                       |             0 |                    200.000 €
-§4 Abs. 5 BDG | Unzulässige Durchführung einer Razzia                  | 50.000 € an Geschädigte |             0 |                          0 €
 
 ## [§6 Allgemeine Befugnisse der Regierungsbeamten](../Gesetze/BDG.md#6-allgemeine-befugnisse-der-regierungsbeamten)
 

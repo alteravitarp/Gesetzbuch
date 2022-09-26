@@ -89,7 +89,7 @@ e. Präsident und Vizepräsident der Polizei
 f. Ärztlicher Direktor und Chefarzt des Deutschen Roten Kreuzes
 g. Leitender Branddirektor und Leitender Rettungsdienst
 
-(3). Jedes Strafverfahren und jedes Verfahren gegen einen Staatsbeamten, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in [[§5 Abs. 2a/b/c]] genannten Staatsbeamten auszusetzen.
+(3). Jedes Strafverfahren und jedes Verfahren gegen einen anderen Staatsbeamten, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in [[§5 Abs. 2a/b/c]] genannten Staatsbeamten auszusetzen.
 (4). Die Immunität kann von einem in [[§5 Abs. 2a]] genannten Staatsbeamten temporär ausgesetzt werden. Die Strafverfolgung ist im äußersten Notfall durch die Dienstaufsichtsbehörde der Bundesregierung möglich. Eine begangene Straftat kann von der Dienstaufsichtbehörde auch dann bestraft werden, wenn diese innerhalb der Zeit begangen wurde, in der der Täter Immunität genossen hat.
 
 ## §6 Allgemeine Befugnisse der Regierungsbeamten

@@ -86,7 +86,7 @@ b. Minister / Ministerpräsident
 c. Staatsrichter / Richter
 d. Sicherheitschef
 e. Präsident und Vizepräsident der Polizei
-f. Ärztlicher Direktor und Chefarzt des Deutschen Roten Kreuzes
+f. Ärztlicher Direktor
 
 
 (3). Jedes Verfahren gegen eine andere Person, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in [[§5 Abs. 2a/b/c]] genannten Staatsbeamten auszusetzen.

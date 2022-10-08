@@ -81,17 +81,14 @@ c. das an einem Kraftfahrzeug oder einem Kraftfahrzeuganhänger angebrachte amtl
 (2). Fahrzeuge müssen die Fahrbahnen benutzen, von zwei oder mehr Fahrbahnen die rechte. Seitenstreifen sind nicht Bestandteil der Fahrbahn.
 (3). Es ist möglichst weit rechts zu fahren, nicht nur bei Gegenverkehr, beim Überholtwerden, an Kuppen, in Kurven oder bei Unübersichtlichkeit.
 (4). Wer ein Fahrzeug führt, darf nur so schnell fahren, dass das Fahrzeug ständig beherrscht wird. Die Geschwindigkeit ist insbesondere den Straßen-, Verkehrs-, Sicht- und Wetterverhältnissen sowie den persönlichen Fähigkeiten und den Eigenschaften von Fahrzeug und Ladung anzupassen.
-(5). Die zulässige Höchstgeschwindigkeit beträgt auch unter günstigsten Umständen
+(5). Die zulässige Höchstgeschwindigkeit wird wie folgt eingeschränkt:
 
-a. am Würfelpark für alle Kraftfahrzeuge 70 km/h
-b. DRK und ADAC Gelände 20 km/h
-c. Carcer Way, Eastbourne Way und Abe Milton Parkway 50 km/h
-d. innerhalb geschlossener Ortschaften für alle Kraftfahrzeuge 100 km/h,
-e. außerhalb geschlossener Ortschaften für alle Kraftfahrzeuge 200 km/h,
-f. auf Autobahnen für alle Kraftfahrzeuge 200 km/h.
+a. Innerorts 100 Km/h
+b. Außerorts 200 Km/h
+b. Autobahn 280 Km/h
 
-(6). Die zulässige Höchstgeschwindigkeit kann jederzeit durch Verkehrsschilder begrenzt werden. Hierbei gilt der angezeigte Wert verdoppelt. (z.B. 100 km/h-Schild = 200 km/h erlaubte Höchstgeschwindigkeit)
-(7). Die zulässige Höchstgeschwindigkeit kann durch die dynamische Verkehrsregelung verändert werden. Der angezeigte Werd wird nicht wie bei normalen Verkehrszeichen verdoppelt.
+(6). Die zulässige Höchstgeschwindigkeit von 280 Km/h darf nicht überschritten werden.
+(7). Die zulässige Höchstgeschwindigkeit kann durch die dynamische Verkehrsregelung verändert werden.
 (8). Stoppschild
 
 a. Wer ein Fahrzeug führt, muss anhalten und Vorfahrt gewähren.
@@ -118,3 +115,4 @@ a. Alle Scheinwerfer sind funktionstüchtig.
 b. Die Triebwerke sind funktionstüchtig.
 c. Das Fahrwerk ist funktionstüchtig
 d. Die Bordtechnik ist funktionstüchtig
+

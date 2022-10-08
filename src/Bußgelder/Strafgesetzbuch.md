@@ -22,7 +22,7 @@ order: 100
 [[§1 Abs. 6 StGB]=danger] | Geldwäsche        | Schwarzgeld                    |             10 |                    20.000€
 [[§1 Abs. 6 StGB]=danger] | Schmuggeln        | Illegale Gegenstände                    |             15 |                    25.000€
 [[§1 Abs. 7 StGB]=danger] | Besitz von illegalen Gegenständen        | Illegale Gegenstände                    |             15 |                    25.000€
-[[§1 Abs. 8 StGB]=danger] | Betrug        | Schadenssumme an den Geschädigten                    |             10 |                    50% Schadenssumme
+[[§1 Abs. 8 StGB]=danger] | Betrug        | Schadenssumme an den Geschädigten                    |             15 |                    50% Schadenssumme
 [[§1 Abs. 9 StGB]=danger] | Schwarzarbeit        | -                    |             20 |                    30.000€
 
 ## [§2 StGB Waffengesetz](../gesetze/stgb/#2-stgb-waffengesetz)

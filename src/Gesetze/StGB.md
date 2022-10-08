@@ -106,6 +106,17 @@ b. Erweiterete Personendurchsuchung: Erlaubt die Durchsuchung/Sicherstellung nac
 c. Durchsuchungsbefehl/Razziabeschluss: Erlaubt die Durchsuchung/Sicherstellung nach (a. und b.) sowie die Durchsuchung aller Räumlichkeiten, die sich im Besitz der genannten Personen oder Personengruppen befinden, sowie explizit erwähnte Räumlichkeiten. Darf vom Kanzler, Vizekanzler und Justizminister autorisiert werden.
 d. Ausgangssperre: Die Regierung darf jederzeit eine Ausgangssperre erlassen. Dies ist ein Ausnahmezustand zum Schutz der Bevölkerung. Sämtlichen Bürgern ist es ohne Befugnis nicht erlaubt, ihr Privatgrundstück zu verlassen. Der Aufenthalt ist nur in einer Schutzzone (Würfelpark, Polizeirevier, Krankenhaus) oder auf Privatgrundstück gestattet. Jede Person außerhalb dieser Zonen müssen mit sofortiger Festnahme rechnen.
 
+## §8 StGB Amerikanisches Hoheitsgebiet
+
+(1). Die Insel Cayo Perico ist ein US-amerikanischer Militärstützpunkt und 
+unterliegt amerikanischem Recht.
+(2). Der gesichterte Boden sowie der Luftraum über der Insel ist Hochsicherheitsgebiet 
+und darf nur mit Genehmigung des/der Bundeskanzler/in betreten 
+werden.
+(3). Gesuchte Straftäter und Kriminelle haben auf der Insel kein Asylrecht und 
+werden nach dem Auslieferungsabkommen vom 22.08.2022 an die 
+deutschen Behörden überstellt. 
+
 ## §31 StGB Strafmilderung-Umrechnung oder Absehen von Strafe
 
 (1). Der Urteilende kann die Strafe des Gesetzbuches mildern oder von Strafe absehen, wenn der Täter durch freiwilliges Offenbaren seines Wissens wesentlich dazu beigetragen hat, dass eine Straftat, die mit seiner Tat im Zusammenhang steht, aufgedeckt werden konnte, oder freiwillig sein Wissen so rechtzeitig einer Dienststelle offenbart, dass eine Straftat die mit seiner Tat im Zusammenhang steht und von deren Planung er weiß, noch verhindert werden kann.

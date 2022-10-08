@@ -105,6 +105,12 @@ order: 100
 [[§7 Abs. 1 StGB]=danger] | Nicht einhalten der Ausgangssperre          | -                   |             60 |                    100.000€
 [[§7 Abs. 2 StGB]=danger] | Propaganda/Volksverhetzung          | -                   |             60 |                    120.000€
 
+## [§8 StGB Amerikanisches Hoheitsgebiet](../gesetze/stgb/#8-stgb-amerikanisches-hoheitsgebiet)
+
+§8 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
+--------------|--------------------------------------|----------------------|--------------:|----------------------------:
+[[§8 Abs. 2 StGB]=danger] | Unberechtigtes Betreten des amerikanischen Hochsicherheitsgebietes          | -                   |             80 |                    120.000€
+
 <style>
 .sidebar-right {
     display: none;

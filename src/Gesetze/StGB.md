@@ -41,13 +41,14 @@ c. Vollautomatische Schusswaffen. 
 (3). Wer einer anderen Person in einer Weise unbefugt nachstellt, die geeignet ist, deren Lebensgestaltung schwerwiegend zu beeinträchtigen, macht sich strafbar.
 (4). Wer einen Menschen mit der Begehung eines gegen ihn oder eine ihm nahestehende Person gerichteten Verbrechens bedroht, macht sich strafbar.
 (5). Wer einen Menschen mit der Begehung eines gegen ihn oder eine ihm nahestehende Person gerichteten Mordes bedroht, macht sich strafbar.
-(6). Mörder ist, wer aus folgenden Gründen einen Menschen tötet
+(6). Mörder ist, wer aus folgenden Gründen einen Menschen vorsätzlich lebensbedrohlich verletzt:
 
 a. aus Mordlust, zur Befriedigung des Geschlechtstriebs, aus Habgier oder sonst aus niedrigen Beweggründen,
 b. heimtückisch oder grausam oder mit gemeingefährlichen Mitteln oder
 c. um eine andere Straftat zu ermöglichen oder zu verdecken
+Lebensbedrohliche Verletzungen sind ausschließlich solche Verletzungen, die durch die Not-OP Ärzte zu behandeln sind.
 
-(7). Wer einen Menschen tötet ohne des Mordes (5) schuldig zu sein, ist des Totschlags schuldig.
+(7). Wer einen Menschen fahrlässig lebensbedrohlich verletzt ohne des Mordes  [[§3 Abs. 6 StGB]] schuldig zu sein, ist des Totschlags schuldig.
 (8). Als Gehilfe wird bestraft, wer vorsätzlich einem anderen zu dessen vorsätzlich begangener rechtswidriger Tat Hilfe geleistet hat.
 (9). Wer bei Unglücksfällen oder gemeiner Gefahr oder Not nicht Hilfe leistet oder diese verhindert, obwohl dies erforderlich und ihm den Umständen nach zuzumuten ist, macht sich der unterlassenen Hilfeleistung schuldig.
 (10). Wer eine Person beleidigt, macht sich strafbar.
@@ -117,8 +118,19 @@ werden.
 werden nach dem Auslieferungsabkommen vom 22.08.2022 an die 
 deutschen Behörden überstellt. 
 
+## §9 StGB Terrorismus
+
+(1). Wer eine Vereinigung gründet, deren Zwecke oder deren Tätigkeiten darauf gerichtet sind, Totschlag, Völkermord, Verbrechen gegen die Menschlichkeit, Kriegverbrechen, Straftaten gegen die persönliche Freiheit in den Fällen zu begehen oder den Staat als Feind betrachtet und gewaltsam gegen ihn vorgeht macht sich strafbar:
+
+a. Personen, welche menschenrechtsverletzende Verbrechen in mehreren Fällen begehen, machen sich strafbar.
+b. welche die Zivilbevölkerung erheblich durch terroristische Aktivitäten einschränken, machen sich strafbar.
+c. die Staatsorgane erheblich durch Waffengewalt oder Androhung von Waffengewalt einschränken, machen sich strafbar.
+d. die die öffentliche Sicherheit massiv beeinträchtigen, machen sich strafbar.
+e. die wissentlich bei einer terroristischen Organisation mitarbeiten, machen sich strafbar.
+
 ## §31 StGB Strafmilderung-Umrechnung oder Absehen von Strafe
 
 (1). Der Urteilende kann die Strafe des Gesetzbuches mildern oder von Strafe absehen, wenn der Täter durch freiwilliges Offenbaren seines Wissens wesentlich dazu beigetragen hat, dass eine Straftat, die mit seiner Tat im Zusammenhang steht, aufgedeckt werden konnte, oder freiwillig sein Wissen so rechtzeitig einer Dienststelle offenbart, dass eine Straftat die mit seiner Tat im Zusammenhang steht und von deren Planung er weiß, noch verhindert werden kann.
 (2). War der Täter an der Tat beteiligt, muss sich sein Beitrag zur Aufklärung über den eigenen Tatbeitrag hinaus erstrecken.
+(3). Von [[§31 Abs. 1 StGB]] sind Personen ausgeschlossen, die nach [[§9 Abs. 1 StGB]] als Terrorist eingestruft oder bestraft werden.
 

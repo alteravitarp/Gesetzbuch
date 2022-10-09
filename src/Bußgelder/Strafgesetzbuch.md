@@ -111,6 +111,16 @@ order: 100
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§8 Abs. 2 StGB]=danger] | Unberechtigtes Betreten des amerikanischen Hochsicherheitsgebietes          | -                   |             80 |                    120.000€
 
+## [§9 StGB Terrorismus](../gesetze/stgb/#9-stgb-terrorismus)
+
+§9 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
+--------------|--------------------------------------|----------------------|--------------:|----------------------------:
+[[§9 Abs. 1a StGB]=danger] | Menschenrechtsverletzung          | -                   |             40 |                    30.000€
+[[§9 Abs. 1b StGB]=danger] | Bedrohung der Zivilbevölkerung          | -                   |             20 |                    20.000€
+[[§9 Abs. 1c StGB]=danger] | Bedrohung der Staatsorgane          | -                   |             60 |                    80.000€
+[[§9 Abs. 1d StGB]=danger] | Bedrohung der öffentlichen Sicherheit          | -                   |             20 |                    30.000€
+[[§9 Abs. 1e StGB]=danger] | Mitgliedschaft in einer terroristischen Organisation          | -                   |             10 |                    15.000€
+
 <style>
 .sidebar-right {
     display: none;

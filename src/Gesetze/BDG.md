@@ -69,7 +69,7 @@ d. Sicherung eventueller Straftäter
 a. Polizei Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
 b. Regierungsfahrzeuge aller Art (keine Zivil-Fahrzeuge)
 
-(9). **Durchsetzen von Regierungsmaßnahmen**: Exekutivbeamte dürfen die nach §7 Abs. 1 StGB erlassenen Maßnahmen nur mit einem dafür ausgestellten, gültigen Dokument durchführen.
+(9). **Durchsetzen von Regierungsmaßnahmen**: Exekutivbeamte dürfen die nach [[§7 Abs. 1 StGB]] erlassenen Maßnahmen nur mit einem dafür ausgestellten, gültigen Dokument durchführen.
 
 ## §4 Allgemeine Befugnisse eines Polizei- und Zollbeamten
 (1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Polizeibeamter hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Polizei die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Revier, den Status ihrer Strafakte mitzuteilen.
@@ -78,7 +78,7 @@ b. Regierungsfahrzeuge aller Art (keine Zivil-Fahrzeuge)
 (4). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben Dritter abzuwenden.
 
 ## §5 Immunität für Staatsbeamte
-(1). Wegen einer mit Strafe bedrohten Handlung darf einer der in [[§5 Abs. 2]] genannten Staatsbeamten nur mit Genehmigung eines Ministers oder des Bundeskanzlers zur Verantwortung gezogen oder verhaftet werden.
+(1). Wegen einer mit Strafe bedrohten Handlung darf einer der in [[§5 Abs. 2 BDG]] genannten Staatsbeamten nur mit Genehmigung eines Ministers oder des Bundeskanzlers zur Verantwortung gezogen oder verhaftet werden.
 (2). Folgende Mitarbeiter fallen unter das Immunitätsgesetz §5:
 
 a. Bundeskanzler / Vizekanzler (und deren Ehepartner)

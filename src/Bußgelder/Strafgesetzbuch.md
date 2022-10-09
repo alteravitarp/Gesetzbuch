@@ -73,7 +73,8 @@ order: 100
 [[§4 Abs. 3 StGB]=danger] | Unberechtigtes Betreten eines Hochsicherheitsgebietes         | -                   |             30 |                    50.000€
 [[§4 Abs. 5 StGB]=danger] | Nötigung von hohen Regierungsbeamten         | -                   |             40 |                    100.000€
 [[§4 Abs. 6 StGB]=danger] | Falschaussage         | -                   |             30 |                    50.000€
-[[§4 Abs. 7 StGB]=danger] | Mutwilliger Missbrauch des Rettungsdienstes         | -                   |             10 |                    50.000€
+[[§4 Abs. 7 StGB]=danger] | Mutwilliger Missbrauch des Notrufes         | -                   |             10 |                    50.000€
+[[§4 Abs. 8 StGB]=warning] | Mutwilliger Missbrauch des Rettungsdienstes         | -                   |             0 |                    50.000€
 
 ## [§5 StGB Sonstiges](../gesetze/stgb/#5-stgb-sonstiges)
 

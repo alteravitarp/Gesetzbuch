@@ -14,7 +14,7 @@ icon: ':cop:'
 a. :cop: Bundespolizei
 b. :cop: Bundeszollverwaltung <small>(teil der Bundespolizei)</small>
 c. :health_worker: Deutsches Rotes Kreuz
-d. :office_worker: Bundesregierung
+d. :office_worker: Gewerbeamt
 e. :firefighter: Berufsfeuerwehr
 
 (2). Im Falle einer Bedrohung muss das Überleben beteiligter Personen nach der folgenden Priorisierung sichergestellt werden:
@@ -67,9 +67,8 @@ d. Sicherung eventueller Straftäter
 (8). **Inhaftierung und Transport von Straftätern**: Um einen Straftäter zu inhaftieren, ist es essentiell diesem seine Rechte vorzulesen. Der Transport von Straftätern darf nur in den dafür vorgesehenen Fahrzeugen durchgeführt werden:
 
 a. Polizei Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
-b. Regierungsfahrzeuge aller Art (keine Zivil-Fahrzeuge)
 
-(9). **Durchsetzen von Regierungsmaßnahmen**: Exekutivbeamte dürfen die nach [[§7 Abs. 1 StGB]] erlassenen Maßnahmen nur mit einem dafür ausgestellten, gültigen Dokument durchführen.
+(9). **Durchsetzen von Regierungsmaßnahmen**: Polizeibeamte dürfen die nach [[§7 Abs. 1 StGB]] erlassenen Maßnahmen nur mit einem dafür ausgestellten, gültigen Dokument durchführen.
 
 ## §4 Allgemeine Befugnisse eines Polizei- und Zollbeamten
 (1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Polizeibeamter hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Polizei die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Revier, den Status ihrer Strafakte mitzuteilen.
@@ -78,24 +77,18 @@ b. Regierungsfahrzeuge aller Art (keine Zivil-Fahrzeuge)
 (4). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben Dritter abzuwenden.
 
 ## §5 Immunität für Staatsbeamte
-(1). Wegen einer mit Strafe bedrohten Handlung darf einer der in [[§5 Abs. 2 BDG]] genannten Staatsbeamten nur mit Genehmigung eines Ministers oder des Bundeskanzlers zur Verantwortung gezogen oder verhaftet werden.
-(2). Folgende Mitarbeiter fallen unter das Immunitätsgesetz §5:
+(1). Wegen einer mit Strafe bedrohten Handlung darf einer der in [[§5 Abs. 2 BDG]] genannten Staatsbeamten nicht zur Verantwortung gezogen oder verhaftet werden.
+(2). Folgende Staatsbeamte fallen unter das Immunitätsgesetz §5:
 
-a. Bundeskanzler / Vizekanzler (und deren Ehepartner)
-b. Minister / Ministerpräsident
-c. Präsident der Bundespolizei
-d. Ärztlicher Direktor des Deutschen Roten Kreuzes
+a. Präsident*in der Bundespolizei (und deren Ehepartner)
 
 (3). Jedes Verfahren gegen eine andere Person, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in [[§5 Abs. 2a/b]] genannten Staatsbeamten auszusetzen.
-(4). Die Immunität kann von einem in [[§5 Abs. 2a]] genannten Staatsbeamten ausgesetzt werden. Die Strafverfolgung ist im äußersten Notfall durch die Dienstaufsichtsbehörde der Bundesregierung möglich. Eine begangene Straftat kann von der Dienstaufsichtbehörde auch dann bestraft werden, wenn diese innerhalb der Zeit begangen wurde, in der der Täter Immunität genossen hat.
+(4). Die Immunität kann von einem in [[§5 Abs. 2a]] genannten Staatsbeamten ausgesetzt werden.
 
-## §6 Allgemeine Befugnisse der Regierungsbeamten
-(1). **Auskunfts- und Identitätsprüfung Recht**: Ein Regierungsbeamte hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Regierung die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Regierungsgebäude, den Status ihrer Strafakte mitzuteilen.
-(2). **Offenes Tragen von Waffen**: Regierungsbeamte dürfen, sofern es so von einem leitenden Beamten vorgegeben ist bzw. es die Situation vorschreibt, jederzeit ihre Dienstwaffe zu Eigen- und Fremdschutz offen tragen. Der Einsatz und das Mitführen von privaten Waffen im Dienst ist nur mit einer Genehmigung von einem Staatsrichter, Justizminister oder Vize-/Kanzler gestattet.
-(3). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben Dritter abzuwenden. 
-(4). Bei nicht diensttauglichen Verhalten, behält sich die Regierung [[§5 Abs. 2 a/b/c]](#5-immunität-für-staatsbeamte) vor, Personalentscheidungen im Namen der jeweiligen Vorgesetzten zu treffen und durchzusetzen.
+## §6 Allgemeine Befugnisse der Führungsebene der Bundespolizei
+(1). Beamten aus [[§5 Abs. 2a]](#5-immunität-für-staatsbeamte) sind dazu befugt, Fehlverhalten anderer Beamten gemäß des Beamtendienstgesetz zu bestrafen. Außerdem können Personalentscheidungen im Namen der jeweiligen Vorgesetzten getroffen und durchgesetzt werden (Suspendierungen).
 
 ## §7 Allgemeine Befugnisse der Beamten während eines Ausnahmezustands.
-(1). Alle Mitarbeiter aus den Organisationen in [[§1 Abs. 1 a/b/c/d/e]](#1-gültigkeit) sind von allen Einschränkungen des Ausnahmezustandes befreit:
+(1). Alle Mitarbeiter aus den Organisationen in [[§1 Abs. 1 a/b/c/e]](#1-gültigkeit) sind von allen Einschränkungen des Ausnahmezustandes befreit:
 (2). Das Spezialeinsatzkommando (SEK) der Polizei und die Zentrale Unterstützungsgruppe Zoll (ZUZ) der Bundeszollverwaltung sind dazu befugt, mit allen humanitären notwendigen Mitteln das Land zu verteidigen.
 (3). Polizei- und Zollbeamten verfügen während des Ausnahmezustands über ein erweitertes Kontroll-, Durchsuchungs und Überprüfungsrecht. Die Notwendigkeit eines triftigen Grund entfällt, mit Ausnahmen an sogenannten Schutzzonen.

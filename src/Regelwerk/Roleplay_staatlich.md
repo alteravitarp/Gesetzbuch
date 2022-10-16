@@ -59,4 +59,4 @@ d. Anordnung einer MPU
 
 **7.3.5.** Das Gewerbeamt darf gewerbliche Einrichtungen dauerhaft schließen (oder zeitlich begrenzt), wenn der Inhaber der Einrichtung offene Gebühren nicht zahlt oder den Richtlinien nicht nachkommt (mind. 10 Strikes).
 
-**7.3.6.** Niemand darf keine Personen **in anderen** staatlichen Fraktionen kündigen, degradieren oder befördern. Es ist allerdings erlaubt, eine Empfehlung auszusprechen. 
+**7.3.6.** Niemand darf eine Personen **in anderen** staatlichen Fraktionen kündigen, degradieren oder befördern. Es ist allerdings erlaubt, eine Empfehlung auszusprechen. 

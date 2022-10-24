@@ -30,3 +30,12 @@ c. Einhaltung der persönlichen Hygiene der Mitarbeiter
 (15). Der Versuch der Tat unter [[§1 Abs. 10 GewO]] ist ebenfalls strafbar. 
 (16). Gewerbetreibenden ist es in jeglicher Hinsicht verboten Eigenwerbung über Twitter zu schalten. Die Werbung mit einem Firmenaccount oder einer selbst geschalteten Werbung über das Unternehmen auf Twitter stellt eine Steuerhinterziehung dar. Mehrmalige Verstöße können zur Schließung des Unternehmens führen.
 (17). Gewerbetreibenden ist es verboten über Dritte nicht im Unternehmen angestellte im Auftrag Eigenwerbung über Twitter und anderen Plattformen zu schalten. 
+
+## §2 GewO Steuergesetz
+(1). Wer gegenüber dem Finanzamt falsche, unvollständige oder keine Angaben über steuerlich
+erhebliche Tatsachen tätigt oder Steuern unterschlägt, macht sich strafbar.
+(2). Gewerbetreibende sind dazu verpflichtet in der ersten Woche des jeweiligen Monats einen
+Einkommensbescheid dem Finanzamt vorzulegen.
+(3). Im Zuge der Steuerprüfung ist dem Finanzamt vollen Zugriff auf das Gewerbekonto zu
+gewähren. Steuerprüfungen können jederzeit unangekündigt durch das Finanzamt
+durchgeführt werden.

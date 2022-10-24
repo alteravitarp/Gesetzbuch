@@ -26,6 +26,11 @@ order: 97
 [[§1 Abs. 11a GewO]=warning] | Werbungsverbot für Dritte                             | [[1 Strike]=danger]                                  |                    0 |                                    50.000€
 
 
+§2 GewO                      | Steuergesetz                                          | Strafe / Strikes                                     |        Hafteinheiten | Bußgeld  { class="compact thead--purple" }
+-----------------------------|-------------------------------------------------------|------------------------------------------------------|---------------------:|------------------------------------------:
+[[§1 Abs. 2 GewO]=warning]    | Einkommensverschleierung                             | [[2 Strikes]=danger]                                 |                   0 |                                    40.000€
+[[§1 Abs. 3 GewO]=danger]     | Widerstand gegen Finanz- oder Vollstreckungsbeamte   | [[bis zu 10 Strikes]=danger]                         |                   0 |                                    200.000€
+
 !!!danger
 Das Gewerbeamt kann ein Gewerbe beim Überschreiten von 10 Strikes **dauerhaft schließen**!
 !!!

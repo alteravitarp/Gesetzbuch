@@ -78,7 +78,7 @@ b. Regierungsfahrzeuge aller Art (keine Zivil-Fahrzeuge)
 (4). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben Dritter abzuwenden.
 
 ## §5 Immunität für Staatsbeamte
-(1). Wegen einer mit Strafe bedrohten Handlung darf einer der in [[§5 Abs. 2 BDG]] genannten Staatsbeamtennicht zur Verantwortung gezogen oder verhaftet werden.
+(1). Wegen einer mit Strafe bedrohten Handlung darf einer der in [[§5 Abs. 2 BDG]] genannten Staatsbeamten nicht zur Verantwortung gezogen oder verhaftet werden.
 (2). Folgende Mitarbeiter fallen unter das Immunitätsgesetz §5:
 
 a. Präsident der Bundespolizei (und deren Ehepartner)
@@ -87,7 +87,7 @@ a. Präsident der Bundespolizei (und deren Ehepartner)
 (4). Ein in [[§5 Abs. 2a BDG]] genannter Staatsbeamte darf jederzeit die Immunität und Straffreiheit aus [[§5 Abs. 1 BDG]] und [[§5 ABs. 3 BDG]] aufheben.
 
 ## §6 Allgemeine Befugnisse von Finanz- und Gewerbeamt Beamten
-(1). **Auskunfts- und Identitätsprüfung Recht**: Ein Regierungsbeamte hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Regierung die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Regierungsgebäude, den Status ihrer Strafakte mitzuteilen.
+(1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Beamte des Finanz- und Gewerbeamt hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Regierung die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Regierungsgebäude, den Status ihrer Strafakte mitzuteilen.
 (3). **Kontrollen und Überprüfungen von Gewerbetreibenden**: Ein Bediensteter des Finanz- und Gewerbeamt darf im Rahmen der GeWO Gewerbetreibende kontrollieren und bestrafen.
 
 ## §7 Allgemeine Befugnisse der Beamten während eines Ausnahmezustands.

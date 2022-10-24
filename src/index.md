@@ -7,7 +7,7 @@ icon: ":rocket:"
 
 # Gesetze & Kataloge
 
-Auf dieser Webseite findest du alles rund um :book: [Gesetze](/gesetze/GG.md) und :euro: [Bußgelder](/bußgelder/Allgemein.md).
+Auf dieser Webseite findest du alles rund um :book: [Gesetze](/gesetze/GG.md) und :euro: [Bußgelder](/bußgelder/Strafgesetzbuch.md).
 
 
 !!!warning **Wichtig**

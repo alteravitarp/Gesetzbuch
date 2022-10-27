@@ -87,8 +87,8 @@ a. Präsident der Bundespolizei (und deren Ehepartner)
 (4). Ein in [[§5 Abs. 2a BDG]] genannter Staatsbeamte darf jederzeit die Immunität und Straffreiheit aus [[§5 Abs. 1 BDG]] und [[§5 ABs. 3 BDG]] aufheben.
 
 ## §6 Allgemeine Befugnisse von Finanz- und Gewerbeamt Beamten
-(1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Beamte des Finanz- und Gewerbeamt hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Regierung die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Regierungsgebäude, den Status ihrer Strafakte mitzuteilen.
-(3). **Kontrollen und Überprüfungen von Gewerbetreibenden**: Ein Bediensteter des Finanz- und Gewerbeamt darf im Rahmen der GeWO Gewerbetreibende kontrollieren und bestrafen.
+(1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Beamte des Finanz- und Gewerbeamt hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat das Finanz- und Gewerbeamt die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Amtsgebäude, den Status ihrer Strafakte mitzuteilen.
+(3). **Kontrollen und Überprüfungen von Gewerbetreibenden**: Beamte des Finanz- und Gewerbeamt dürfen im Rahmen der GeWO Gewerbetreibende kontrollieren und bestrafen.
 
 ## §7 Allgemeine Befugnisse der Beamten während eines Ausnahmezustands.
 (1). Alle Mitarbeiter aus den Organisationen in [[§1 Abs. 1 a/b/c/d]](#1-gültigkeit) sind von allen Einschränkungen des Ausnahmezustandes befreit:

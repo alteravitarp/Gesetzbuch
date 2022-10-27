@@ -29,7 +29,7 @@ order: 97
 [[§2 Abs. 1 GewO]=danger]   | Steuerhinterziehung                                   | [[5 Strikes]=danger]                                 | 1 (pro 10.000€) - 20 |                          150% Schadensumme
 [[§2 Abs. 1a GewO]=danger]  | Versuchte Steuerhinterziehung                         | [[2 Strikes]=danger]                                 |                   20 |                                    80.000€
 [[§2 Abs. 2 GewO]=warning]    | Einkommensverschleierung                             | [[2 Strikes]=danger]                                 |                   0 |                                    50.000€
-[[§2 Abs. 3 GewO]=danger]     | Widerstand gegen Finanz- oder Vollstreckungsbeamte   | [[bis zu 10 Strikes]=danger]                         |                   0 |                                    200.000€
+[[§2 Abs. 3 GewO]=danger]     | Widerstand gegen Finanz- oder Vollstreckungsbeamte   | [[bis zu 10 Strikes]=danger]                         |                   20 |                                    200.000€
 
 !!!danger
 Das Gewerbeamt kann ein Gewerbe beim Überschreiten von 10 Strikes **dauerhaft schließen**!

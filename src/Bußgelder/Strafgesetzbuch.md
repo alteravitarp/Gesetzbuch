@@ -71,7 +71,7 @@ order: 100
 [[§4 Abs. 2 StGB]=warning] | Beleidigung eines Beamten         | -                   |             0 |                    10.000€
 [[§4 Abs. 2 StGB]=warning] | Belästigung eines Beamten         | -                   |             0 |                    30.000€
 [[§4 Abs. 3 StGB]=danger] | Unberechtigtes Betreten eines Hochsicherheitsgebietes         | -                   |             30 |                    50.000€
-[[§4 Abs. 5 StGB]=danger] | Nötigung von hohen Regierungsbeamten         | -                   |             40 |                    100.000€
+[[§4 Abs. 5 StGB]=danger] | Nötigung von hohen Beamten         | -                   |             40 |                    100.000€
 [[§4 Abs. 6 StGB]=danger] | Falschaussage         | -                   |             30 |                    50.000€
 [[§4 Abs. 7 StGB]=danger] | Mutwilliger Missbrauch des Notrufes         | -                   |             10 |                    50.000€
 [[§4 Abs. 8 StGB]=warning] | Mutwilliger Missbrauch des Rettungsdienstes         | -                   |             0 |                    50.000€
@@ -99,12 +99,11 @@ order: 100
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§6 Abs. 1 StGB]=danger] | Unterstützung und Werbung für kiminelle Vereinigungen          | -                   |             10 |                    10.000€
 
-## [§7 StGB Regierungsmaßnahmen](../gesetze/stgb/#7-stgb-regierungsmaßnahmen)
+## [§7 StGB Staatsmaßnahmen](../gesetze/stgb/#7-stgb-regierungsmaßnahmen)
 
 §7 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
 [[§7 Abs. 1 StGB]=danger] | Nicht einhalten der Ausgangssperre          | -                   |             60 |                    100.000€
-[[§7 Abs. 2 StGB]=danger] | Propaganda/Volksverhetzung          | -                   |             60 |                    120.000€
 
 ## [§8 StGB Amerikanisches Hoheitsgebiet](../gesetze/stgb/#8-stgb-amerikanisches-hoheitsgebiet)
 

@@ -46,15 +46,12 @@ order: 98
 §4 Abs. 4 BDG | Unzulässiger Schusswaffengebrauch mit Körperverletzung | -                       |             0 |                    150.000 €
 §4 Abs. 4 BDG | Unzulässiger Schusswaffengebrauch mit Todesfolge       | -                       |             0 |                    200.000 €
 
-## [§6 Allgemeine Befugnisse der Regierungsbeamten](../Gesetze/BDG.md#6-allgemeine-befugnisse-der-regierungsbeamten)
+## [§6 Allgemeine Befugnisse der Finanz- und Gewerbebeamten](../Gesetze/BDG.md#6-allgemeine-befugnisse-der-regierungsbeamten)
 
 §6 BDG        | Allgemeine Befugnisse der Regierungsbeamten            | Strafe | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
 --------------|--------------------------------------------------------|--------|--------------:|----------------------------:
 §6 Abs. 1 BDG | Falschauskunft                                         | -      |             0 |                     25.000 €
-§6 Abs. 2 BDG | Nutzung einer privaten Schusswaffe ohne Genehmigung    | -      |             0 |                    250.000 €
-§6 Abs. 3 BDG | Unzulässiger Schusswaffengebrauch                      | -      |             0 |                     75.000 €
-§6 Abs. 3 BDG | Unzulässiger Schusswaffengebrauch mit Körperverletzung | -      |             0 |                    150.000 €
-§6 Abs. 3 BDG | Unzulässiger Schusswaffengebrauch mit Todesfolge       | -      |             0 |                    200.000 €
+§6 Abs. 2 BDG | Ungerechtfertigte Bestrafung                           | -      |             0 |                    100.000 €
 
 
 <style>

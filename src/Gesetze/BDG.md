@@ -88,7 +88,7 @@ a. Präsident der Bundespolizei (und deren Ehepartner)
 
 ## §6 Allgemeine Befugnisse von Finanz- und Gewerbeamt Beamten
 (1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Beamter des Finanz- und Gewerbeamt hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat das Finanz- und Gewerbeamt die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Amtsgebäude, den Status ihrer Strafakte mitzuteilen.
-(3). **Kontrollen und Überprüfungen von Gewerbetreibenden**: Beamte des Finanz- und Gewerbeamt dürfen im Rahmen der GeWO Gewerbetreibende kontrollieren und bestrafen.
+(2). **Kontrollen und Überprüfungen von Gewerbetreibenden**: Beamte des Finanz- und Gewerbeamt dürfen im Rahmen der GeWO Gewerbetreibende kontrollieren und bestrafen.
 
 ## §7 Allgemeine Befugnisse der Beamten während eines Ausnahmezustands.
 (1). Alle Mitarbeiter aus den Organisationen in [[§1 Abs. 1 a/b/c/d]](#1-gültigkeit) sind von allen Einschränkungen des Ausnahmezustandes befreit:

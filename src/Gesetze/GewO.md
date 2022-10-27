@@ -33,6 +33,9 @@ c. Einhaltung der persönlichen Hygiene der Mitarbeiter
 ## §2 GewO Steuergesetz
 (1). Wer gegenüber dem Finanzamt falsche, unvollständige oder keine Angaben über steuerlich
 erhebliche Tatsachen tätigt oder Steuern unterschlägt, macht sich strafbar.
+
+a. Bereits die versuchte Unterschlagung ist strafbar.
+
 (2). Gewerbetreibende sind dazu verpflichtet in der ersten Woche des jeweiligen Monats einen
 Einkommensbescheid dem Finanzamt vorzulegen.
 (3). Im Zuge der Steuerprüfung ist dem Finanzamt vollen Zugriff auf das Gewerbekonto zu

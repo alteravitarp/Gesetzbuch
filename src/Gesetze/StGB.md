@@ -64,11 +64,10 @@ Lebensbedrohliche Verletzungen sind ausschließlich solche Verletzungen, die dur
 a. Justizvollzugsanstalt (PLZ 4000)
 b. Das Polizei HQ gesicherter Bereich (PLZ 8047)
 c. Das Bundeswehrgelände (PLZ 5005 - 5006)
-d. Das Regierungsanwesen (PLZ 5024)
-e. Krankenhaus gesicherter Bereich (PLZ 7273 - 7275)
+d. Krankenhaus gesicherter Bereich (PLZ 7273 - 7275)
 
 (4). Die dort zuständigen Beamten haben die Befugnis sämtliche unbefugte Eindringlinge festzunehmen oder unschädlich zu machen.
-(5). Wer Minister oder höherrangige Regierungsmitarbeiter rechtswidrig mit Gewalt oder durch Drohung mit Gewalt nötigt, ihre Befugnisse nicht oder in einem bestimmten Sinne auszuüben, macht sich strafbar.
+(5). Wer höherrangige Beamte rechtswidrig mit Gewalt oder durch Drohung mit Gewalt nötigt, ihre Befugnisse nicht oder in einem bestimmten Sinne auszuüben, macht sich strafbar.
 (6). Wer vor Gericht oder vor einer anderen zur eidlichen Vernehmung falsch aussagt, macht sich strafbar.
 (7). Wer absichtlich oder wissentlich Notrufe oder Notzeichen missbraucht, macht sich strafbar.
 (8). Wer durch unbedachte, mutwillige Körperverletzung den Rettungsdienst daran hindert, Einsätze fahrlässiger oder unprovozierter Natur anzufahren, macht sich strafbar.
@@ -99,14 +98,14 @@ c. das Wissen über eine bevorstehende Straftat einer Dienststelle mitteilt, sod
 
 (3). Sollte eine bekanntlich kriminelle Vereinigung durch die Regierung offiziell zu einer kriminellen Organisation mit erhöhter Alarmstufe eingestuft werden, können die Strafen, welche unter § 1 und 2 des StGB fallen, für die Mitglieder individuell durch das Ministerium festgesetzt werden.
 
-## §7 StGB Regierungsmaßnahmen
+## §7 StGB Staatsmaßnahmen
 
-(1). Die Regierung kann folgende Maßnahmen erlassen bzw. durch die Sicherheitsbehörden ([[§1 Abs. 1a/b BDG]]) durchsetzen lassen:
+(1). Der Bundespolizeipräsident kann folgende Maßnahmen erlassen bzw. durch die Sicherheitsbehörden ([[§1 Abs. 1a/b BDG]]) durchsetzen lassen:
 
-a. Personendurchsuchung: Erlaubt die Durchsuchung aller genannten Personen oder Personengruppen und die Sicherstellung von illegalen Gegenständen nach [[§1 Abs. 7 StGB]], [[§2 Abs. 3 StGB]] und [[§1 Abs. 1 BtMG]]. Darf ab Richter autorisiert werden.
-b. Erweiterete Personendurchsuchung: Erlaubt die Durchsuchung/Sicherstellung nach (a.) sowie die Durchsuchung der Fahrzeuge und Firmen der genannten Personen oder Personengruppen. Darf ab Staatsrichter autorisiert werden.
-c. Durchsuchungsbefehl/Razziabeschluss: Erlaubt die Durchsuchung/Sicherstellung nach (a. und b.) sowie die Durchsuchung aller Räumlichkeiten, die sich im Besitz der genannten Personen oder Personengruppen befinden, sowie explizit erwähnte Räumlichkeiten. Darf vom Kanzler, Vizekanzler und Justizminister autorisiert werden.
-d. Ausgangssperre: Die Regierung darf jederzeit eine Ausgangssperre erlassen. Dies ist ein Ausnahmezustand zum Schutz der Bevölkerung. Sämtlichen Bürgern ist es ohne Befugnis nicht erlaubt, ihr Privatgrundstück zu verlassen. Der Aufenthalt ist nur in einer Schutzzone (Würfelpark, Polizeirevier, Krankenhaus) oder auf Privatgrundstück gestattet. Jede Person außerhalb dieser Zonen müssen mit sofortiger Festnahme rechnen.
+a. Personendurchsuchung: Erlaubt die Durchsuchung aller genannten Personen oder Personengruppen und die Sicherstellung von illegalen Gegenständen nach [[§1 Abs. 7 StGB]], [[§2 Abs. 3 StGB]] und [[§1 Abs. 1 BtMG]].
+b. Erweiterete Personendurchsuchung: Erlaubt die Durchsuchung/Sicherstellung nach (a.) sowie die Durchsuchung der Fahrzeuge und Firmen der genannten Personen oder Personengruppen.
+c. Durchsuchungsbefehl/Razziabeschluss: Erlaubt die Durchsuchung/Sicherstellung nach (a. und b.) sowie die Durchsuchung aller Räumlichkeiten, die sich im Besitz der genannten Personen oder Personengruppen befinden, sowie explizit erwähnte Räumlichkeiten.
+d. Ausgangssperre: Der Bundespolizeipräsident darf jederzeit eine Ausgangssperre erlassen. Dies ist ein Ausnahmezustand zum Schutz der Bevölkerung. Sämtlichen Bürgern ist es ohne Befugnis nicht erlaubt, ihr Privatgrundstück zu verlassen. Der Aufenthalt ist nur in einer Schutzzone (Würfelpark, Polizeirevier, Krankenhaus) oder auf Privatgrundstück gestattet. Jede Person außerhalb dieser Zonen müssen mit sofortiger Festnahme rechnen.
 
 ## §8 StGB Amerikanisches Hoheitsgebiet
 

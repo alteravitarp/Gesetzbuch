@@ -16,6 +16,7 @@ b. :cop: Bundeszollverwaltung <small>(teil der Bundespolizei)</small>
 c. :health_worker: Deutsches Rotes Kreuz
 d. :firefighter: Berufsfeuerwehr <small>(teil des Deutschen Roten Kreuz)</small>
 e. :office_worker: Finanz- und Gewerbeamt
+f. :cop: Justizvollzugsdienst
 
 (2). Im Falle einer Bedrohung muss das Überleben beteiligter Personen nach der folgenden Priorisierung sichergestellt werden:
 
@@ -91,6 +92,11 @@ a. Präsident der Bundespolizei (und deren Ehepartner)
 (2). **Kontrollen und Überprüfungen von Gewerbetreibenden**: Beamte des Finanz- und Gewerbeamt dürfen im Rahmen der GeWO Gewerbetreibende kontrollieren und bestrafen.
 
 ## §7 Allgemeine Befugnisse der Beamten während eines Ausnahmezustands.
-(1). Alle Mitarbeiter aus den Organisationen in [[§1 Abs. 1 a/b/c/d]](#1-gültigkeit) sind von allen Einschränkungen des Ausnahmezustandes befreit:
+(1). Alle Mitarbeiter aus den Organisationen in [[§1 Abs. 1 a/b/c/d/f]](#1-gültigkeit) sind von allen Einschränkungen des Ausnahmezustandes befreit:
 (2). Das Spezialeinsatzkommando (SEK) der Polizei und die Zentrale Unterstützungsgruppe Zoll (ZUZ) der Bundeszollverwaltung sind dazu befugt, mit allen humanitären notwendigen Mitteln das Land zu verteidigen.
 (3). Polizei- und Zollbeamten verfügen während des Ausnahmezustands über ein erweitertes Kontroll-, Durchsuchungs und Überprüfungsrecht. Die Notwendigkeit eines triftigen Grund entfällt, mit Ausnahmen an sogenannten Schutzzonen.
+
+## §8 Allgemeine Befugnisse eines Justizbeamten
+(1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Justizbeamter hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren.
+(2). **Offenes Tragen von Waffen**: Justizbeamten dürfen, sofern es so von einem leitenden Beamten vorgegeben ist bzw. es die Situation vorschreibt, jederzeit ihre Dienstwaffe zu Eigen- und Fremdschutz offen tragen.
+(3). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben Dritter abzuwenden. Der Einsatz der Schusswaffe ist ausschließlich innerhalb der Hochsicherheitsgebieten nach [[§4 Abs 3a StGB]] erlaubt.

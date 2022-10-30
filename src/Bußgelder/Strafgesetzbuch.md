@@ -80,9 +80,9 @@ order: 100
 
 §5 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
-[[§5 Abs. 1 StGB]=warning] | Nicht einhalten eines Platzverweises          | -                   |             0 |                    10.000€
-[[§5 Abs. 1 StGB]=danger] | Betreten von Sperrzonen ohne Genehmigung          | -                   |             10 |                    20.000€
-[[§5 Abs. 1 StGB]=danger] | Durchbrechen von Absperrungen          | -                   |             10 |                    10.000€
+[[§5 Abs. 1 StGB]=warning] | Nicht einhalten eines Platzverweises          | -                   |             20 |                    60.000€
+[[§5 Abs. 1 StGB]=danger] | Absichtliches Betreten von Sperrzonen ohne Genehmigung        | -        |          120 |                    100.000€
+[[§5 Abs. 1 StGB]=danger] | Durchbrechen von Absperrungen          | -                   |             60 |                    60.000€
 [[§5 Abs. 2 StGB]=warning] | Vermummungsverbot (50% des Gesichts verdeckt)         | -                   |             0 |                    25.000€
 [[§5 Abs. 3 StGB]=danger] | Amtsanmaßung         | -                   |             10 |                    20.000€
 [[§5 Abs. 4 StGB]=warning] | Missbrauch des Notrufs         | -                   |             0 |                    20.000€
@@ -97,7 +97,7 @@ order: 100
 
 §6 StGB        | Straftat              | Strafe               | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
 --------------|--------------------------------------|----------------------|--------------:|----------------------------:
-[[§6 Abs. 1 StGB]=danger] | Unterstützung und Werbung für kiminelle Vereinigungen          | -                   |             10 |                    10.000€
+[[§6 Abs. 1 StGB]=danger] | Unterstützung und Werbung für kriminelle Vereinigungen          | -                   |             10 |                    10.000€
 
 ## [§7 StGB Staatsmaßnahmen](../gesetze/stgb/#7-stgb-regierungsmaßnahmen)
 

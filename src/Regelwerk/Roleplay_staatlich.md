@@ -25,6 +25,8 @@ icon: ':cop:'
 
 **7.1.8.** Justizvollzugsbeamten ist es nicht erlaubt, polizeilicher Arbeit außerhalb der JVA nachzukommen. Sie haben außerdem keine Weisungsbefugnis ggü. anderen Beamten anderer staatlichen Fraktionen.
 
+**7.1.9.** Ein Mitarbeiter auf Bereitschaft ist von 7.1.1. befreit, muss seine Aktivität aber jederzeit unverzüglich unterbrechen, sollte ein Einsatz anstehen. WICHTIG: Die Aktivitäten müssen jederzeit abbrechbar sein (Also nicht noch das Tennismatch zu Ende spielen oÄ).
+
 ## 7.2. Schusseröffnung Staatsbeamte
 
 **7.2.1.** Als Staatsbeamter ist es nur im äußersten Notfall erlaubt, das Feuer (Mit tödlichen Schusswaffen)  als erstes zu eröffnen. Als Notfall gilt:

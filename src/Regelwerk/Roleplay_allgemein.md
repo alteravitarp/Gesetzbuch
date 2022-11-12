@@ -65,7 +65,7 @@ icon: ':spiral_note_pad:'
 
 ## 3.7. Away From Keyboard (AFK)
 
-**3.7.1** Wer AFK ist, muss das Spiel verlassen. Ausnahmen sind hierbei eigene Häuser und Apartments!
+**3.7.1** Wer vorraussichtlich länger als 2-3 Minuten AFK ist, muss das Spiel verlassen.
 
 ## 3.8. Random Deathmatch (RDM)
 

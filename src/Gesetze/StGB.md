@@ -62,9 +62,10 @@ Lebensbedrohliche Verletzungen sind ausschließlich solche Verletzungen, die dur
 (3). Das Betreten eines Hochsicherheitsgebietes ist nur mit Erlaubnis der dort zuständigen Behörde erlaubt. Als Hochsicherheitsgebiet zählen folgende Orte:
 
 a. Justizvollzugsanstalt (PLZ 4000)
-b. Das Polizei HQ gesicherter Bereich (PLZ 8047)
+b. Das Polizei HQ gesicherter Bereich (PLZ 8047, PLZ 3004, PLZ 1038)
 c. Das Bundeswehrgelände (PLZ 5005 - 5006)
-d. Krankenhaus gesicherter Bereich (PLZ 7273 - 7275)
+d. Krankenhaus gesicherter Bereich (PLZ 8040, PLZ 1047)
+e. Feuerwache gesicherter Bereich (PLZ 9332)
 
 (4). Die dort zuständigen Beamten haben die Befugnis sämtliche unbefugte Eindringlinge festzunehmen oder unschädlich zu machen.
 (5). Wer höherrangige Beamte rechtswidrig mit Gewalt oder durch Drohung mit Gewalt nötigt, ihre Befugnisse nicht oder in einem bestimmten Sinne auszuüben, macht sich strafbar.

@@ -101,3 +101,9 @@ icon: ':supervillain:'
 **6.10.1** Es darf sich nicht aktiv (Schießen, rammen etc.) in eine illegale RP-Situation zwischen zwei Parteien eingemischt werden (Staatliche Fraktionen sind hiervon ausgenommen).
 
 **6.10.2** [[WICHTIG]=warning] Fraktionsmitglieder zählen anders gekleidet NICHT zur Gruppierung und dürfen auch nicht in RP-Situationen eingreifen.
+
+## 6.11. Geiselnahme
+
+**6.11.1** Mobile Geiseln sind nicht verboten, aber die anderen Spieler sind nicht dazu gezwungen, darauf einzugehen! Als mobile Geisel gilt eine Geisel, die nicht am Ort des Geschehens festgehalten wird bzw. herumgefahren wird.
+
+**6.11.2** [[WICHTIG]=warning] Sollte die Polizei nicht auf die mobile Geisel eingehen, darf diese nicht erschossen werden!

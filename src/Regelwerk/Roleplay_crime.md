@@ -30,30 +30,17 @@ icon: ':supervillain:'
 
 ## 6.4. Gangkriege
 
-**6.4.1.** Eine Kriegserklärung darf nur mit einem guten RP-Hintergrund ausgesprochen werden z.B. der Streit um ein Drogenfeld. Die erklärende Fraktion sollte der anderen Fraktion ein Angebot machen um einen Krieg zu vermeiden. Die Kriegserklärung sollte im RP der letzte Schritt sein um einen Konflikt zu lösen.
+**6.4.1.** Eine Kriegserklärung darf nur mit einem guten RP-Hintergrund ausgesprochen werden z.B. der Streit um ein Drogenfeld. Die erklärende Fraktion sollte der anderen Fraktion ein Angebot machen, um einen Krieg zu vermeiden. Die Kriegserklärung sollte im RP der letzte Schritt sein, um einen Konflikt zu lösen.
 
-**6.4.2.** Eine Kriegserklärung kann mündlich oder schriftlich von (Co-)Leader zu (Co-)Leader erfolgen (Hierbei muss sichergestellt werden, dass die Gegenpartei hiervon erfahren hat!). Zusätzlich muss Anfang und Ende des Krieges im Discord unter 📢-informationen announced werden.
+**6.4.2.** Kriegserklärungen finden nur noch auf neutralem Boden mit einem unabhängigen Mediator (wird vom Fraktionsmanagement bestimmt) statt. Dabei ist festzuhalten, welche Voraussetzungen für einen Sieg gegeben sein müssen, die Dauer, was die Aufgabepenalty ist und was der Gewinner am Ende bekommen sollte.
 
-**6.4.3.** Eine Kriegserklärung ist maximal 7 Tage lang gültig oder bis eine Fraktion aufgibt.
+**6.4.3.** Ein Krieg kann von einem Mediator jederzeit beendet werden.
 
+**6.4.4.** Die Greenzones sind für Mitglieder bei Konfrontationen zwischen beiden Kriegsparteien komplett aufgehoben. Ausnahmen hierbei ist die Greenzone am Krankenhaus! Das Abcampen vom Krankenhaus ist nicht erlaubt.
 
-**6.4.4.** Wenn ein Krieg beendet ist, darf 14 Tage lang keine Kriegserklärung zwischen den beteiligten Fraktionen ausgesprochen werden.
+**6.4.5.** Im Krieg ist bei Konfrontationen zwischen diesen Parteien die [Power-RP-Regel](Roleplay_erweitert.md#44-power-roleplay) aufgehoben z.B. durch Foltern, Hinrichten, etc
 
-**6.4.5.** Während eine Fraktion im Krieg ist kann diese keine weitere Kriegserklärung aussprechen, jedoch erhalten.
-
-**6.4.6.** Sollte eine Person im Gangkrieg aus der Not-OP kommen, gilt weiterhin [3.13 NLR](Roleplay_allgemein.md#313-new-life-rule-nlr).
-
-**6.4.7.** Greenzones sind für Mitglieder bei Konfrontation zwischen beiden Kriegsparteien komplett aufgehoben. Ausnahme hierbei ist die Greenzone am Krankenhaus!
-
-**6.4.8.** Das Abcampen am Not-OP Punkt (Krankenhaus) ist nicht erlaubt.
-
-**6.4.9.** Im Krieg ist zwischen den beteiligten Fraktionen KOS (Schießen bei Sichtung) gestattet. Dennoch sollte auch im Krieg der Fokus auf dem RP liegen, [Power-RP](Roleplay_erweitert.md#44-power-roleplay) z.B. durch foltern, hinrichten etc. ist erlaubt.
-
-**6.4.10** Im Krieg dürfen keine Mitglieder in einer Fraktion aufgenommen werden.
-
-**6.4.11.** [[WICHTIG]=warning] [Fear-RP](Roleplay_erweitert.md#45-fear-roleplay) muss weiterhin gespielt werden, Drive-By (Die Schusseröffnung aus einem Fahrzeug) ist nicht erlaubt.
-
-**6.4.12.** [[INFORMATION]=info] Diese Regelung ist ein Pilotprojekt und kann jederzeit revidiert werden. Durch die Verlängerung der Kriegsdauer, wird zuzüglich das Fraktionsmanagement, stärker auf kriegsähnliche Verstöße, außerhalb eines Krieges achten und diese verschärft sanktionieren! Aktionen rund um Felder und Labore sind davon ausgenommen.
+**6.4.6.** Im Krieg dürfen keine Mitglieder in einer Fraktion aufgenommen werden.
 
 ## 6.5. Drive By
 

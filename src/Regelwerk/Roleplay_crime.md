@@ -74,9 +74,12 @@ icon: ':supervillain:'
 
 **6.8.1.** Beim Eintritt in eine Gang, muss immer das für diese Fraktion beantragte “Blood in”-Ritual vollzogen werden.
 
-**6.8.2.** Dasselbe gilt auch für das beantragte “Blood out”-Ritual beim Austritt.
+**6.8.2.** Für den permanenten Austritt aus einer Fraktion gibt es 3 Szenarien:
+a. Normaler Bloodout durch Ritual/ Kopfschuss (inkl. CK bei Antrag)
+b. Austritt nach Absprache ohne Gedächtnisverlust. (kein nachträglicher CK möglich)
+c. Flucht. Spieler kann sich auf neutralem Boden selbst entlassen. Die Fraktion hat die Möglichkeit den Bloodout nachträglich zu vollziehen, sobald sie den Verräter schnappen. Danach muss der Gedächtnisverlust eintreten. Der CK kann auch in diesem Falle beantragt werden. Das Bloodout muss für den Verräter klar ersichtlich sein.
 
-**6.8.3.** Beim Blood out vergisst man alles, was mit der Fraktion zu tun hatte. Informationen können auch nicht durch Notizen, Erzählungen etc. wiedererlangt werden.
+**6.8.3.** Gedächtnisverlust bedeutet, dass man Alles, was im Zusammenhang mit der Fraktion geschehen ist vergisst. Informationen können auch nicht durch Notizen, Erzählungen etc. wiedererlangt werden.
 
 
 ## 6.9. Ganghopping

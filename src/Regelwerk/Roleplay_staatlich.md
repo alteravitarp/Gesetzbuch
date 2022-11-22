@@ -30,10 +30,10 @@ icon: ':cop:'
 ## 7.2. Schusseröffnung Staatsbeamte
 
 **7.2.1.** Als Staatsbeamter ist es nur im äußersten Notfall erlaubt, das Feuer (Mit tödlichen Schusswaffen)  als erstes zu eröffnen. Als Notfall gilt:
-- Eine akute Bedrohung innerhalb einer Sperrzone.
-- Eine akute Bedrohung innerhalb eines Hochsicherheitsgebietes.
-- Wenn eine Waffe auf eine Person gerichtet wird.
-- Bei Fluchtgefahr
+a. Eine akute Bedrohung innerhalb einer Sperrzone.
+b. Eine akute Bedrohung innerhalb eines Hochsicherheitsgebietes.
+c. Wenn eine Waffe auf eine Person gerichtet wird.
+d. Bei Fluchtgefahr
 
 **7.2.2.** Eine Ausnahme hierbei ist das Schießen auf Luftfahrzeuge, um diese bei Verfolgungsjagden zum Landen zu zwingen.
 

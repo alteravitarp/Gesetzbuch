@@ -93,9 +93,7 @@ icon: ':spiral_note_pad:'
 
 **3.10.2.** Außerdem ist es untersagt, staatliche Kleidung/Outfits zu wählen, außer du gehörst der jeweiligen Fraktion an.
 
-**3.10.3** Eine Schutzweste muss immer getragen werden und darf nicht ausgezogen werden, sofern man noch Rüstung hat. Schlussfolgernd darf keine Schutzweste getragen werden, sofern man keine Rüstung hat.
-
-**3.10.4.** Es ist verboten, seine Schuhe für einen taktischen Vorteil bei einem Kampf auszuziehen.
+**3.10.3.** Es ist verboten, seine Schuhe für einen taktischen Vorteil bei einem Kampf auszuziehen.
 
 ## 3.11. Stimmenverzerrer
 

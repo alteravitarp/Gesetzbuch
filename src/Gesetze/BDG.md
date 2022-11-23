@@ -99,7 +99,7 @@ a. Präsident der Bundespolizei (und deren Ehepartner)
 ## §8 Allgemeine Befugnisse eines Justizbeamten
 (1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Justizbeamter hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren.
 (2). **Offenes Tragen von Waffen**: Justizbeamten dürfen, sofern es so von einem leitenden Beamten vorgegeben ist bzw. es die Situation vorschreibt, jederzeit ihre Dienstwaffe zu Eigen- und Fremdschutz offen tragen.
-(3). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben Dritter abzuwenden. Der Einsatz der Schusswaffe ist ausschließlich innerhalb der Hochsicherheitsgebieten nach [[§4 Abs 3a StGB]] erlaubt.
+(3). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben anderer Beamten abzuwenden.
 
 ## §9 Personalmanagement
 _Wird gegen eines dieser Gesetze verstoßen, haftet die zuständige Personalabteilung oder die zuständige Führung der Organisation_

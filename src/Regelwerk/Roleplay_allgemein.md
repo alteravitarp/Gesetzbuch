@@ -52,7 +52,6 @@ icon: ':spiral_note_pad:'
 
 **3.5.3.** Das Roleplayen von unrealistischen Superheldenkräften und anderen vorteilserkaufenden ausgedachten Funktionen ist nicht verboten, aber die anderen Spieler müssen dies nicht glauben!
 
-
 ## 3.6. Charakter Kill
 
 **3.6.1.** Der permanente Charaktertod.
@@ -63,9 +62,11 @@ icon: ':spiral_note_pad:'
 
 **3.6.4.** Ein Charaktertod kann auch durch ein Bloodout ausgelöst werden, solltest du bereits ein vollwertiges Mitglied einer illegalen Fraktion sein und sollte der Fraktionsleiter einen Antrag dafür einreichen.
 
-## 3.7. Away From Keyboard (AFK)
+## 3.7. Away From Keyboard (AFK) / RP-Flucht
 
-**3.7.1** Wer vorraussichtlich länger als 2-3 Minuten AFK ist, muss das Spiel verlassen.
+**3.7.1.** Wer vorraussichtlich länger als 2-3 Minuten AFK ist, muss das Spiel verlassen.
+
+**3.7.2.** Du darfst dich nicht aus einer laufenden RP-Situation ausloggen.
 
 ## 3.8. Random Deathmatch (RDM)
 

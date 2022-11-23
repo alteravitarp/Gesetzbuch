@@ -100,3 +100,11 @@ a. Präsident der Bundespolizei (und deren Ehepartner)
 (1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Justizbeamter hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren.
 (2). **Offenes Tragen von Waffen**: Justizbeamten dürfen, sofern es so von einem leitenden Beamten vorgegeben ist bzw. es die Situation vorschreibt, jederzeit ihre Dienstwaffe zu Eigen- und Fremdschutz offen tragen.
 (3). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben Dritter abzuwenden. Der Einsatz der Schusswaffe ist ausschließlich innerhalb der Hochsicherheitsgebieten nach [[§4 Abs 3a StGB]] erlaubt.
+
+## §9 Personalmanagement [[Nicht veröffentlich]=warning]
+_Wird gegen eines dieser Gesetze verstoßen, haftet die zuständige Personalabteilung oder die zuständige Führung der Organisation_
+
+(1). Für die Einstellung im Exekutiv-Dienst [[§1 Abs. 1a/b/f]](#1-gültigkeit) dürfen in den letzten 31 Tagen keine Straftaten (Ordnungswidrigkeiten ausgeschlossen) vorliegen.
+(2). Für die Einstellung im Exekutiv-Dienst [[§1 Abs. 1a/b]](#1-gültigkeit) darf keine Zugehörigkeit zu einer kriminellen Organisation bekannt sein.
+(3). Für die Einstellung im Rettungsdienst [[§1 Abs. 1c/d]](#1-gültigkeit) dürfen in den letzten 14 Tagen keine Straftaten, die die körperliche Integrität einer dritten Person beeinträchtigten, vorliegen.
+(4). Um Straftaten nachzuweisen ist ein Führungszeugnis, welches von der Bundespolizei ausgestellt worden ist, notwendig. Eine Einstellung ohne Führungszeugnis ist unzulässig.

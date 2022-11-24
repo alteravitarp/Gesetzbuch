@@ -29,6 +29,8 @@ icon: ':spiral_note_pad:'
 
 **1.1.10.** Wenn du einen Fall supportet haben möchtest, öffne zeitnah ein Ticket. Fälle die ohne triftigen Grund, verzögert eröffnet werden, werden nicht mehr bearbeitet.
 
+**1.1.11.** Das vorsätzliche verfälschen von Tatsachen in einem Support-Fall wird mit einem permanenten Ausschluss bestraft.
+
 ## 1.2. Streaming / Aufnahmen
 
 **1.2.1.** Wer auf dem Server spielt, erklärt sich bereit, dass Audio-, Bild- und Videoaufnahmen von ihm gespeichert und veröffentlicht werden können.

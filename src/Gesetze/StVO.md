@@ -100,7 +100,7 @@ c. Ist keine Haltlinie (Zeichen 294) vorhanden, ist dort anzuhalten, wo die ande
 (11). Blitzer müssen außerhalb der Fahrbahn, direkt angrenzend an die Fahrbahn und nicht versteckt positioniert sein. Jeder blitzende Beamte ist dazu verpflichtet, eine entsprechende Warnweste zu tragen.
 
 ## §6 StVO Luftverkehr
-(1). Das Starten und Landen eines Luftfahrzeuges darf nur auf einer dafür vorgesehenen Fläche geschehen.
+(1). Das Starten und Landen eines Luftfahrzeuges darf nur auf einer dafür vorgesehenen Fläche geschehen. Als geeignet gelten Hubschrauberlandeplätze und Flughäfen.
 (2). Solange sich das Luftfahrzeug nicht in einem Start-/Landevorgang befindet, gilt die Mindestflughöhe von 1000 Fuß.
 (3). Es ist untersagt, sich mit einem Luftfahrzeug einer Sperrzone zu nähern oder diese zu überfliegen. Zu den temporären polizeilichen Sperrzonen gelten folgende permanente Sperrzonen:
 

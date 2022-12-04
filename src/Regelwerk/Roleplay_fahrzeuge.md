@@ -26,3 +26,5 @@ icon: ':car:'
 **5.3.1.** An jedem Fahrzeug muss zu jeder Zeit mindestens ein GTA-Kennzeichen vorhanden sein.
 
 **5.3.2.** Ausgenommen von dieser Regel sind die Fahrzeuge von staatlichen Fraktionen und jene Fahrzeuge die bereits ohne Kennzeichen erwerblich sind.
+
+**5.3.3.** Fahrzeuge ohne GTA-Kennzeichen dürfen nicht für eine illegale RP-Situation genutzt werden. Z.B. ein geliehener Bus etc.

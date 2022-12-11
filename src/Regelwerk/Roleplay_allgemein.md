@@ -58,7 +58,7 @@ icon: ':spiral_note_pad:'
 
 **3.6.2.** Man verliert alles Lose was im Besitz dieser Figur ist: Items, Waffen, etc. Darunter zählen keine gekauften festen Güter (z.B. Häuser, Fahrzeuge, Firmen).
 
-**3.6.3.** Der Charaktertod muss von der Projektleitung genehmigt werden. Beim Antrag muss eine ausführliche Hintergrundgeschichte für seinen neuen Charakter niedergeschrieben werden.
+**3.6.3.** Der Charaktertod muss von der Projektleitung genehmigt werden. Beim Antrag muss eine ausführliche Hintergrundgeschichte für seinen neuen Charakter vorgelegt werden.
 
 **3.6.4.** Ein Charaktertod kann auch durch ein Bloodout ausgelöst werden, solltest du bereits ein vollwertiges Mitglied einer illegalen Fraktion sein und sollte der Fraktionsleiter einen Antrag dafür einreichen.
 

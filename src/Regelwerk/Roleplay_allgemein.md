@@ -64,7 +64,7 @@ icon: ':spiral_note_pad:'
 
 **3.6.5.** Bei einem freiwilligen Charakterkill, darf der neue Charakter keine Verbindung zu einem alten Charakter, sowie zu anderen Spielercharakteren besitzen. Auch dürfen andere Spieler nicht zwanghaft den Kontakt zu dem neuen Charakter aufbauen.
 
-**3.6.6.** Selbst verständlich kann die Projektleitung jederzeit einen Charakterkillantrag, auch unabhängig von den oben aufgeführten Punkten durchführen.
+**3.6.6.** Selbst verständlich kann die Projektleitung jederzeit einen Charakterkill, auch unabhängig von den oben aufgeführten Punkten durchführen.
 
 ## 3.7. Away From Keyboard (AFK) / RP-Flucht
 

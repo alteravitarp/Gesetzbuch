@@ -134,6 +134,7 @@ e. die wissentlich bei einer terroristischen Organisation mitarbeiten, machen si
 (1). Wer sich selbst oder seine Gesundheit grobfahrlässig vernachlässigt oder auf Kosten von Steuergeldern unbegründet den Dienst des Rettungsdienstes in Anspruch nimmt um deren Ressourcen zu verbrauchen, der wird mit einem Bußgeld bestraft.
 (2). Wer Personen vom Unfallort entfernt, versteckt oder transportiert macht sich strafbar.
 (3). Wer Rettungswege versperrt oder andersweitig blockiert oder keine Rettungsgasse bildet, macht sich strafbar.
+(4). Wer andere Personen ohne ersichtlichen Grund verletzt und damit den Rettungsdienst belastet, macht sich strafbar.
 
 
 ## §31 StGB Strafmilderung-Umrechnung oder Absehen von Strafe

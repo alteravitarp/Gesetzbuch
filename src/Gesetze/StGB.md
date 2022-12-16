@@ -129,6 +129,13 @@ c. die Staatsorgane erheblich durch Waffengewalt oder Androhung von Waffengewalt
 d. die die öffentliche Sicherheit massiv beeinträchtigen, machen sich strafbar.
 e. die wissentlich bei einer terroristischen Organisation mitarbeiten, machen sich strafbar.
 
+## §10 StGB Behinderung der Rettungsorgane
+
+(1). Wer sich selbst oder seine Gesundheit grobfahrlässig vernachlässigt oder auf Kosten von Steuergeldern unbegründet den Dienst des Rettungsdienstes in Anspruch nimmt um deren Ressourcen zu verbrauchen, der wird mit einem Bußgeld bestraft.
+(2). Wer Personen vom Unfallort entfernt, versteckt oder transportiert macht sich strafbar.
+(3). Wer Rettungswege versperrt oder andersweitig blockiert oder keine Rettungsgasse bildet, macht sich strafbar.
+
+
 ## §31 StGB Strafmilderung-Umrechnung oder Absehen von Strafe
 
 (1). Der Urteilende kann die Strafe des Gesetzbuches mildern oder von Strafe absehen, wenn der Täter durch freiwilliges Offenbaren seines Wissens wesentlich dazu beigetragen hat, dass eine Straftat, die mit seiner Tat im Zusammenhang steht, aufgedeckt werden konnte, oder freiwillig sein Wissen so rechtzeitig einer Dienststelle offenbart, dass eine Straftat die mit seiner Tat im Zusammenhang steht und von deren Planung er weiß, noch verhindert werden kann.

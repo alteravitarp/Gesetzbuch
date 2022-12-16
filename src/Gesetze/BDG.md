@@ -64,7 +64,7 @@ d. Sicherung eventueller Straftäter
 
 (5). **Sonder- und Wegerechte**: Eindeutig durch Einsatzbeleuchtung und Sirene kenntlich gemachte Fahrzeuge sowie Hubschrauber und Flugzeuge, welche von Beamten geführt werden, sind von der StVO befreit, müssen aber unter allen Umständen Gefahren für die Öffentlichkeit vermeiden.
 (6). **Straßensperren**: Beamte sind dazu befugt Straßensperren zu errichten, um Unfälle oder notwendige Arbeiten auf der Straße abzusichern. Diese sind so schnell wie möglich wieder zu entfernen, um den fließenden Verkehr so wenig wie möglich zu behindern.
-(7). **Strafe verhängen**: Die Beamten der Polizei, des Zolls und der Justiz, haben die Befugnis gemäß des Gesetzbuches §0, Bußgelder und Haftstrafen zu erteilen und durchzusetzen, dabei gilt die StPO zu beachten.
+(7). **Strafe verhängen**: Die Beamten der Polizei, des Zolls und der Justiz, haben die Befugnis gemäß des Gesetzbuches §0, Bußgelder und Haftstrafen zu erteilen und durchzusetzen, dabei gilt die StPO zu beachten. Beamten vom Deutschen Roten Kreuz und der Feuerwehr dürfen Bußgelder nach §10 StGB, §4 Abs. 3/7/8 StGB sowie dem BDG ausstellen.
 (8). **Inhaftierung und Transport von Straftätern**: Um einen Straftäter zu inhaftieren, ist es essentiell diesem seine Rechte vorzulesen. Der Transport von Straftätern darf nur in den dafür vorgesehenen Fahrzeugen durchgeführt werden:
 
 a. Polizei Fahrzeuge aller Art (keine Zivil-Fahrzeuge)

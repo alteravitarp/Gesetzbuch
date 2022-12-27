@@ -7,6 +7,10 @@ icon: ':car:'
 
 # Straßenverkehrsordnung (StVO)
 
+!!!info Info
+Führerscheine werden ab dem 01.01.2023 wieder durch die Bundespolizei kontrolliert. Ein Führerschein kann beim ADAC (PLZ: 7231) erworben werden.
+!!!
+
 ## §1 StVO Führerschein
 
 (1). Zum führen eines Fahrzeuges/Flugzeuges/Bootes wird ein Führerschein, für die jeweilige Fahrzeugklasse, benötigt. In folgender Tabelle ist festgelegt, welche Fahrzeugklasse für die jeweiligen Fahrzeuge gilt.
@@ -23,6 +27,20 @@ Klasse **SBF**     | Boote
 
 (2). Während des fahrens, ist es die Pflicht, seinen Führerschein mitzuführen. Die Regierung & Polizei hat jederzeit das Recht sich diesen während einer Verkehrskontrolle vorzeigen zu lassen.
 (3). Wer sich nicht an die Verkehrsregeln hält, wird max. 9 Punkte sammeln und läuft Gefahr, dass der Führerschein eingezogen oder ein Fahrverbot ausgesprochen wird.
+(4). Eine Fahrerlaubnis (oder auch Führerschein genannt) kann durch den ADAC für die gesetzlich vorgeschriebenen Preise ausgestellt werden:
+
+Führerscheinklasse | Fahrzeuge  { class="compact thead--blue" }
+-------------------|-------------------------------------------
+Klasse **A**       | 80.000 €
+Klasse **B**       | 65.000 €
+Klasse **D**       | 90.000 €
+Klasse **CE**      | 130.000 €
+Klasse **PPL(H)**  | 400.000 €
+Klasse **PPL(A)**  | 400.000 €
+Klasse **SBF**     | 200.000 €
+
+(5). Die Kosten für den Erwerb einer Fahrerlaubnis der Klasse B entfällt für Beamte nach [[§1 Abs. 1 BDG]]. Der Beamtenstatus muss durch einen Dienstausweis der jeweilgen Behörde nachgewiesen werden.
+(6). Die Kosten für den Erwerb einer Fahrerlaubnis der Klasse CE entfällt für Beamte nach [[§1 Abs 1c/e BDG]]. Der Beamtenstatus muss durch einen Dienstausweis der jeweilgen Behörde nachgewiesen werden.
 
 ## §2 StVO Gefährlicher Eingriff in den Straßenverkehr
 (1). Wer die Sicherheit des Straßenverkehrs dadurch beeinträchtigt, daß er 

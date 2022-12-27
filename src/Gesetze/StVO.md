@@ -29,7 +29,7 @@ Klasse **SBF**     | Boote
 (3). Wer sich nicht an die Verkehrsregeln hält, wird max. 9 Punkte sammeln und läuft Gefahr, dass der Führerschein eingezogen oder ein Fahrverbot ausgesprochen wird.
 (4). Eine Fahrerlaubnis (oder auch Führerschein genannt) kann durch den ADAC für die gesetzlich vorgeschriebenen Preise ausgestellt werden:
 
-Führerscheinklasse | Fahrzeuge  { class="compact thead--blue" }
+Führerscheinklasse | Preise  { class="compact thead--blue" }
 -------------------|-------------------------------------------
 Klasse **A**       | 80.000 €
 Klasse **B**       | 65.000 €

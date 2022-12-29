@@ -128,6 +128,7 @@ order: 100
 [[§10 Abs. 1 StGB]=orange] | Bewusstlosigkeit durch mangelnde Ernährung | -      |             0 |                                    50.000€
 [[§10 Abs. 2 StGB]=orange] | Transport von schwer verletzten Personen   | -      |             0 |                                   100.000€
 [[§10 Abs. 3 StGB]=orange] | Rettungswege versperrt/blockiert           | -      |             0 |                                    50.000€
+[[§10 Abs. 4 StGB]=orange] | Freundschaftsschlägerei                    | -      |             0 |                                    50.000€
 
 <style>
 .sidebar-right {

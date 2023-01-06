@@ -15,7 +15,7 @@ icon: ':cop:'
 
 **7.1.3.** Es ist nicht erlaubt Gegenstände (Waffen, Rüstung & Westen), die in den staatlichen Shops erhältlich sind, an andere Fraktionen weiter zu geben oder diese außerhalb des Dienstes zu verwenden.
 
-**7.1.4** Korruption ist allen Beamten im Zusammenhang mit abbaubaren Drogen verboten.
+**7.1.4** Korruption ist verboten. In einzelnen Fällen kann Korruption mit einem guten Konzept bei der Projekt Leitung angemeldet werden. Die Aktenauskunft ggü. freien Anwälten, anderen Staatsfraktionen und der Person selbst ist davon nicht betroffen.
 
 **7.1.5.** Polizei-, Zoll-, Regierung und Justizvollzugsbeamte dürfen nur die Waffen nutzen, für die sie die Ausbildung auch erhalten haben!
 

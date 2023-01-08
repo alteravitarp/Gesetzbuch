@@ -36,7 +36,7 @@ icon: ':supervillain:'
 
 **6.4.3.** Ein Krieg kann von einem Mediator jederzeit beendet werden.
 
-**6.4.4.** Die Greenzones sind für Mitglieder bei Konfrontationen zwischen beiden Kriegsparteien komplett aufgehoben. Ausnahmen hierbei ist die Greenzone am Krankenhaus! Das Abcampen vom Krankenhaus ist nicht erlaubt.
+**6.4.4.** Die Safezones sind für Mitglieder bei Konfrontationen zwischen beiden Kriegsparteien komplett aufgehoben. Ausnahmen hierbei ist die Safezone am Krankenhaus! Das Abcampen vom Krankenhaus ist nicht erlaubt.
 
 **6.4.5.** Im Krieg ist bei Konfrontationen zwischen diesen Parteien die [Power-RP-Regel](Roleplay_erweitert.md#44-power-roleplay) aufgehoben z.B. durch Foltern, Hinrichten, etc
 

@@ -66,9 +66,9 @@ icon: ':supervillain:'
 
 **6.7.1.** Gruppierungen ab 5 Personen, die illegale Aktivitäten (Banküberfall, Drogen farmen, Schussgefechte) betreiben wollen, müssen sich ab sofort im Support offiziell als neue Gruppierung (Fraktion) melden!
 
-**6.7.2.** Bei illegalen RP-Aktionen mit weniger als 5 Personen, müssen sich alle Personen ähnlich einkleiden, um eine Zugehörigkeit feststellen zu können. Hinzu kommt, dass auch die Fahrzeuge in derselben Farbe eingefärbt werden müssen.
+**6.7.2.** Bei illegalen RP-Aktionen mit weniger als 5 Personen, müssen sich alle Personen ähnlich einkleiden, um eine Zugehörigkeit feststellen zu können.
 
-**6.7.3.** Ab 5 Personen müssen alle mit dem, von der Gruppierung, beantragtem Merkmal gekleidet sein. Hinzu kommt, dass auch die Fahrzeuge in derselben Farbe eingefärbt werden müssen.
+**6.7.3.** Ab 5 Personen müssen alle mit dem, von der Gruppierung, beantragtem Merkmal gekleidet sein.
 
 ## 6.8. Blood in/Blood out
 

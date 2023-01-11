@@ -10,9 +10,11 @@ icon: ':spiral_note_pad:'
 Wichtig: Missachtungen der Regeln können die sofortige Auflösung der Fraktion bedeuten.
 !!!
 
-## 8.1. Übergabe der Fraktion
+## 8.1. Fraktionsmanagement
 
 **8.1.1.** Fraktionen können ausschließlich über das Fraktionsmanagement an eine andere Person übertragen werden.
+
+**8.1.2.** Fraktionen dürfen nur ausgespielt werden, wenn diese vom Fraktionsmanagement angenommen worden sind. Das bedeutet, dass keine Fraktion, die nicht angenommen bzw. beantragt worden ist, vorher und nachher represented werden darf. Ein Verstoß führt zur dauerhaften Sperre als Fraktionsleader für den Leader bzw. Antragsteller, sowie für die Fraktion.
 
 ## 8.2. Verwarnungen
 

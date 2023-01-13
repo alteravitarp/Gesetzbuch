@@ -17,7 +17,7 @@ icon: ':cop:'
 
 **7.1.4** Korruption ist verboten. In einzelnen Fällen kann Korruption mit einem guten Konzept bei der Projekt Leitung angemeldet werden. Die Aktenauskunft ggü. freien Anwälten, anderen Staatsfraktionen und der Person selbst ist davon nicht betroffen.
 
-**7.1.5.** Polizei-, Zoll-, Regierung und Justizvollzugsbeamte dürfen nur die Waffen nutzen, für die sie die Ausbildung auch erhalten haben!
+**7.1.5.** Polizei-, Zoll-, Regierungsbeamte dürfen nur die Waffen nutzen, für die sie die Ausbildung auch erhalten haben!
 
 **7.1.6.** Staatlichen Fraktionen ist es verboten Informationen aus dem Funk einer anderen Staatlichen Fraktion an Dritte weiterzugeben. Korruption mit solchen Informationen ist ebenfalls verboten.
 
@@ -42,7 +42,7 @@ a. Bundespolizei
 b. Deutsches Rotes Kreuz
 c. ADAC
 d. Finanz- und Gewerbeamt
-e. Justizvollzugsdienst
+e. Bundesnachrichtendienst
 
 **7.3.2.** Der Präsident der Bundespolizei darf im Rahmen eines Ermittlungsverfahren personelle Sanktionen (Suspendierungen) in anderen staatlichen Fraktionen erwirken, die Dauer der Sanktion ist allerdings auf 24 Stunden begrenzt. Die Sanktion muss außerdem verhältnismäßig sein.
 

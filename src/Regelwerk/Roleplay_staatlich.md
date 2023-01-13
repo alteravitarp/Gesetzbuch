@@ -23,9 +23,7 @@ icon: ':cop:'
 
 **7.1.7.** Bei der Erstellung eines Akteneintrages dürfen nur drei Strafen aufaddiert werden, dabei gibt der Bußgeldkatalog die Maximalstrafen vor (Es sind keine Verdoppelungen mehr nach Ermessen eines Spielers erlaubt). Für eine einzelne RP-Situation darf nur ein Akteneintrag angelegt werden. Es ist verboten, Spieler länger einzusperren, als die Akteneinträge es vorgeben. Für die höhe der Bußgelder ist der offizielle Bußgeldkatalog (https://gesetz.alteravitarp.de) zu verwenden.
 
-**7.1.8.** Justizvollzugsbeamten ist es nicht erlaubt, polizeilicher Arbeit außerhalb der JVA nachzukommen. Sie haben außerdem keine Weisungsbefugnis ggü. anderen Beamten anderer staatlichen Fraktionen.
-
-**7.1.9.** Ein Mitarbeiter auf Bereitschaft ist von 7.1.1. befreit, muss seine Aktivität aber jederzeit unverzüglich unterbrechen, sollte ein Einsatz anstehen. WICHTIG: Die Aktivitäten müssen jederzeit abbrechbar sein (Also nicht noch das Tennismatch zu Ende spielen oÄ).
+**7.1.8.** Ein Mitarbeiter auf Bereitschaft ist von 7.1.1. befreit, muss seine Aktivität aber jederzeit unverzüglich unterbrechen, sollte ein Einsatz anstehen. WICHTIG: Die Aktivitäten müssen jederzeit abbrechbar sein (Also nicht noch das Tennismatch zu Ende spielen oÄ).
 
 ## 7.2. Schusseröffnung Staatsbeamte
 

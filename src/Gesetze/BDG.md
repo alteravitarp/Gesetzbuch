@@ -16,7 +16,7 @@ b. :cop: Bundeszollverwaltung <small>(teil der Bundespolizei)</small>
 c. :health_worker: Deutsches Rotes Kreuz
 d. :firefighter: Berufsfeuerwehr <small>(teil des Deutschen Roten Kreuz)</small>
 e. :office_worker: Finanz- und Gewerbeamt
-f. :cop: Justizvollzugsdienst
+f. :cop: Bundesnachrichtendienst
 
 (2). Im Falle einer Bedrohung muss das Überleben beteiligter Personen nach der folgenden Priorisierung sichergestellt werden:
 
@@ -83,8 +83,9 @@ b. Justiz Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
 (2). Folgende Mitarbeiter fallen unter das Immunitätsgesetz §5:
 
 a. Präsident der Bundespolizei (und deren Ehepartner)
+b. Präsident des Bundesnachrichtendienst
 
-(3). Jedes Verfahren gegen eine andere Person, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in [[§5 Abs. 2a]] genannten Staatsbeamten auszusetzen.
+(3). Jedes Verfahren gegen eine andere Person, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in [[§5 Abs. 2a/b]] genannten Staatsbeamten auszusetzen.
 (4). Ein in [[§5 Abs. 2a BDG]] genannter Staatsbeamte darf jederzeit die Immunität und Straffreiheit aus [[§5 Abs. 1 BDG]] und [[§5 Abs. 3 BDG]] aufheben.
 
 ## §6 Allgemeine Befugnisse von Finanz- und Gewerbeamt Beamten
@@ -96,9 +97,9 @@ a. Präsident der Bundespolizei (und deren Ehepartner)
 (2). Das Spezialeinsatzkommando (SEK) der Polizei und die Zentrale Unterstützungsgruppe Zoll (ZUZ) der Bundeszollverwaltung sind dazu befugt, mit allen humanitären notwendigen Mitteln das Land zu verteidigen.
 (3). Polizei- und Zollbeamten verfügen während des Ausnahmezustands über ein erweitertes Kontroll-, Durchsuchungs und Überprüfungsrecht. Die Notwendigkeit eines triftigen Grund entfällt, mit Ausnahmen an sogenannten Schutzzonen.
 
-## §8 Allgemeine Befugnisse eines Justizbeamten
-(1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Justizbeamter hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren.
-(2). **Offenes Tragen von Waffen**: Justizbeamten dürfen, sofern es so von einem leitenden Beamten vorgegeben ist bzw. es die Situation vorschreibt, jederzeit ihre Dienstwaffe zu Eigen- und Fremdschutz offen tragen.
+## §8 Allgemeine Befugnisse des Bundesnachrichtendienstes
+(1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Beamter des BNDs hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren.
+(2). **Offenes Tragen von Waffen**: Beamte des BNDs dürfen, sofern es so von einem leitenden Beamten vorgegeben ist bzw. es die Situation vorschreibt, jederzeit ihre Dienstwaffe zu Eigen- und Fremdschutz offen tragen.
 (3). **Einsatz tödlicher Schusswaffen**: Der Einsatz von tödlichen Schusswaffen ist gestattet, um eine Bedrohung für das eigene Leben oder das Leben anderer Beamten abzuwenden.
 
 ## §9 Personalmanagement

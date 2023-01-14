@@ -45,31 +45,31 @@ order: 99
 
 §5 StVO                    | Verkehrsdelikte         | Strafe                                  | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
 ---------------------------|-------------------------|-----------------------------------------|--------------:|------------------------------------------:
-[[§5 Abs. 5 StVO]=warning] | 11 - 15 km/h zu schnell | -                                       |             0 |                                     6.000€
-[[§5 Abs. 5 StVO]=warning] | 16 - 20 km/h zu schnell | -                                       |             0 |                                     8.000€
-[[§5 Abs. 5 StVO]=warning] | 21 - 25 km/h zu schnell | -                                       |             0 |                                    10.000€
-[[§5 Abs. 5 StVO]=warning] | 26 - 30 km/h zu schnell | -                                       |             0 |                                    12.000€
-[[§5 Abs. 5 StVO]=warning] | 31 - 40 km/h zu schnell | [[1 Punkt]=danger]                      |             0 |                                    14.000€
-[[§5 Abs. 5 StVO]=warning] | 41 - 50 km/h zu schnell | [[1 Punkt]=danger]                      |             0 |                                    16.000€
-[[§5 Abs. 5 StVO]=warning] | 51 - 60 km/h zu schnell | [[1 Punkt]=danger]                      |             0 |                                    18.000€
-[[§5 Abs. 5 StVO]=danger]  | 61 - 70 km/h zu schnell | Stillegung Fahrzeug, [[2 Punkt]=danger] |            10 |                                    20.000€
-[[§5 Abs. 5 StVO]=danger]  | über 70 km/h zu schnell | Stillegung Fahrzeug, [[3 Punkt]=danger] |            15 |                                    25.000€
-[[§5 Abs. 5 StVO]=danger]  | 280+ km/h               | Stillegung Flugzeug, [[5 Punkt]=danger] |            20 |                                    30.000€
+[[§5 Abs. 5 StVO]=warning] | 11 - 15 km/h innerorts zu schnell | -                                       |             0 |                                     6.000€
+[[§5 Abs. 5 StVO]=warning] | 16 - 20 km/h innerorts zu schnell | -                                       |             0 |                                     8.000€
+[[§5 Abs. 5 StVO]=warning] | 21 - 25 km/h innerorts zu schnell | -                                       |             0 |                                    10.000€
+[[§5 Abs. 5 StVO]=warning] | 26 - 30 km/h innerorts zu schnell | -                                       |             0 |                                    12.000€
+[[§5 Abs. 5 StVO]=warning] | 31 - 40 km/h innerorts zu schnell | [[1 Punkt]=danger]                      |             0 |                                    14.000€
+[[§5 Abs. 5 StVO]=warning] | 41 - 50 km/h innerorts zu schnell | [[1 Punkt]=danger]                      |             0 |                                    16.000€
+[[§5 Abs. 5 StVO]=warning] | 51 - 60 km/h innerorts zu schnell | [[1 Punkt]=danger]                      |             0 |                                    18.000€
+[[§5 Abs. 5 StVO]=danger]  | 61 - 70 km/h innerorts zu schnell | Stillegung Fahrzeug, [[2 Punkt]=danger] |            10 |                                    20.000€
+[[§5 Abs. 5 StVO]=danger]  | über 70 km/h innerorts zu schnell | Stillegung Fahrzeug, [[3 Punkt]=danger] |            15 |                                    25.000€
+[[§5 Abs. 5 StVO]=danger]  | 280+ km/h innerorts               | Stillegung Flugzeug, [[5 Punkt]=danger] |            20 |                                    30.000€
 
 ## [§5 StVO Geschwindigkeitsüberschreitungen (Außerorts)](../Gesetze/StVO.md#5-stvo-geschwindigkeit-und-verkehrszeichen)
 
 §5 StVO                    | Verkehrsdelikte         | Strafe                                  | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
 ---------------------------|-------------------------|-----------------------------------------|--------------:|------------------------------------------:
-[[§5 Abs. 5 StVO]=warning] | 11 - 15 km/h zu schnell | -                                       |             0 |                                     2.000€
-[[§5 Abs. 5 StVO]=warning] | 16 - 20 km/h zu schnell | -                                       |             0 |                                     3.000€
-[[§5 Abs. 5 StVO]=warning] | 21 - 25 km/h zu schnell | -                                       |             0 |                                     4.000€
-[[§5 Abs. 5 StVO]=warning] | 26 - 30 km/h zu schnell | -                                       |             0 |                                     5.000€
-[[§5 Abs. 5 StVO]=warning] | 31 - 40 km/h zu schnell | -                                       |             0 |                                     6.000€
-[[§5 Abs. 5 StVO]=warning] | 41 - 50 km/h zu schnell | -                                       |             0 |                                     7.000€
-[[§5 Abs. 5 StVO]=warning] | 51 - 60 km/h zu schnell | -                                       |             0 |                                     8.000€
-[[§5 Abs. 5 StVO]=warning] | 61 - 70 km/h zu schnell | [[1 Punkt]=danger]                      |             0 |                                    15.000€
-[[§5 Abs. 5 StVO]=danger]  | über 70 km/h zu schnell | Stillegung Fahrzeug, [[2 Punkt]=danger] |            10 |                                    20.000€
-[[§5 Abs. 5 StVO]=danger]  | 280+ km/h               | Stillegung Fahrzeug, [[4 Punkt]=danger] |            15 |                                    25.000€
+[[§5 Abs. 5 StVO]=warning] | 11 - 15 km/h außerorts zu schnell | -                                       |             0 |                                     2.000€
+[[§5 Abs. 5 StVO]=warning] | 16 - 20 km/h außerorts zu schnell | -                                       |             0 |                                     3.000€
+[[§5 Abs. 5 StVO]=warning] | 21 - 25 km/h außerorts zu schnell | -                                       |             0 |                                     4.000€
+[[§5 Abs. 5 StVO]=warning] | 26 - 30 km/h außerorts zu schnell | -                                       |             0 |                                     5.000€
+[[§5 Abs. 5 StVO]=warning] | 31 - 40 km/h außerorts zu schnell | -                                       |             0 |                                     6.000€
+[[§5 Abs. 5 StVO]=warning] | 41 - 50 km/h außerorts zu schnell | -                                       |             0 |                                     7.000€
+[[§5 Abs. 5 StVO]=warning] | 51 - 60 km/h außerorts zu schnell | -                                       |             0 |                                     8.000€
+[[§5 Abs. 5 StVO]=warning] | 61 - 70 km/h außerorts zu schnell | [[1 Punkt]=danger]                      |             0 |                                    15.000€
+[[§5 Abs. 5 StVO]=danger]  | über 70 km/h außerorts zu schnell | Stillegung Fahrzeug, [[2 Punkt]=danger] |            10 |                                    20.000€
+[[§5 Abs. 5 StVO]=danger]  | 280+ km/h außerorts               | Stillegung Fahrzeug, [[4 Punkt]=danger] |            15 |                                    25.000€
 
 ## [§6 StVO Luftverkehr](../Gesetze/StVO.md#6-stvo-luftverkehr)
 

@@ -41,23 +41,23 @@ order: 100
 
 ## [§3 StGB Körperliche Integrität](../gesetze/stgb/#3-stgb-körperliche-integrität)
 
-§3 StGB                    | Straftat                               | Strafe        | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
----------------------------|----------------------------------------|---------------|--------------:|------------------------------------------:
-[[§3 Abs. 1 StGB]=danger]  | Körperverletzung                       | ggf. Tatwaffe |             0 |                                    10.000€
-[[§3 Abs.2 StGB]=danger]   | Freiheitsberaubung                     | -             |            10 |                                    15.000€
-[[§3 Abs.2 StGB]=danger]   | Geiselnahme                            | -             |            20 |                                    15.000€
-[[§3 Abs.3 StGB]=warning]  | Belästigung                            | -             |             0 |                                    10.000€
-[[§3 Abs.4 StGB]=warning]  | Drohung                                | -             |             0 |                                    10.000€
-[[§3 Abs.5 StGB]=danger]   | Morddrohung                            | -             |            10 |                                    15.000€
-[[§3 Abs.6 StGB]=danger]   | Versuchter Mord                        | -             |            30 |                                    30.000€
-[[§3 Abs.6 StGB]=danger]   | Mord                                   | -             |            40 |                                    60.000€
-[[§3 Abs.7 StGB]=danger]   | Versuchter Totschlag                   | -             |            15 |                                    15.000€
-[[§3 Abs.7 StGB]=danger]   | Totschlag                              | -             |            20 |                                    30.000€
-[[§3 Abs.8 StGB]=danger]   | Beihilfe zum Mord                      | -             |            20 |                                    20.000€
-[[§3 Abs.9 StGB]=danger]   | Unterlassene Hilfeleistung             | -             |            10 |                                    20.000€
-[[§3 Abs.10 StGB]=warning] | Beleidigung                            | -             |             0 |                                     5.000€
-[[§3 Abs.11 StGB]=danger]  | Öffentliche Aufforderung zu Straftaten | -             |            15 |                                    15.000€
-[[§3 Abs.12 StGB]=danger]  | Rufmord / üble Nachrede                | -             |            20 |                                    35.000€
+§3 StGB                     | Straftat                               | Strafe        | Hafteinheiten | Bußgeld  { class="compact thead--orange" }
+----------------------------|----------------------------------------|---------------|--------------:|------------------------------------------:
+[[§3 Abs. 1 StGB]=danger]   | Körperverletzung                       | ggf. Tatwaffe |             0 |                                    10.000€
+[[§3 Abs. 2 StGB]=danger]   | Freiheitsberaubung                     | -             |            10 |                                    15.000€
+[[§3 Abs. 2 StGB]=danger]   | Geiselnahme                            | -             |            20 |                                    15.000€
+[[§3 Abs. 3 StGB]=warning]  | Belästigung                            | -             |             0 |                                    10.000€
+[[§3 Abs. 4 StGB]=warning]  | Drohung                                | -             |             0 |                                    10.000€
+[[§3 Abs. 5 StGB]=danger]   | Morddrohung                            | -             |            10 |                                    15.000€
+[[§3 Abs. 6 StGB]=danger]   | Versuchter Mord                        | -             |            30 |                                    30.000€
+[[§3 Abs. 6 StGB]=danger]   | Mord                                   | -             |            40 |                                    60.000€
+[[§3 Abs. 7 StGB]=danger]   | Versuchter Totschlag                   | -             |            15 |                                    15.000€
+[[§3 Abs. 7 StGB]=danger]   | Totschlag                              | -             |            20 |                                    30.000€
+[[§3 Abs. 8 StGB]=danger]   | Beihilfe zum Mord                      | -             |            20 |                                    20.000€
+[[§3 Abs. 9 StGB]=danger]   | Unterlassene Hilfeleistung             | -             |            10 |                                    20.000€
+[[§3 Abs. 10 StGB]=warning] | Beleidigung                            | -             |             0 |                                     5.000€
+[[§3 Abs. 11 StGB]=danger]  | Öffentliche Aufforderung zu Straftaten | -             |            15 |                                    15.000€
+[[§3 Abs. 12 StGB]=danger]  | Rufmord / üble Nachrede                | -             |            20 |                                    35.000€
 
 ## [§4 StGB Umgang mit Beamten](../gesetze/stgb/#4-stgb-umgang-mit-beamten)
 

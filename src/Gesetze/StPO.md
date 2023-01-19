@@ -33,3 +33,7 @@ d. Fotografische Aufnahmen
 (3). Jeder Beschuldigte hat bei einer vorläufigen Festnahme, spätestens nach Festsetzung in der U-Haftzelle, ein Recht auf Informationen über die Vorwürfe, deren er beschuldigt wird.
 (4). Jeder Beschuldigte hat das Recht auf einen Anwalt, notfalls auch auf Kosten des Staates.
 (5). Ein Beamter, der als Verteidiger in einem Prozess auftritt, ist für alle Informationen seines Mandanten die mit dem Prozess zu tun haben, von der Meldepflicht nach [[§2 Abs. 1 BDG]] befreit. 
+
+## §4 Strafverfolgung
+(1). Eine Straftat verjährt automatisch 4 Wochen nach Feststellung.
+(2). Eine Straftat nach [[§3 Abs. 6 StGB]] verjährt nicht.

@@ -40,7 +40,7 @@ Klasse **PPL(A)**  | 400.000 €
 Klasse **SBF**     | 200.000 €
 
 (5). Die Kosten für den Erwerb einer Fahrerlaubnis der Klasse B entfallen für Beamte nach [[§1 Abs. 1 BDG]]. Der Beamtenstatus muss durch einen Dienstausweis der jeweilgen Behörde nachgewiesen werden.
-(6). Die Kosten für den Erwerb einer Fahrerlaubnis der Klasse CE entfallen für Beamte nach [[§1 Abs 1c/e BDG]]. Der Beamtenstatus muss durch einen Dienstausweis der jeweilgen Behörde nachgewiesen werden.
+(6). Die Kosten für den Erwerb einer Fahrerlaubnis der Klasse CE entfallen für Beamte nach [[§1 Abs 1c/d BDG]]. Der Beamtenstatus muss durch einen Dienstausweis der jeweilgen Behörde nachgewiesen werden.
 
 ## §2 StVO Gefährlicher Eingriff in den Straßenverkehr
 (1). Wer die Sicherheit des Straßenverkehrs dadurch beeinträchtigt, daß er 

@@ -78,10 +78,11 @@ Personen die trollen, werden häufig anders behandelt bzw. im RP eingebaut. Nur 
 
 **2.4.4.** Mitglieder der staatlichen Fraktion DRK besitzen einen Sonderstatus. Dieser verbietet es anderen Spielern, Mitglieder des DRKs während sie im Dienst sind, zu überfallen, gefangenzunehmen oder zu behindern.
 
-
 **2.4.5.** Zusätzlich ist es untersagt Fahrzeuge des DRKs zu entwenden.
 
-**2.4.5.** [[WICHTIG]=warning] Dieser Sonderstatus wird aufgehoben, sollte ein Beamter des DRKs eine Tat provozieren oder beginnen.
+**2.4.6.** [[WICHTIG]=warning] Dieser Sonderstatus wird aufgehoben, sollte ein Beamter des DRKs eine Tat provozieren oder beginnen.
+
+**2.4.7.** Bei längeren Situationen muss dem DRK immer die Möglichkeit geboten werden bewusstlose Personen zu bergen bzw. diese zu behandeln.
 
 ## 2.5. Crime-Roleplay
 

@@ -134,7 +134,7 @@ icon: ':spiral_note_pad:'
 
 ## 3.15. Besitztümer
 
-**3.15.1.** Das Annehmen des ganzen Besitzes/Eigentum einer Person, eines ganzen Fuhrparks etc., ist strikt untersagt, vor allem wenn die andere Person den Server verlässt oder einen Charaktertod durchführt.
+**3.15.1.** Das Annehmen des Besitzes/Eigentum einer Person, Fahrzeugen etc., ist strikt untersagt,  wenn die andere Person den Server verlässt oder einen Charaktertod durchführt.
 
 ## 3.16. Türen abschließen
 

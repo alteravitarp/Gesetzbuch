@@ -106,6 +106,6 @@ b. Präsident des Bundesnachrichtendienst
 _Wird gegen eines dieser Gesetze verstoßen, haftet die zuständige Personalabteilung oder die zuständige Führung der Organisation_
 
 (1). Für die Einstellung im Exekutiv-Dienst [[§1 Abs. 1a/b/f]](#1-gültigkeit) dürfen in den letzten 31 Tagen keine Straftaten (Ordnungswidrigkeiten ausgeschlossen) vorliegen.
-(2). Für die Einstellung im Exekutiv-Dienst [[§1 Abs. 1a/b]](#1-gültigkeit) darf keine Zugehörigkeit zu einer kriminellen Organisation bekannt sein.
+(2). Für die Einstellung im Exekutiv-Dienst [[§1 Abs. 1a/b]](#1-gültigkeit) darf zuletzt keine Zugehörigkeit zu einer kriminellen Organisation Aktenkundig sein. Ist die Zugehörigkeit älter als 3 Monate, verjährt diese.
 (3). Für die Einstellung im Rettungsdienst [[§1 Abs. 1c/d]](#1-gültigkeit) dürfen in den letzten 14 Tagen keine Straftaten, die die körperliche Integrität einer dritten Person beeinträchtigten, vorliegen.
 (4). Um Straftaten nachzuweisen ist ein Führungszeugnis, welches von der Bundespolizei ausgestellt worden ist, notwendig. Eine Einstellung ohne Führungszeugnis ist unzulässig.

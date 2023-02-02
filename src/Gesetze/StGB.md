@@ -53,7 +53,8 @@ Lebensbedrohliche Verletzungen sind ausschließlich solche Verletzungen, die dur
 (9). Wer bei Unglücksfällen oder gemeiner Gefahr oder Not nicht Hilfe leistet oder diese verhindert, obwohl dies erforderlich und ihm den Umständen nach zuzumuten ist, macht sich der unterlassenen Hilfeleistung schuldig.
 (10). Wer eine Person beleidigt, macht sich strafbar.
 (11). Wer öffentlich, in einer Versammlung oder durch Verbreiten eines Inhalts zu einer rechtswidrigen Tat auffordert, wird wie ein Anstifter bestraft.
-(12). Wer bezugnehmend auf eine Person oder ein Gewerbe falsche Tatsachen behauptet oder verbreitet um diese zu denunzieren, zu verächtlichen oder wirtschaftlich zu schaden, macht sich strafbar. Es steht nur dann nicht unter Strafe, wenn die Tatsache nachgewiesen werden kann. 
+(12). Wer bezugnehmend auf eine Person oder ein Gewerbe falsche Tatsachen behauptet oder verbreitet um diese zu denunzieren, zu verächtlichen oder wirtschaftlich zu schaden, macht sich strafbar. Es steht nur dann nicht unter Strafe, wenn die Tatsache nachgewiesen werden kann.
+(13). Wer eine andere Person in sexuell bestimmter Weise körperlich berührt und dadurch belästigt, macht sich strafbar.
 
 ## §4 StGB Umgang mit Beamten
 

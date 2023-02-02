@@ -58,6 +58,7 @@ order: 100
 [[§3 Abs. 10 StGB]=warning] | Beleidigung                            | -             |             0 |                                     5.000€
 [[§3 Abs. 11 StGB]=danger]  | Öffentliche Aufforderung zu Straftaten | -             |            15 |                                    15.000€
 [[§3 Abs. 12 StGB]=danger]  | Rufmord / üble Nachrede                | -             |            20 |                                    35.000€
+[[§3 Abs. 13 StGB]=danger]  | Sexuelle Belästigung                   | -             |            20 |                                    30.000€
 
 ## [§4 StGB Umgang mit Beamten](../gesetze/stgb/#4-stgb-umgang-mit-beamten)
 

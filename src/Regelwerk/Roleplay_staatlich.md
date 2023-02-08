@@ -9,7 +9,7 @@ icon: ':cop:'
 
 ## 7.1. Im Dienst einer staatlichen Fraktion
 
-**7.1.1.** Einem Mitarbeiter einer staatlichen Fraktion ist das Ausüben eines Nebenjobs im Dienst verboten.
+**7.1.1.** Paycheckfarming ist verboten, darunter zählt das ausführen eines Nebenjobs oder sämtliche Aktivitäten, die nicht im Sinne des Berufs ausgeübt werden.
 
 **7.1.2.** Es ist für Mitglieder einer staatlichen Fraktion nicht erlaubt, konfiszierte Gegenstände zu behalten. Dazu zählen auch die Inhalte eines Fahrzeugs sowie aufgebrochene Fahrzeuge.
 

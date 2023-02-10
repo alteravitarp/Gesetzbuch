@@ -116,7 +116,7 @@ icon: ':spiral_note_pad:'
 
 ## 3.13. New Life Rule (NLR)
 
-**3.13.1.** Wenn du niedergeschlagen bist und dann wieder auf die Beine kommst, kann dein Charakter sich an vergangene Ereignisse erinnern.
+**3.13.1.** Wenn du niedergeschlagen bist und dann wieder auf die Beine kommst, kann dein Charakter sich an vergangene Ereignisse erinnern, aber darf nicht mehr an der RP-Situation teilnehmen.
 
 **3.13.2.** War dein Charakter in der NotOP oder leidet an einer Gedächtnisstörung, kann er sich nicht mehr an die letzte RP-**SITUATION** erinnern und darf an dieser nicht mehr teilnehmen.
 

@@ -124,6 +124,8 @@ icon: ':spiral_note_pad:'
 
 **3.13.4.** [[KLARSTELLUNG]=info] Eine RP-Situation ist z.B. ein Banküberfall inkl. Festnahme bis zur JVA oder eine aktive Gangschießerei. Ein RP-Strang ist z.B. eine Bestechungsaffäre zwischen einem Polizisten und einem Kriminellen. Der Strang wird damit z.B. durch das gezielte Ermorden des Kriminellen beendet, wenn der auspacken möchte.
 
+**3.13.5.** Solltest du an der JVA inhaftiert werden, ist die RP-Situation für dich beendet und du darfst an der vorherigen nicht mehr teilnehmen.
+
 ## 3.14. IC und OOC
 
 **3.14.1.** Wurdest du im Spiel von einer Person beleidigt oder schlecht behandelt, so darfst du dies nicht persönlich nehmen.

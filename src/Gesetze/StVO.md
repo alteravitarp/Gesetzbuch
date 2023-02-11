@@ -42,6 +42,7 @@ Klasse **SBF**     | 200.000 €
 (5). Die Kosten für den Erwerb einer Fahrerlaubnis der _Klasse B_ entfallen für Beamte nach [[§1 Abs. 1 BDG]]. Der Beamtenstatus muss durch einen Dienstausweis der jeweilgen Behörde nachgewiesen werden.
 (6). Die Kosten für den Erwerb einer Flugerlaubnis der _Klasse PPL(H)_ entfallen für Beamte nach [[§1 Abs. 1a/b BDG]]. Der Beamtenstatus muss durch einen Dienstausweis der jeweilgen Behörde nachgewiesen werden.
 (7). Die Kosten für den Erwerb einer Fahrerlaubnis der _Klasse CE_ entfallen für Beamte nach [[§1 Abs 1c/d BDG]]. Der Beamtenstatus muss durch einen Dienstausweis der jeweilgen Behörde nachgewiesen werden.
+(8). Wer laut medizinischer Sicht eine Gefährdung für sich und/oder andere Personen im Straßenverkehr darstellt, kann in Absprache mit dem Deutschen Roten Kreuz von einem Exekutivbeamten den Führerschein entzogen bekommen. Für einen Neuerwerb der Fahrerlaubnis benötigt die Person eine medizinisch-psychologische Untersuchung. 
 
 ## §2 StVO Gefährlicher Eingriff in den Straßenverkehr
 (1). Wer die Sicherheit des Straßenverkehrs dadurch beeinträchtigt, daß er 

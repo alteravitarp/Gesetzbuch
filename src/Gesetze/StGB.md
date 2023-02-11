@@ -111,14 +111,7 @@ d. Ausgangssperre: Der Bundespolizeipräsident darf jederzeit eine Ausgangssperr
 
 ## §8 StGB Amerikanisches Hoheitsgebiet
 
-(1). Die Insel Cayo Perico ist ein US-amerikanischer Militärstützpunkt und 
-unterliegt amerikanischem Recht.
-(2). Der gesichterte Boden sowie der Luftraum über der Insel ist Hochsicherheitsgebiet 
-und darf nur mit Genehmigung des/der Bundeskanzler/in betreten 
-werden.
-(3). Gesuchte Straftäter und Kriminelle haben auf der Insel kein Asylrecht und 
-werden nach dem Auslieferungsabkommen vom 22.08.2022 an die 
-deutschen Behörden überstellt. 
+(weggefallen)
 
 ## §9 StGB Terrorismus
 

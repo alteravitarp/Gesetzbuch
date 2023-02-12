@@ -32,13 +32,15 @@ icon: ':supervillain:'
 
 **6.4.1.** Eine Kriegserklärung darf nur mit einem guten RP-Hintergrund ausgesprochen werden z.B. der Streit um ein Drogenfeld. Die erklärende Fraktion sollte der anderen Fraktion ein Angebot machen, um einen Krieg zu vermeiden. Die Kriegserklärung sollte im RP der letzte Schritt sein, um einen Konflikt zu lösen.
 
-**6.4.2.** Ein Krieg kann von einem Mediator jederzeit beendet werden.
+**6.4.2.** Erteilte Kriegserklärungen müssen sofort im entsprechenden Fraktionsticket gemeldet werden. In der Meldung müssen Absender, Empfänger und Forderungen ersichtlich sein.
 
-**6.4.3.** Die Safezones sind für Mitglieder bei Konfrontationen zwischen beiden Kriegsparteien komplett aufgehoben. Ausnahmen hierbei ist die Safezone am Krankenhaus! Das Abcampen vom Krankenhaus ist nicht erlaubt.
+**6.4.3.** Ein Krieg kann von einem Mediator jederzeit beendet werden.
 
-**6.4.4.** Im Krieg ist bei Konfrontationen zwischen diesen Parteien die [Power-RP-Regel](Roleplay_erweitert.md#44-power-roleplay) aufgehoben z.B. durch Foltern, Hinrichten, etc
+**6.4.4.** Die Safezones sind für Mitglieder bei Konfrontationen zwischen beiden Kriegsparteien komplett aufgehoben. Ausnahmen hierbei ist die Safezone am Krankenhaus! Das Abcampen vom Krankenhaus ist nicht erlaubt.
 
-**6.4.5.** Im Krieg dürfen keine Mitglieder in einer Fraktion aufgenommen werden.
+**6.4.5.** Im Krieg ist bei Konfrontationen zwischen diesen Parteien die [Power-RP-Regel](Roleplay_erweitert.md#44-power-roleplay) aufgehoben z.B. durch Foltern, Hinrichten, etc
+
+**6.4.6.** Im Krieg dürfen keine Mitglieder in einer Fraktion aufgenommen werden.
 
 ## 6.5. Drive By
 

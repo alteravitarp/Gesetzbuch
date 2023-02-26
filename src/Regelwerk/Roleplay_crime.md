@@ -62,7 +62,7 @@ icon: ':supervillain:'
 
 **6.6.6.** Jegliche im VC-Shop erworbene Gegenstände dürfen nicht entwendet werden.
 
-## 6.7. Gangs
+## 6.7. Illegale Aktivitäten
 
 **6.7.1.** Gruppierungen ab 5 Personen, die illegale Aktivitäten (Banküberfall, Drogen farmen, Schussgefechte) betreiben wollen, müssen sich ab sofort im Support offiziell als neue Gruppierung (Fraktion) melden!
 

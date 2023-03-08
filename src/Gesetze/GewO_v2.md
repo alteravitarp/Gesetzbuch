@@ -35,7 +35,7 @@ a. keine Straftaten innerhalb der letzten 2 Wochen bekannt wurden.
 a. von der Bundespolizei oder einer beliebigen angemeldeten Sicherheitsfirma bestätigte Anwesenheit.
 b. vom Deutschen Roten Kreuz bestätigte Bereitschaft.
 
-(2). Die ausgestellten Lizenzen müssen für den Gewerbetreibenden müssen für eine Veranstaltung um mindestens eine _Veranstalterlizenz_, falls nicht vorhanden, erweitert werden.
+(2). Die ausgestellten Lizenzen müssen für den Gewerbetreibenden um mindestens eine eine _Veranstalterlizenz_, falls nicht vorhanden, erweitert werden.
 
 (3). Veranstaltungen nach [[§3 Abs. 1b, 1c]] dürfen nur dann durchgeführt werden, wenn auch das notwendige Sicherheit- und medizinische Personal verfügbar ist.
 (4). Veranstalter sind in der Kontrollpflicht, dass Gäste und Helfer ...

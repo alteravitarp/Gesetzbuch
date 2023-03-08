@@ -1,6 +1,7 @@
 ---
 label: Medizinische Befunde
 icon: ':bookmark_tabs:'
+hidden: true
 ---
 
 ## Kapitel 1 - Bestimmte infektiöse und parasitäre Krankheiten

@@ -1,5 +1,5 @@
 ---
-label: Gewerbeordnung (entwurf)
+label: Gewerbeordnung
 layout: default
 order: 50
 icon: ':factory:'

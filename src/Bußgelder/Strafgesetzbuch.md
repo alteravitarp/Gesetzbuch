@@ -120,7 +120,7 @@ order: 100
 [[§9 Abs. 1b StGB]=danger] | Bedrohung der Zivilbevölkerung                       | -      |            20 |                                    20.000€
 [[§9 Abs. 1c StGB]=danger] | Bedrohung der Staatsorgane                           | -      |            60 |                                    80.000€
 [[§9 Abs. 1d StGB]=danger] | Bedrohung der öffentlichen Sicherheit                | -      |            20 |                                    30.000€
-[[§9 Abs. 1e StGB]=danger] | Mitgliedschaft in einer terroristischen Organisation | -      |            10 |                                    15.000€
+[[§9 Abs. 1e StGB]=danger] | Mitgliedschaft in einer terroristischen Organisation | -      |            60 |                                    60.000€
 
 ## [§10 StGB Behinderung der Rettungsorgane](../gesetze/stgb/#10-stgb-behinderung-der-rettungsorgane)
 

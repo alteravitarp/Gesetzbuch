@@ -50,7 +50,7 @@ icon: ':supervillain:'
 
 ## 6.6. Ausrauben
 
-**6.6.1.** Das Ausrauben und das Abnehmen von legal erfarmten Rohstoffen, sowie von legalen, in der Spielwelt (nicht in einer Firma) verarbeiteten Endprodukten ist untersagt.
+**6.6.1.** Das Ausrauben und/oder das Abnehmen von legal erfarmten Rohstoffen, sowie von legalen, in der Spielwelt (nicht in einer Firma) verarbeiteten Endprodukten ist untersagt.
 
 **6.6.2.** [[WICHTIG]=warning] Der Diebstahl aus einem offen gelassenen Fahrzeug ist kein Raub!
 

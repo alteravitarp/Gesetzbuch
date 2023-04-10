@@ -60,7 +60,11 @@ b. keine Drogen oder sonstige Rauschmittel nach [[§1 Abs. 1 BtMG]] mitführen.
 (2). Für Betriebsstätte die dem Staat abgekauft oder selbst errichtet wurden muss keine Pacht nach [[§5 Abs. 1 GewO]] entrichtet werden. Hier wird allerdings eine Grundsteuer fällig.
 (3). Für jede gewerbliche Tätigkeit ist eine _Gewerbeerlaubnis_ und eine _Werbelizenz_ erforderlich.
 (4). Für das Ausschenken von alkoholischen Getränken ist eine _Ausschanklizenz_ erforderlich.
-(5). Für das Verkaufen von Lebensmitteln ist eine _Lebensmittelhändlerlizenz_ erforderlich.
+(5). Für den Handel mit ...
+a. ... Lebensmittel ist eine _Lebensmittelhändlerlizenz_ erforderlich.
+b. ... Fahrzeugen jeder Art ist eine _Autohändlerlizenz_ erforderlich.
+c. ... Rohstoffen ist eine _Rohstoffhändlerlizenz_ erforderlich.
+
 (6). Für das Herstellen von Betriebsmitteln ist eine _Herstellungslizenz_ erforderlich.
 (7). Für das Durchführen einer Veranstaltung im privaten Bereich ist eine _Veranstaltungserlaubnis_ erforderlich.
 (8). Für das Durchführen von Veranstaltungen im gewerblichen Bereich ist eine _Veranstaltungslizenz_ erforderlich.
@@ -82,10 +86,12 @@ Soll die gewerbliche Tätigkeit um einen lizenzpflichtigen Bereich erweitert wer
 | ----------------------------- | ------------------------ | ------------------------------------------------- |
 | Pacht                         | individuell              | 1 Woche                                           |
 | Grundsteuer                   | 30.000 €                 | 1 Woche                                           |
-| Gewerbeerlaubnis              | 50.000 €                 | 1 Woche                                           |
-| Werbelizenz                   | 17.500 €                 | 1 Woche                                           |
+| Gewerbeerlaubnis              | 22.500 €                 | 1 Woche                                           |
+| Werbelizenz                   | 22.500 €                 | 1 Woche                                           |
 | Ausschanklizenz               | 10.250 €                 | 1 Woche                                           |
 | Lebensmittelhändlerlizenz     | 12.250 €                 | 1 Woche                                           |
+| Autohändlerlizenz             | 12.250 €                 | 1 Woche                                           |
+| Rohstoffhändlerlizenz         | 12.250 €                 | 1 Woche                                           |
 | Herstellungslizenz            | 7.500 €                  | 1 Woche                                           |
 | Veranstaltungserlaubnis       | 25.000 €                 | einmaliges Event                                  |
 | Veranstaltungslizenz          | 45.000 €                 | 1 Woche                                           |

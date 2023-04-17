@@ -13,11 +13,12 @@ icon: ':card_file_box:'
 (3). Der Bußgeldkatalog der Bundesregierung gibt die maximalen Haft-/Bußgeldstrafen an.
 (4). Bei einer zusammenhängenden Tat, dürfen jeweils nur drei Delikte aufaddiert werden und ergeben die Gesamtstrafe.
 (5). Für jeden Tatbestand sind Beweise anzuführen. 
-(6). Eine nicht bezahlte Bußgeldstrafe wird in Haftzeiten umgewandelt. Hierbei entspricht ein Bußgeld von 1.000€, 2 Hafteinheiten.
+(6). Eine nicht bezahlte Bußgeldstrafe wird der Staat über ein extra für den Bürger angelegtes Bankkonto eingetrieben.
 (7). Wird ein Täter innerhalb von 2 Wochen mehr als 4 mal Straffällig, sodass lt. Bußgeldkatalog Hafteinheiten in betracht kommen, wird dem Täter verwehrt, die Strafe durch Kautionsleistungen nach [[§1 Abs. 9 StPO]] zu mindern.
-(8). Eine Haftstrafe von bis zu 60 Einheiten kann auf Bewährung ausgesprochen werden, wenn der Täter das Bußgeld bezahlt.
-(9). Jede Haftstrafe kann durch eine Kautionsleistungen in Höhe von 3.000€ pro Hafteinheit auf ein Minimum von 60 Hafteinheiten gesenkt werden.
-(10). Das Gericht entscheidet über die Höhe der zu tragenden Gerichtskosten, sowie darüber wer Diese zu zahlen hat.
+(8). Eine Haftstrafe von bis zu 30 Einheiten kann auf Bewährung ausgesprochen werden, wenn der Täter das Bußgeld bezahlt.
+(9). Jede Haftstrafe kann durch eine Kautionsleistungen in Höhe von 3.000€ pro Hafteinheit auf ein Minimum von 30 Hafteinheiten gesenkt werden.
+(10). Ist das Bußgeldkonto aus [[§1 Abs. 6 StPO]] mit mehr als 1.000.000€ im Minus wird der Inhaftierte eine Ersatzhaftstrafe von 3 Tagen antreten.
+(11). Das Gericht entscheidet über die Höhe der zu tragenden Gerichtskosten, sowie darüber wer Diese zu zahlen hat.
 
 ## §2 Beweismittel
 (1). Vor Gericht sind folgende Beweise zulässig:

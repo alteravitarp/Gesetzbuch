@@ -90,6 +90,7 @@ Soll die gewerbliche Tätigkeit um einen lizenzpflichtigen Bereich erweitert wer
 | Werbelizenz                   | 22.500 €                 | 1 Woche                                           |
 | Ausschanklizenz               | 10.250 €                 | 1 Woche                                           |
 | Lebensmittelhändlerlizenz     | 12.250 €                 | 1 Woche                                           |
+| Künstlerlizenz                | 12.500 €                 | 1 Woche                                           |
 | Autohändlerlizenz             | 12.250 €                 | 1 Woche                                           |
 | Rohstoffhändlerlizenz         | 12.250 €                 | 1 Woche                                           |
 | Herstellungslizenz            | 7.500 €                  | 1 Woche                                           |

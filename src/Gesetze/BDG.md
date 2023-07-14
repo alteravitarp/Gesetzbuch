@@ -30,7 +30,7 @@ d. Sicherung eventueller Straftäter
 
 (1). **Meldepflicht**: Jeder Beamte ist dazu verpflichtet Straftaten zu melden, sobald diese beobachtet oder über diese in Kenntnis gesetzt werden.
 (2). **Ausweispflicht**: Jeder Beamte ist dazu verpflichtet auf Verlangen seinen Dienstausweis vorzuzeigen.
-(3). **Behandlungspflicht**: Die Mitarbeiter des Deutschen Roten Kreuz und der Berufsfeuerwehr sind dazu verpflichtet, Notrufe so schnell wie möglich anzufahren.
+(3). **Behandlungspflicht**: Die Mitarbeiter des Deutschen Roten Kreuz und der Berufsfeuerwehr sind im Rahmen der Ausübung ihrer hoheitlichen Aufgaben,  dazu verpflichtet, Notrufe so schnell wie möglich anzufahren.
 (4). **Folgepflicht**: Jeder Beamte muss die Anweisungen ihres Vorgesetzen folge leisten.
 (5). **Schweigepflicht**: Beamte dürfen keine Informationen über Einsätze der Bundespolizei, Patienten, Opfer und Straftäter an Dritte, ohne Dienstlichen Grund, weitergeben.
 (6). **Dokumentationspflicht**: Beamte sind dazu verpflichtet Einsätze entsprechend der internen Richtlinien der jeweiligen Organisationen zu dokumentieren.

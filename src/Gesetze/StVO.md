@@ -115,9 +115,8 @@ a. Wer ein Fahrzeug führt, muss anhalten und Vorfahrt gewähren.
 b. Wer ein Fahrzeug führt, darf bis zu 10 m vor diesem Zeichen nicht halten, wenn es dadurch verdeckt wird.
 c. Ist keine Haltlinie (Zeichen 294) vorhanden, ist dort anzuhalten, wo die andere Straße zu übersehen ist.
 
-(9). Lichtzeichen sind im kompletten Straßenverkehr nicht zu beachten. 
-(10). Ohne triftigen Grund dürfen Kraftfahrzeuge nicht so langsam fahren, dass sie den Verkehrsfluss behindern.
-(11). Blitzer müssen außerhalb der Fahrbahn, direkt angrenzend an die Fahrbahn und nicht versteckt positioniert sein. Jeder blitzende Beamte ist dazu verpflichtet, eine entsprechende Warnweste zu tragen.
+(9). Ohne triftigen Grund dürfen Kraftfahrzeuge nicht so langsam fahren, dass sie den Verkehrsfluss behindern.
+(10). Blitzer müssen außerhalb der Fahrbahn, direkt angrenzend an die Fahrbahn und nicht versteckt positioniert sein. Jeder blitzende Beamte ist dazu verpflichtet, eine entsprechende Warnweste zu tragen.
 
 ## §6 StVO Luftverkehr
 (1). Das Starten und Landen eines Luftfahrzeuges darf nur auf einer dafür vorgesehenen Fläche geschehen. Als geeignet gelten Hubschrauberlandeplätze und Flughäfen.

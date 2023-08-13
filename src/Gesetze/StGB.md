@@ -27,7 +27,8 @@ icon: ':book:'
 
 a. Hieb- und Stichwaffen, deren Sinn und Zweck in der Verletzung oder Tötung liegen. 
 b. Halbautomatische Schusswaffen.
-c. Vollautomatische Schusswaffen. 
+c. Vollautomatische Schusswaffen.
+d. Scharfschützengewehre 
 
 (4). Jeglicher Handel mit Waffen und deren Bauteilen, ist ohne Lizenz untersagt.
 (5). Des Weiteren sind sämtliche Waffenmodifikationen ohne Lizensierung verboten. Ausnahme hierbei ist eine taktische Taschenlampe.

@@ -35,6 +35,7 @@ order: 100
 | [[§2 Abs. 3a StGB]=danger] | Besitz einer illegalen Waffe Kat. A     | Abnahme Waffe(n)                  |            10 |                                    10.000€ |
 | [[§2 Abs. 3b StGB]=danger] | Besitz einer illegalen Waffe Kat. B     | Abnahme Waffe(n)                  |            20 |                                    20.000€ |
 | [[§2 Abs. 3c StGB]=danger] | Besitz einer illegalen Waffe Kat. C     | Abnahme Waffe(n)                  |            30 |                                    30.000€ |
+| [[§2 Abs. 3c StGB]=danger] | Besitz einer illegalen Waffe Kat. D     | Abnahme Waffe(n)                  |            120 |                                    100.000€ |
 | [[§2 Abs. 4 StGB]=danger]  | Illegaler Waffenhandel                  | Abnahme Waffe(n)                  |            20 |                                    20.000€ |
 | [[§2 Abs. 5 StGB]=danger]  | Illegale Waffenmodifikation             | Abnahme Waffe(n) + Modifikationen |            15 |                                    15.000€ |
 | [[§2 Abs. 6 StGB]=danger]  | Organisierter illegaler Waffenhandel    | Abnahme Waffe(n)                  |            40 |                                    50.000€ |

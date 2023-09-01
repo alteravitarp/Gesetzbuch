@@ -39,7 +39,7 @@ d. Sicherung eventueller Straftäter
 (8). **Korruption**: Beamten dürfen ihren Beruf nicht für kriminelle Zwecke ausnutzen, absichtlich gegen Geld Fehler machen oder andere, für Dritte gewinnbringende, Informationen weitergeben.
 (9). **Im Dienst des Staates**: Beamte müssen sich bei außerdienstlichen Aktivitäten ausstechen und außer Dienst gehen. Das bewusste Erschleichen von Leistungen durch Abwesenheit stellt einen Verstoß gegen das BDG dar und wird neben einer Suspendierung auch mit einem entsprechenden Bußgeld bestraft.
 
-## §3 Befugnisse der Beamten
+## §3 Befugnisse eines Exekutivbeamtebeamten
 
 (1). **Platzverweise**: Ein Beamter kann auf Grundstücken innerhalb seiner Zuständigkeit einzelne Personen oder Personengruppen, zeitlich des Platzes verweisen.
 (2). **Durchsuchen**: Beamte dürfen Personen und Fahrzeuge jederzeit durchsuchen, wenn mindestens einer der folgenden Punkte zutrifft:
@@ -65,13 +65,31 @@ d. Sicherung eventueller Straftäter
 
 (5). **Sonder- und Wegerechte**: Eindeutig durch Einsatzbeleuchtung und Sirene kenntlich gemachte Fahrzeuge sowie Hubschrauber und Flugzeuge, welche von Beamten geführt werden, sind von der StVO befreit, müssen aber unter allen Umständen Gefahren für die Öffentlichkeit vermeiden.
 (6). **Straßensperren**: Beamte sind dazu befugt Straßensperren zu errichten, um Unfälle oder notwendige Arbeiten auf der Straße abzusichern. Diese sind so schnell wie möglich wieder zu entfernen, um den fließenden Verkehr so wenig wie möglich zu behindern.
-(7). **Strafe verhängen**: Die Beamten der Bundespolizei und des Ordnungsamtes (Stadtverwaltung), haben die Befugnis gemäß des Gesetzbuches, Bußgelder und Haftstrafen zu erteilen und durchzusetzen, dabei gilt die StPO zu beachten. Beamten vom Deutschen Roten Kreuz und der Feuerwehr dürfen Bußgelder nach §10 StGB, §4 Abs. 3/7/8 StGB sowie dem BDG ausstellen. Die maximale Höhe der Hafteinheiten und Bußgelder sind im Bußgeldkatalog festgehalten und dürfen unter keinen Umständen höher als angegeben ausfallen. Eine Minderung des Strafmaß liegt im Ermessen des durchsetzenden Beamten.
+(7). **Strafe verhängen**: Die Beamten der Bundespolizei und des Ordnungsamtes (Stadtverwaltung), haben die Befugnis gemäß des Gesetzbuches, Bußgelder und Haftstrafen zu erteilen und durchzusetzen, dabei gilt die StPO zu beachten. Die maximale Höhe der Hafteinheiten und Bußgelder sind im Bußgeldkatalog festgehalten und dürfen unter keinen Umständen höher als angegeben ausfallen. Eine Minderung des Strafmaß liegt im Ermessen des durchsetzenden Beamten.
 (8). **Inhaftierung und Transport von Straftätern**: Um einen Straftäter zu inhaftieren, ist es essentiell diesem seine Rechte vorzulesen. Der Transport von Straftätern darf nur in den dafür vorgesehenen Fahrzeugen durchgeführt werden:
 
 a. Polizei Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
 b. Justiz Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
 
 (9). **Durchsetzen von Regierungsmaßnahmen**: Exekutivbeamte dürfen die nach [[§7 Abs. 1 StGB]] erlassenen Maßnahmen nur mit einem dafür ausgestellten, gültigen Dokument durchführen.
+
+## §3a Befugnisse eines Beamten
+
+(1). **Platzverweise**: Ein Beamter kann auf Grundstücken innerhalb seiner Zuständigkeit einzelne Personen oder Personengruppen, zeitlich des Platzes verweisen.
+(2). **Durchsuchen**: Beamte dürfen Personen und Fahrzeuge jederzeit durchsuchen, wenn mindestens einer der folgenden Punkte zutrifft:
+
+* Bei Bewusstlosen zur Identiätsfeststellung
+
+(3). **Hilfsmittel**: Beamte dürfen folgende Hilfsmittel während dem Dienst und im Fahrzeug während der Fahrt verwenden:
+
+* Telefon
+* Funkgerät
+* Navigationsgerät
+
+(4). **Sonder- und Wegerechte**: Eindeutig durch Einsatzbeleuchtung und Sirene kenntlich gemachte Fahrzeuge sowie Hubschrauber und Flugzeuge, welche von Beamten geführt werden, sind von der StVO befreit, müssen aber unter allen Umständen Gefahren für die Öffentlichkeit vermeiden.
+(5). **Straßensperren**: Beamte sind dazu befugt Straßensperren zu errichten, um Unfälle oder notwendige Arbeiten auf der Straße abzusichern. Diese sind so schnell wie möglich wieder zu entfernen, um den fließenden Verkehr so wenig wie möglich zu behindern.
+(6). **Strafe verhängen**: Beamten vom Deutschen Roten Kreuz und der Feuerwehr dürfen Bußgelder nach §10 StGB, §4 Abs. 3/7/8 StGB sowie dem BDG ausstellen. Die maximale Höhe der Hafteinheiten und Bußgelder sind im Bußgeldkatalog festgehalten und dürfen unter keinen Umständen höher als angegeben ausfallen. Eine Minderung des Strafmaß liegt im Ermessen des durchsetzenden Beamten.
+
 
 ## §4 Allgemeine Befugnisse eines Bundespolizei- und Zollbeamten
 (1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Polizeibeamter hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Polizei die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Revier, den Status ihrer Strafakte mitzuteilen.

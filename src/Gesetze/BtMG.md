@@ -8,6 +8,7 @@ icon: ':syringe:'
 # Betäubungsmittelgesetz (BtMG)
 
 ## §1 BtMG Besitz und Handel von Rauschmitteln
+
 (1). Jeglicher Besitz von folgenden Betäubungsmitteln ist verboten:
 
 a. Schlafmohn sowie Heroin,
@@ -16,6 +17,8 @@ c. Crotonöl sowie Tilidin,
 d. Cannabis daraus herstellbare Joints, Cookies und Brownies
 e. Schnaps sowie Rum.
 f. Seltsame Pilze
+g. Fentanyl (ausgenommen DRK im Dienst)
+h. Morphium (ausgenommen DRK im Dienst)
 
 (2). Der Anbau, das Ernten, das Verarbeiten sowie der Handel von Betäubungsmitteln aus [[§1 Abs. 1 BtMG]] ist verboten.
 
@@ -28,3 +31,14 @@ f. Seltsame Pilze
 (3). Ärzte und andere medizinische Fachkräfte dürfen Schmerzmittel und Opiate nur verschreiben, wenn sie der Überzeugung sind, dass dies im besten Interesse des Patienten liegt und sie alle notwendigen Vorkehrungen getroffen haben, um sicherzustellen, dass der Patient nicht von einer Abhängigkeit betroffen ist.
 
 (4). Die zuständigen Behörden haben das Recht, alle Apotheken und anderen zugelassenen Einrichtungen, die Schmerzmittel und Opiate verkaufen oder übertragen, zu überprüfen, um sicherzustellen, dass sie alle Vorschriften einhalten.
+
+## §3 Rezeptpflichtige Medikamente
+
+(1). Jeglicher Besitz, Handel und weitergabe von folgenden Arzneimittel ohne medizinische Verordnung (Rezept) ist verboten:
+
+a. Novalgin
+b. Ibuprofen 1000
+
+(2). Ärzte und andere medizinische Fachkräfte dürfen Arzneimittel nur verschreiben, wenn sie der Überzeugung sind, dass dies im besten Interesse des Patienten liegt und sie alle notwendigen Vorkehrungen getroffen haben, um sicherzustellen, dass der Patient nicht von einer Abhängigkeit betroffen ist.
+
+(3). Die zuständigen Behörden haben das Recht, alle Apotheken und anderen zugelassenen Einrichtungen, die Arzneimittel verkaufen oder übertragen, zu überprüfen, um sicherzustellen, dass sie alle Vorschriften einhalten.

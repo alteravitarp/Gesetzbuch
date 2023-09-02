@@ -8,9 +8,9 @@
     "watch": "retype watch"
   },
   "dependencies": {
-    "fs-extra": "^10.1.0",
-    "glob": "^8.0.3",
-    "retypeapp": "^3.1.0"
+    "fs-extra": "^11.1.1",
+    "glob": "^10.3.4",
+    "retypeapp": "^3.3.0"
   },
   "devDependencies": {},
   "eslintConfig": {},

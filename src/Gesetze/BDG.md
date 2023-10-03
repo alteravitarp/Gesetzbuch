@@ -88,7 +88,12 @@ b. Justiz Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
 
 (4). **Sonder- und Wegerechte**: Eindeutig durch Einsatzbeleuchtung und Sirene kenntlich gemachte Fahrzeuge sowie Hubschrauber und Flugzeuge, welche von Beamten geführt werden, sind von der StVO befreit, müssen aber unter allen Umständen Gefahren für die Öffentlichkeit vermeiden.
 (5). **Straßensperren**: Beamte sind dazu befugt Straßensperren zu errichten, um Unfälle oder notwendige Arbeiten auf der Straße abzusichern. Diese sind so schnell wie möglich wieder zu entfernen, um den fließenden Verkehr so wenig wie möglich zu behindern.
-(6). **Strafe verhängen**: Beamten vom Deutschen Roten Kreuz und der Feuerwehr dürfen Bußgelder nach §10 StGB, §4 Abs. 3/7/8 StGB sowie dem BDG ausstellen. Die maximale Höhe der Hafteinheiten und Bußgelder sind im Bußgeldkatalog festgehalten und dürfen unter keinen Umständen höher als angegeben ausfallen. Eine Minderung des Strafmaß liegt im Ermessen des durchsetzenden Beamten.
+
+## §3b Befugnisse eines Beamten des Rettungsdienst
+
+(1). **Resozialisierung**: Die ärztliche Direktion des Rettungsdienstes kann eine Resozialisierung für den Exekutivdienst durchführen und bescheinigen. Für die Resozialisierung sind die, mit der Bundespolizei abgestimmten, Bestimmungen zu befolgen.
+
+(2). **Strafe verhängen**: Beamten vom Deutschen Roten Kreuz und der Feuerwehr dürfen Bußgelder nach §10 StGB, §4 Abs. 3/7/8 StGB sowie dem BDG ausstellen. Die maximale Höhe der Hafteinheiten und Bußgelder sind im Bußgeldkatalog festgehalten und dürfen unter keinen Umständen höher als angegeben ausfallen. Eine Minderung des Strafmaß liegt im Ermessen des durchsetzenden Beamten.
 
 
 ## §4 Allgemeine Befugnisse eines Bundespolizei- und Zollbeamten
@@ -128,6 +133,9 @@ b. Präsident des Bundesnachrichtendienst
 _Wird gegen eines dieser Gesetze verstoßen, haftet die zuständige Personalabteilung oder die zuständige Führung der Organisation_
 
 (1). Für die Einstellung im Exekutiv-Dienst [[§1 Abs. 1a/b/f]](#1-gültigkeit) dürfen in den letzten 31 Tagen keine Straftaten (Ordnungswidrigkeiten ausgeschlossen) vorliegen.
-(2). Für die Einstellung im Exekutiv-Dienst [[§1 Abs. 1a/b]](#1-gültigkeit) darf zuletzt keine Zugehörigkeit zu einer kriminellen Organisation Aktenkundig sein. Ist die Zugehörigkeit älter als 3 Monate, verjährt diese.
+(2). Für die Einstellung im Exekutiv-Dienst [[§1 Abs. 1a/b]](#1-gültigkeit) darf zuletzt keine Zugehörigkeit zu einer kriminellen Organisation aktenkundig sein. Ist die Zugehörigkeit älter als 3 Monate, verjährt diese.
+
+a. Wurde durch den Rettungsdienst eine erfolgreiche Resozialisierung bescheinigt, kann eine Einstellung auch unabhängig der Zugehörigkeit stattfinden.
+
 (3). Für die Einstellung im Rettungsdienst [[§1 Abs. 1c/d]](#1-gültigkeit) dürfen in den letzten 14 Tagen keine Straftaten, die die körperliche Integrität einer dritten Person beeinträchtigten, vorliegen.
 (4). Um Straftaten nachzuweisen ist ein Führungszeugnis, welches von der Bundespolizei ausgestellt worden ist, notwendig. Eine Einstellung ohne Führungszeugnis ist unzulässig.

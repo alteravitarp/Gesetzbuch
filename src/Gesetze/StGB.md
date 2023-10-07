@@ -103,7 +103,7 @@ c. das Wissen über eine bevorstehende Straftat einer Dienststelle mitteilt, sod
 
 ## §7 StGB Staatsmaßnahmen
 
-(1). Der Bundespolizeipräsident kann folgende Maßnahmen erlassen bzw. durch die Sicherheitsbehörden ([[§1 Abs. 1a/b BDG]]) durchsetzen lassen:
+(1). Der Präsident der Bundesregierung kann folgende Maßnahmen erlassen bzw. durch die Sicherheitsbehörden ([[§1 Abs. 1a/b BDG]]) durchsetzen lassen:
 
 a. Personendurchsuchung: Erlaubt die Durchsuchung aller genannten Personen oder Personengruppen und die Sicherstellung von illegalen Gegenständen nach [[§1 Abs. 7 StGB]], [[§2 Abs. 3 StGB]] und [[§1 Abs. 1 BtMG]].
 b. Erweiterete Personendurchsuchung: Erlaubt die Durchsuchung/Sicherstellung nach (a.) sowie die Durchsuchung der Fahrzeuge und Firmen der genannten Personen oder Personengruppen.

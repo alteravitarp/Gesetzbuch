@@ -108,7 +108,7 @@ c. das Wissen über eine bevorstehende Straftat einer Dienststelle mitteilt, sod
 a. Personendurchsuchung: Erlaubt die Durchsuchung aller genannten Personen oder Personengruppen und die Sicherstellung von illegalen Gegenständen nach [[§1 Abs. 7 StGB]], [[§2 Abs. 3 StGB]] und [[§1 Abs. 1 BtMG]].
 b. Erweiterete Personendurchsuchung: Erlaubt die Durchsuchung/Sicherstellung nach (a.) sowie die Durchsuchung der Fahrzeuge und Firmen der genannten Personen oder Personengruppen.
 c. Durchsuchungsbefehl/Razziabeschluss: Erlaubt die Durchsuchung/Sicherstellung nach (a. und b.) sowie die Durchsuchung aller Räumlichkeiten, die sich im Besitz der genannten Personen oder Personengruppen befinden, sowie explizit erwähnte Räumlichkeiten.
-d. Ausgangssperre: Der Bundespolizeipräsident darf jederzeit eine Ausgangssperre erlassen. Dies ist ein Ausnahmezustand zum Schutz der Bevölkerung. Sämtlichen Bürgern ist es ohne Befugnis nicht erlaubt, ihr Privatgrundstück zu verlassen. Der Aufenthalt ist nur in einer Schutzzone (Würfelpark, Polizeirevier, Krankenhaus) oder auf Privatgrundstück gestattet. Jede Person außerhalb dieser Zonen müssen mit sofortiger Festnahme rechnen.
+d. Ausgangssperre: Der Bundespräsident darf jederzeit eine Ausgangssperre erlassen. Dies ist ein Ausnahmezustand zum Schutz der Bevölkerung. Sämtlichen Bürgern ist es ohne Befugnis nicht erlaubt, ihr Privatgrundstück zu verlassen. Der Aufenthalt ist nur in einer Schutzzone (Würfelpark, Polizeirevier, Krankenhaus) oder auf Privatgrundstück gestattet. Jede Person außerhalb dieser Zonen müssen mit sofortiger Festnahme rechnen.
 
 ## §8 StGB Amerikanisches Hoheitsgebiet
 

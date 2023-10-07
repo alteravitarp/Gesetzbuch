@@ -106,18 +106,19 @@ b. Justiz Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
 (1). Wegen einer mit Strafe bedrohten Handlung darf einer der in [[§5 Abs. 2 BDG]] genannten Staatsbeamten nicht zur Verantwortung gezogen oder verhaftet werden.
 (2). Folgende Mitarbeiter fallen unter das Immunitätsgesetz §5:
 
-a. Präsident der Bundespolizei (und deren Ehepartner)
-b. Präsident des Bundesnachrichtendienst
+a. Bundespräsident, sowie sein Ehepartner
+b. Minister der Bundesregierung
 
 (3). Jedes Verfahren gegen eine andere Person, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in [[§5 Abs. 2a/b]] genannten Staatsbeamten auszusetzen.
 (4). Ein in [[§5 Abs. 2a BDG]] genannter Staatsbeamte darf jederzeit die Immunität und Straffreiheit aus [[§5 Abs. 1 BDG]] und [[§5 Abs. 3 BDG]] aufheben.
 
-## §6 Allgemeine Befugnisse Beamten der Stadtverwaltung
-(1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Beamter des Finanz- und Gewerbeamt hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat das Finanz- und Gewerbeamt die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Amtsgebäude, den Status ihrer Strafakte mitzuteilen.
-(2). **Kontrollen und Überprüfungen von Gewerbetreibenden**: Beamte des Finanz- und Gewerbeamt dürfen im Rahmen der GewO Gewerbetreibende kontrollieren und bestrafen.
-(3). **Zugang zu Betriebsstätten**: Die Amtsleitung kann sich im Zusammenarbeit mit der Bundespolizei bzw. der Bundeszollverwaltung Zugang zur Betriebsstätte beschaffen, sollte die Kontrolle nach [[§6 Abs. 2 BDG]] im Zusammenhang mit [[§10 GewO]] nicht möglich sein.
-(4). **Schließung von Betriebsstätten**: Die Amtsleitung kann die Schließung (temporär oder dauerhaft) eines Betriebs anordnen, wenn dieses 10 oder mehr aktive Strikes gesammelt hat.
-(5). **Zahlungsverzug einer Gewerbes**: Die Amtsleitung kann den Zahlungsverzug eines Gewerbes nach [[§9 GewO]] anordnen.
+## §6 Allgemeine Befugnisse Beamten der Bundesregierung
+(1). **Auskunfts- und Identitätsprüfungsrecht**: Ein Beamter der Bundesregierung hat die Befugnis, staatlich ausgestellte Dokumente einer Person zu kontrollieren. Des Weiteren hat die Bundesregierung die Pflicht, den Bürgern, bei persönlicher Vorsprache und Anfrage im Amtsgebäude, den Status ihrer Strafakte mitzuteilen.
+(2). **Kontrollen und Überprüfungen von Gewerbetreibenden**: Beamte der Bundesregierung dürfen im Rahmen der GewO Gewerbetreibende kontrollieren und bestrafen.
+(3). **Zugang zu Betriebsstätten**: Die hohen Regierungsbeamten (Minister oder höher) können sich in der Zusammenarbeit mit der Bundespolizei bzw. der Bundeszollverwaltung Zugang zur Betriebsstätte beschaffen, sollte die Kontrolle nach [[§6 Abs. 2 BDG]] im Zusammenhang mit [[§10 GewO]] nicht möglich sein.
+(4). **Schließung von Betriebsstätten**: Die hohen Regierungsbeamten (Minister oder höher) können die Schließung (temporär oder dauerhaft) eines Betriebs anordnen, wenn dieses 10 oder mehr aktive Strikes gesammelt hat.
+(5). **Zahlungsverzug einer Gewerbes**: Die hohen Regierungsbeamten (Minister oder höher) können den Zahlungsverzug eines Gewerbes nach [[§9 GewO]] anordnen.
+(6). **Sanktionierung von Staatsbeamten**: Der Bundespräsident darf nach eigenem Ermessen Sanktionen, in den anderen unter [[§1 Abs. 1 BDG]] genannten Organisationen, aussprechen. Darunter fallen Bußgeld- und Haftstrafen, sowie Degradierungen und Kündigungen.
 
 ## §7 Allgemeine Befugnisse der Beamten während eines Ausnahmezustands.
 (1). Alle Mitarbeiter aus den Organisationen in [[§1 Abs. 1 a/b/c/d/f]](#1-gültigkeit) sind von allen Einschränkungen des Ausnahmezustandes befreit:

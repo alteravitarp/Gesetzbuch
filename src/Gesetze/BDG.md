@@ -118,7 +118,7 @@ b. Minister der Bundesregierung
 (3). **Zugang zu Betriebsstätten**: Die hohen Regierungsbeamten (Minister oder höher) können sich in der Zusammenarbeit mit der Bundespolizei bzw. der Bundeszollverwaltung Zugang zur Betriebsstätte beschaffen, sollte die Kontrolle nach [[§6 Abs. 2 BDG]] im Zusammenhang mit [[§10 GewO]] nicht möglich sein.
 (4). **Schließung von Betriebsstätten**: Die hohen Regierungsbeamten (Minister oder höher) können die Schließung (temporär oder dauerhaft) eines Betriebs anordnen, wenn dieses 10 oder mehr aktive Strikes gesammelt hat.
 (5). **Zahlungsverzug einer Gewerbes**: Die hohen Regierungsbeamten (Minister oder höher) können den Zahlungsverzug eines Gewerbes nach [[§9 GewO]] anordnen.
-(6). **Sanktionierung von Staatsbeamten**: Der Bundespräsident darf nach eigenem Ermessen Sanktionen, in den anderen unter [[§1 Abs. 1 BDG]] genannten Organisationen, aussprechen. Darunter fallen Bußgeld- und Haftstrafen, sowie Degradierungen und Kündigungen.
+(6). **Sanktionierung von Staatsbeamten**: Der Bundespräsident darf nach eigenem Ermessen Sanktionen, in den staatlichen Exekutivorganisationen, aussprechen. Darunter fallen Bußgeld- und Haftstrafen, sowie Degradierungen und Kündigungen.
 
 ## §7 Allgemeine Befugnisse der Beamten während eines Ausnahmezustands.
 (1). Alle Mitarbeiter aus den Organisationen in [[§1 Abs. 1 a/b/c/d/f]](#1-gültigkeit) sind von allen Einschränkungen des Ausnahmezustandes befreit:

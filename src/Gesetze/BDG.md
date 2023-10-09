@@ -106,8 +106,8 @@ b. Justiz Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
 (1). Wegen einer mit Strafe bedrohten Handlung darf einer der in [[§5 Abs. 2 BDG]] genannten Staatsbeamten nicht zur Verantwortung gezogen oder verhaftet werden.
 (2). Folgende Mitarbeiter fallen unter das Immunitätsgesetz §5:
 
-a. Bundeskanzler/Vizekanzler, sowie sein Ehepartner
-b. Minister der Bundesregierung
+a. Bundeskanzler, sein Ehepartner, sowie seine Amtsleitung
+b. Vizekanzler, sein Ehepartner, sowie seine Amtsleitung
 
 (3). Jedes Verfahren gegen eine andere Person, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in [[§5 Abs. 2a/b]] genannten Staatsbeamten auszusetzen.
 (4). Ein in [[§5 Abs. 2a BDG]] genannter Staatsbeamte darf jederzeit die Immunität und Straffreiheit aus [[§5 Abs. 1 BDG]] und [[§5 Abs. 3 BDG]] aufheben.

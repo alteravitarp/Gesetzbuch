@@ -12,7 +12,7 @@ icon: ':cop:'
 (1). Unter das Beamtendienstgesetz fallen alle Mitarbeiter der folgenden Organisationen
 
 a. :cop: Bundespolizei
-b. :cop: Bundeszollverwaltung <small>(teil der Bundespolizei)</small>
+b. :cop: Bundeszollverwaltung
 c. :health_worker: Deutsches Rotes Kreuz
 d. :firefighter: Berufsfeuerwehr <small>(teil des Deutschen Roten Kreuz)</small>
 e. :office_worker: Regierung

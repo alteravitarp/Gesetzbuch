@@ -106,7 +106,7 @@ b. Justiz Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
 (1). Wegen einer mit Strafe bedrohten Handlung darf einer der in [[§5 Abs. 2 BDG]] genannten Staatsbeamten nicht zur Verantwortung gezogen oder verhaftet werden.
 (2). Folgende Mitarbeiter fallen unter das Immunitätsgesetz §5:
 
-a. Bundespräsident, sowie sein Ehepartner
+a. Bundeskanzler/Vizekanzler, sowie sein Ehepartner
 b. Minister der Bundesregierung
 
 (3). Jedes Verfahren gegen eine andere Person, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in [[§5 Abs. 2a/b]] genannten Staatsbeamten auszusetzen.
@@ -118,7 +118,7 @@ b. Minister der Bundesregierung
 (3). **Zugang zu Betriebsstätten**: Die hohen Regierungsbeamten (Minister oder höher) können sich in der Zusammenarbeit mit der Bundespolizei bzw. der Bundeszollverwaltung Zugang zur Betriebsstätte beschaffen, sollte die Kontrolle nach [[§6 Abs. 2 BDG]] im Zusammenhang mit [[§10 GewO]] nicht möglich sein.
 (4). **Schließung von Betriebsstätten**: Die hohen Regierungsbeamten (Minister oder höher) können die Schließung (temporär oder dauerhaft) eines Betriebs anordnen, wenn dieses 10 oder mehr aktive Strikes gesammelt hat.
 (5). **Zahlungsverzug einer Gewerbes**: Die hohen Regierungsbeamten (Minister oder höher) können den Zahlungsverzug eines Gewerbes nach [[§9 GewO]] anordnen.
-(6). **Sanktionierung von Staatsbeamten**: Der Bundespräsident darf nach eigenem Ermessen Sanktionen, in den staatlichen Exekutivorganisationen, aussprechen. Darunter fallen Bußgeld- und Haftstrafen, sowie Degradierungen und Kündigungen.
+(6). **Sanktionierung von Staatsbeamten**: Der Bundeskanzler darf nach eigenem Ermessen Sanktionen, in den staatlichen Exekutivorganisationen, aussprechen. Darunter fallen Bußgeld- und Haftstrafen, sowie Degradierungen und Kündigungen.
 
 ## §7 Allgemeine Befugnisse der Beamten während eines Ausnahmezustands.
 (1). Alle Mitarbeiter aus den Organisationen in [[§1 Abs. 1 a/b/c/d/f]](#1-gültigkeit) sind von allen Einschränkungen des Ausnahmezustandes befreit:

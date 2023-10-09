@@ -15,7 +15,7 @@ a. :cop: Bundespolizei
 b. :cop: Bundeszollverwaltung <small>(teil der Bundespolizei)</small>
 c. :health_worker: Deutsches Rotes Kreuz
 d. :firefighter: Berufsfeuerwehr <small>(teil des Deutschen Roten Kreuz)</small>
-e. :office_worker: Stadtverwaltung
+e. :office_worker: Regierung
 f. :cop: Bundesnachrichtendienst
 
 (2). Im Falle einer Bedrohung muss das Überleben beteiligter Personen nach der folgenden Priorisierung sichergestellt werden:

@@ -84,35 +84,33 @@ Soll die gewerbliche Tätigkeit um einen lizenzpflichtigen Bereich erweitert wer
 
 | Lizenz / Erlaubnis            | Preis in € inkl. Steuern | Zahlungsintervall { class="compact thead--blue" } |
 | ----------------------------- | ------------------------ | ------------------------------------------------- |
-| Pacht                         | individuell              | 1 Woche                                           |
-| Grundsteuer                   | 30.000 €                 | 1 Woche                                           |
-| Gewerbeerlaubnis              | 22.500 €                 | 1 Woche                                           |
-| Werbelizenz                   | 22.500 €                 | 1 Woche                                           |
-| Ausschanklizenz               | 10.250 €                 | 1 Woche                                           |
-| Lebensmittelhändlerlizenz     | 12.250 €                 | 1 Woche                                           |
-| Künstlerlizenz                | 12.500 €                 | 1 Woche                                           |
-| Autohändlerlizenz             | 12.250 €                 | 1 Woche                                           |
-| Rohstoffhändlerlizenz         | 12.250 €                 | 1 Woche                                           |
-| Herstellungslizenz            | 7.500 €                  | 1 Woche                                           |
-| Veranstaltungserlaubnis       | 25.000 €                 | einmaliges Event                                  |
-| Veranstaltungslizenz          | 45.000 €                 | 1 Woche                                           |
-| Transportlizenz               | 10.000 €                 | 1 Woche                                           |
-| Transportlizenz für Gefahrgut | 27.500 €                 | 1 Woche                                           |
-| Personenbeförderungslizenz    | 9.750 €                  | 1 Woche                                           |
-| Architektenlizenz             | 50.000 €                 | 1 Woche                                           |
-| Werkstattlizenz               | 30.000 €                 | 1 Woche                                           |
-| KFZ-Sachverständiger Lizenz   | 10.000 €                 | 1 Woche                                           |
-
+| Pacht                         | individuell              | 1 Woche                                     |
+| Grundsteuer                   | 3.000 €                  | 1 Woche                                     |
+| Gewerbeerlaubnis              | 2.000 €                  | 1 Woche                                     |
+| Werbelizenz                   | 2.000 €                  | 1 Woche                                     |
+| Ausschanklizenz               | 1.500 €                  | 1 Woche                                     |
+| Lebensmittelhändlerlizenz     | 1.000 €                  | 1 Woche                                     |
+| Künstlerlizenz                | 1.000 €                  | 1 Woche                                     |
+| Autohändlerlizenz             | 1.000 €                  | 1 Woche                                     |
+| Rohstoffhändlerlizenz         | 1.000 €                  | 1 Woche                                     |
+| Herstellungslizenz            | 1.500 €                  | 1 Woche                                     |
+| Veranstaltungserlaubnis       | 5.000 €                  | einmaliges Event                            |
+| Veranstaltungslizenz          | 2.500 €                  | 1 Woche                                     |
+| Transportlizenz               | 1.000 €                  | 1 Woche                                     |
+| Transportlizenz für Gefahrgut | 5.500 €                  | 1 Woche                                     |
+| Architektenlizenz             | 15.000 €                 | 1 Woche                                     |
+| Werkstattlizenz               | 2.000 €                  | 1 Woche                                     |
+| KFZ-Sachverständiger Lizenz   | 1.000 €                  | 1 Woche                                     |
 
 !!!info
 **Rechnungsbeispiel für ein Unternehmen im Gastronomiebereich**
-- 1x Pacht mit 35.000 € pro Woche
-- 1x Gewerbeerlaubnis und Werbelizenz mit 80.000 € pro Woche
-- 1x Lebensmittelhändlerlizenz und Herstellungslizenz 19.750 €
+- 1x Pacht mit 10.000 € jede Woche
+- 1x Gewerbeerlaubnis und Werbelizenz mit 2.000 € jede Woche
+- 1x Lebensmittelhändlerlizenz und Herstellungslizenz 1.000 € jede Woche
 
-Die Kosten für ein solches Gewerbe wie einem Café, einem Restaurant oder Bar würde dann wöchentlich bei 134.750 € liegen. (539.000 € im Monat bzw. alle 4 Wochen).
+Die Kosten für ein solches Gewerbe wie einem Café, einem Restaurant oder Bar würde dann monatlich bei 13.000 € liegen.
 
-Hier kommt eine Ausschanklizenz mit 10.250 € pro Woche dazu, falls alkoholische Getränke angeboten werden.
+Hier kommt eine Ausschanklizenz mit 1.500 € jede Woche dazu, falls alkoholische Getränke angeboten werden.
 !!!
 
 ## §6 GewO Hygienemaßnahmen

@@ -18,14 +18,7 @@ d. :firefighter: Berufsfeuerwehr <small>(teil des Deutschen Roten Kreuz)</small>
 e. :office_worker: Regierung
 f. :cop: Bundesnachrichtendienst
 
-(2). Im Falle einer Bedrohung muss das Überleben beteiligter Personen nach der folgenden Priorisierung sichergestellt werden:
-
-a. Eigensicherung
-b. Sicherung andere Beamten
-c. Sicherung von Zivilisten
-d. Sicherung eventueller Straftäter
-
-(3). Beamte haben folgenden Diensteid zu leisten: "Ich gelobe, das Grundgesetz und alle in der Bundesrepublik Deutschland geltenden Gesetze zu wahren und meine Amtspflichten gewissenhaft zu erfüllen."
+(2). Beamte haben folgenden Diensteid zu leisten: "Ich gelobe, das Grundgesetz und alle in der Bundesrepublik Deutschland geltenden Gesetze zu wahren und meine Amtspflichten gewissenhaft zu erfüllen."
 
 ## §2 Pflichten aller Beamten
 
@@ -38,6 +31,12 @@ d. Sicherung eventueller Straftäter
 (7). **Professionalität**: Beamte sind dazu verpflichtet, ihre Arbeit immer professionell und behutsam durchzuführen.
 (8). **Unbestechlichkeit**: Beamten dürfen ihren Beruf nicht für kriminelle Zwecke ausnutzen, absichtlich gegen Geld Fehler machen oder andere, für Dritte gewinnbringende, Informationen weitergeben.
 (9). **Im Dienst des Staates**: Beamte müssen sich bei außerdienstlichen Aktivitäten ausstechen und außer Dienst gehen. Das bewusste Erschleichen von Leistungen durch Abwesenheit stellt einen Verstoß gegen das BDG dar und wird neben einer Suspendierung auch mit einem entsprechenden Bußgeld bestraft.
+(10). Im Falle einer Bedrohung muss das Überleben beteiligter Personen nach der folgenden Priorisierung sichergestellt werden:
+
+a. Eigensicherung
+b. Sicherung andere Beamten
+c. Sicherung von Zivilisten
+d. Sicherung eventueller Straftäter
 
 ## §3 Befugnisse eines Exekutivbeamtebeamten
 

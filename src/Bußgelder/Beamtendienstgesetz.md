@@ -54,6 +54,11 @@ order: 98
 §6 Abs. 1 BDG | Falschauskunft                                         | -      |             0 |                     25.000 €
 §6 Abs. 2 BDG | Ungerechtfertigte Bestrafung                           | -      |             0 |                    100.000 €
 
+## [§10 Hierarchie der Befugnisse ](../Gesetze/BDG.md#10-hierarchie-der-befugnisse )
+
+§10 BDG        | Hierarchie der Befugnisse            | Strafe | Hafteinheiten | Bußgeld  { class="compact thead--blue" }
+--------------|--------------------------------------------------------|--------|--------------:|----------------------------:
+§10 Abs. 1 BDG | Missachtung der Hierarchie                                         | Disziplinarverfahren      |             0 |                     200.000 €
 
 <style>
 .sidebar-right {

@@ -139,3 +139,14 @@ a. Wurde durch den Rettungsdienst eine erfolgreiche Resozialisierung bescheinigt
 
 (3). Für die Einstellung im Rettungsdienst [[§1 Abs. 1c/d]](#1-gültigkeit) dürfen in den letzten 14 Tagen keine Straftaten, die die körperliche Integrität einer dritten Person beeinträchtigten, vorliegen.
 (4). Um Straftaten nachzuweisen ist ein Führungszeugnis, welches von der Bundespolizei ausgestellt worden ist, notwendig. Eine Einstellung ohne Führungszeugnis ist unzulässig.
+
+## §10 Hierarchie der Befugnisse 
+
+(1) Allgemeine Überstellung von Mitarbeitern: Falls in den nachfolgenden Abschnitten einer Organisation die Befugnis zur Ausgabe von Anweisungen über andere Organisationen übertragen wird, erfolgt automatisch eine übergeordnete Zuordnung jedes Mitarbeiters dieser betreffenden Organisation zu Mitarbeitern anderer Organisationen, ungeachtet ihres Dienstrangs.
+
+(2) Allgemeine Befugnisse:
+a. Planbarer Einsatz: Bundeszollverwaltung
+b. Nicht-planbarer Einsatz: Bundespolizei
+c. Kein Einsatz: Bundesregierung
+
+(3) Übertragung von Befehlsgewalt: Die Befehlsgewalt kann durch die Einsatzleitung oder der jeweiligen Führung, der zuständigen Organisation, jederzeit an eine andere Organisation delegiert werden.
